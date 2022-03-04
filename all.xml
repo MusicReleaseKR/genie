@@ -4,9 +4,81 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 02:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 03:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[It's all done (지니 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82560445</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82560445</guid>
+            <pubDate>Fri, 04 Mar 2022 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[COCONA]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/560/445/82560445_1646359920610_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Bam Bam (지니 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82553768</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82553768</guid>
+            <pubDate>Fri, 04 Mar 2022 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[Camila Cabello]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/553/768/82553768_1645746030600_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[EROS (지니 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82566069</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82566069</guid>
+            <pubDate>Fri, 04 Mar 2022 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[ABOUT (어바웃)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/566/069/82566069_1646300793948_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Q&A (지니 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82565895</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82565895</guid>
+            <pubDate>Fri, 04 Mar 2022 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[오소연]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/565/895/82565895_1646358768335_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[국가가 부른다 Part3 (지니 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82565932</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82565932</guid>
+            <pubDate>Fri, 04 Mar 2022 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/565/932/82565932_1646297909630_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[duL (지니 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82565601</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82565601</guid>
+            <pubDate>Fri, 04 Mar 2022 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[라노 (LLANO)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/565/601/82565601_1646277332701_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[끝을 모를텐데 (지니 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82563608</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82563608</guid>
+            <pubDate>Fri, 04 Mar 2022 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[The Paradice]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/563/608/82563608_1646280345454_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Satisfied (지니 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82565708</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82565708</guid>
+            <pubDate>Fri, 04 Mar 2022 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[신스틸러 (Sinstealer)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/565/708/82565708_1646286966863_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Don't Leave Me (지니 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82565887</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82565887</guid>
+            <pubDate>Fri, 04 Mar 2022 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[NONE]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/565/887/82565887_1646297541933_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Always here (지니 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82565302</link>
@@ -94,78 +166,6 @@
             <pubDate>Thu, 03 Mar 2022 09:20:37 GMT</pubDate>
             <content:encoded><![CDATA[C JAMM]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/565/754/82565754_1646286139323_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[소금비 (Prod. By Alfie Hole) (지니 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82560021</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82560021</guid>
-            <pubDate>Thu, 03 Mar 2022 10:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[sogumm &amp; 임금비]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/560/021/82560021_1646272090247_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[아무일도 (지니 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82553034</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82553034</guid>
-            <pubDate>Thu, 03 Mar 2022 09:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[LOGI (로기)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/553/034/82553034_1646294646021_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 (지니 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82554111</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82554111</guid>
-            <pubDate>Thu, 03 Mar 2022 03:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[조충현]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/554/111/82554111_1646273180964_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Easy come, Easy go (지니 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82560431</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82560431</guid>
-            <pubDate>Thu, 03 Mar 2022 03:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[제인스 (Jayins)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/560/431/82560431_1646202389262_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[강강술래 (Alok Remix) (지니 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82564156</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82564156</guid>
-            <pubDate>Thu, 03 Mar 2022 03:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[Alok &amp; 김준수 &amp; 손승연]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/564/156/82564156_1646210627038_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[노력하려고 (지니 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82560140</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82560140</guid>
-            <pubDate>Thu, 03 Mar 2022 03:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[옐 (YEL)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/560/140/82560140_1646271095186_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[5LYF (지니 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82564365</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82564365</guid>
-            <pubDate>Thu, 03 Mar 2022 03:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[YTC4LYF]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/564/365/82564365_1646209635276_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 다시 시작할 수 없을까 (지니 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82560008</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82560008</guid>
-            <pubDate>Thu, 03 Mar 2022 03:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[옌 (YEN)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/560/008/82560008_1646270880811_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[태양을 맞으러 (지니 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82554729</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82554729</guid>
-            <pubDate>Thu, 03 Mar 2022 03:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[김민규 (델리스파이스, 스위트피)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/554/729/82554729_1646272859212_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
