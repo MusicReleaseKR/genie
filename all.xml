@@ -4,9 +4,57 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 02:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 03:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Daisy (지니 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82564150</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82564150</guid>
+            <pubDate>Sat, 05 Mar 2022 03:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[에이민 &amp; ILYS]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/564/150/82564150_1646371835394_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[(Vol.127) 유희열의 스케치북 With you : 여든 두번째 목소리 '유스케 X 이무진' (지니 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82567491</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82567491</guid>
+            <pubDate>Sat, 05 Mar 2022 03:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[이무진]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/567/491/82567491_1646376394553_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Lonely Life on Earth (지니 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82567555</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82567555</guid>
+            <pubDate>Sat, 05 Mar 2022 03:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[마커스 웨이 (Marcus Way)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/567/555/82567555_1646377461726_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[아직 최선을 다하지 않았을 뿐 OST Part.3 (지니 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82567505</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82567505</guid>
+            <pubDate>Sat, 05 Mar 2022 03:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[윤딴딴]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/567/505/82567505_1646376603673_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[결혼작사 이혼작곡 3 Part 2 (지니 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82567953</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82567953</guid>
+            <pubDate>Sat, 05 Mar 2022 03:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[정유지 (유지)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/567/953/82567953_1646375427683_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Not like him (지니 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82466550</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82466550</guid>
+            <pubDate>Sat, 05 Mar 2022 03:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[DJ Sparrow]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/466/550/82466550_1646448689665_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[스트릿 맨 파이터 (SMF) Original Vol.1 (지니 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82567164</link>
@@ -118,54 +166,6 @@
             <pubDate>Fri, 04 Mar 2022 03:18:35 GMT</pubDate>
             <content:encoded><![CDATA[ABOUT (어바웃)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/566/069/82566069_1646300793948_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Q&A (지니 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82565895</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82565895</guid>
-            <pubDate>Fri, 04 Mar 2022 03:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[오소연]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/565/895/82565895_1646358768335_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[국가가 부른다 Part3 (지니 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82565932</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82565932</guid>
-            <pubDate>Fri, 04 Mar 2022 03:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/565/932/82565932_1646297909630_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[duL (지니 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82565601</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82565601</guid>
-            <pubDate>Fri, 04 Mar 2022 03:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[라노 (LLANO)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/565/601/82565601_1646277332701_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[끝을 모를텐데 (지니 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82563608</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82563608</guid>
-            <pubDate>Fri, 04 Mar 2022 03:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[The Paradice]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/563/608/82563608_1646280345454_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Satisfied (지니 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82565708</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82565708</guid>
-            <pubDate>Fri, 04 Mar 2022 03:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[신스틸러 (Sinstealer)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/565/708/82565708_1646286966863_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Don't Leave Me (지니 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82565887</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82565887</guid>
-            <pubDate>Fri, 04 Mar 2022 03:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[NONE]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/565/887/82565887_1646297541933_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
