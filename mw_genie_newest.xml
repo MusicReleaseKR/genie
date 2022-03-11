@@ -4,7 +4,7 @@
         <title>지니 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 04:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 05:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 11 Mar 2022 03:17:51 GMT</pubDate>
             <content:encoded><![CDATA[League of Legends &amp; League of Legends: Wild Rift &amp; 킬링벌's]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/574/979/82574979_1646896737938_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Sweetest Pie]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82576141</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82576141</guid>
+            <pubDate>Fri, 11 Mar 2022 05:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[Megan Thee Stallion &amp; Dua Lipa]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/576/141/82576141_1646772927689_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[iPad]]></title>
@@ -38,14 +46,6 @@
             <pubDate>Fri, 11 Mar 2022 03:17:51 GMT</pubDate>
             <content:encoded><![CDATA[차소연]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/578/278/82578278_1646960434221_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[국가가 부른다 Part4]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82578588</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82578588</guid>
-            <pubDate>Fri, 11 Mar 2022 03:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/578/588/82578588_1646960126876_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[늙은 개, 늑대 개]]></title>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 11 Mar 2022 03:17:51 GMT</pubDate>
             <content:encoded><![CDATA[윤원]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/573/988/82573988_1646965461707_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Hooked]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82578479</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82578479</guid>
+            <pubDate>Fri, 11 Mar 2022 05:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[moony]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/578/479/82578479_1646883934843_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[너머 (The Other Side)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 10 Mar 2022 03:19:59 GMT</pubDate>
             <content:encoded><![CDATA[헤온 (Heon)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/573/428/82573428_1646877212919_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌레시피 OST Special]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82575400</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82575400</guid>
-            <pubDate>Thu, 10 Mar 2022 03:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[문종업 &amp; 켄타 &amp; 소희 &amp; 우희 &amp; 유호연 (느와르) &amp; 나현]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/575/400/82575400_1646875225562_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
