@@ -1,5 +1,5 @@
 [mw_genie_newest]
-title = "지니 ─ 최신음악"
+title = "지니 모바일 ─ 최신음악"
 url = "http://mw.genie.co.kr/newest"
 entrySelector = "ul.list-album li"
 titleSelector = "a div.info p.album-title.ellipsis"
