@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 13:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 14:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Thu, 17 Mar 2022 09:20:21 GMT</pubDate>
             <content:encoded><![CDATA[윤비 (YunB)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/579/002/82579002_1647497489440_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[오래오래 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82583922</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82583922</guid>
-            <pubDate>Thu, 17 Mar 2022 09:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[Se.A (세아)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/583/922/82583922_1647485766848_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[비구름 (지니 모바일 ─ 최신음악)]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 17 Mar 2022 03:17:42 GMT</pubDate>
             <content:encoded><![CDATA[dontworryanu (돈워리아누)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/587/882/82587882_1647420745310_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[My Love is Pain (웹툰 '죽음 대신 결혼' X 매드클라운 & Sondia) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82589349</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82589349</guid>
+            <pubDate>Thu, 17 Mar 2022 14:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[매드클라운 (Mad Clown) &amp; Sondia]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/589/349/82589349_1647408696180_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
