@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 10:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 11:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/593/240/82593240_1647588459866_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[내 전부였던 니가 떠나갔다 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82586151</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82586151</guid>
-            <pubDate>Sat, 19 Mar 2022 09:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[정창룡]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/586/151/82586151_1647583775979_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[거짓말 하는 법 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82591941</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82591941</guid>
             <pubDate>Sat, 19 Mar 2022 09:15:09 GMT</pubDate>
             <content:encoded><![CDATA[피아노맨 &amp; 견우 (Kyunwoo)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/591/941/82591941_1647589989623_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[내 전부였던 니가 떠나갔다 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82586151</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82586151</guid>
+            <pubDate>Sat, 19 Mar 2022 09:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[정창룡]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/586/151/82586151_1647583775979_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[직진 고백 (엉덩이가 잘못했네 X 정유진, 수진) (지니 모바일 ─ 최신음악)]]></title>
@@ -70,6 +70,14 @@
             <pubDate>Sat, 19 Mar 2022 09:15:09 GMT</pubDate>
             <content:encoded><![CDATA[초이 (CHOI) &amp; 그네]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/591/361/82591361_1647583332204_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[＜불후의 명곡＞ - 아티스트 김창완 편 1부 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82593408</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82593408</guid>
+            <pubDate>Sat, 19 Mar 2022 11:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/593/408/82593408_1647591062257_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Back Home (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 18 Mar 2022 09:18:08 GMT</pubDate>
             <content:encoded><![CDATA[그_냥]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/590/003/82590003_1647577306656_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[황금마차 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82589614</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82589614</guid>
-            <pubDate>Fri, 18 Mar 2022 09:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[IGNITO (이그니토)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/589/614/82589614_1647503657363_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
