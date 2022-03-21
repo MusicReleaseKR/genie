@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 05:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 06:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/578/758/82578758_1646894426590_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[NURNBERG (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82598785</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82598785</guid>
-            <pubDate>Mon, 21 Mar 2022 03:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[셔츠 보이 프랭크 (SHIRTS BOY FRANK)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/598/785/82598785_1647825626790_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[NSQG 2 - The Other Side (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82443257</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82443257</guid>
             <pubDate>Mon, 21 Mar 2022 03:23:59 GMT</pubDate>
             <content:encoded><![CDATA[존 노]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/443/257/82443257_1647830670500_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[NURNBERG (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82598785</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82598785</guid>
+            <pubDate>Mon, 21 Mar 2022 03:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[셔츠 보이 프랭크 (SHIRTS BOY FRANK)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/598/785/82598785_1647825626790_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[그대, 고마웠어요 (N번째 연애 X 강하루) (지니 모바일 ─ 최신음악)]]></title>
