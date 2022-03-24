@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 23:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 01:06:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/599/097/82599097_1647937381366_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[투트랙 프로젝트 Vol.1]]></title>
+            <title><![CDATA[연대기]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82601112</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82601112</guid>
             <pubDate>Wed, 23 Mar 2022 09:36:09 GMT</pubDate>
