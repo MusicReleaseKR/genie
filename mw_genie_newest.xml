@@ -4,9 +4,65 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 08:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 09:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[길었던 겨울]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82604636</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82604636</guid>
+            <pubDate>Sun, 27 Mar 2022 09:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[Way Ched (웨이체드) &amp; unofficialboyy]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/604/636/82604636_1648187372436_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[스물다섯 스물하나 OST Part 9]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82604901</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82604901</guid>
+            <pubDate>Sun, 27 Mar 2022 09:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[설호승 (SURL)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/604/901/82604901_1648114226964_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[멀어진 만큼 (Distance)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82606012</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82606012</guid>
+            <pubDate>Sun, 27 Mar 2022 09:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[Standing Egg (스탠딩 에그)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/606/012/82606012_1648189657956_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[기상청 사람들 : 사내연애 잔혹사 편 OST Part.8]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82606016</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82606016</guid>
+            <pubDate>Sun, 27 Mar 2022 09:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[기리보이]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/606/016/82606016_1648190032272_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[나에게로 떠나는 여행]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82606113</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82606113</guid>
+            <pubDate>Sun, 27 Mar 2022 09:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[아이즈 (IZ)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/606/113/82606113_1648188863784_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[마트리카리아]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82603049</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82603049</guid>
+            <pubDate>Sun, 27 Mar 2022 09:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[랄랄 &amp; APONIX (아포닉스)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/603/049/82603049_1648190227904_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[냉장고를 부탁해]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82604344</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82604344</guid>
+            <pubDate>Sun, 27 Mar 2022 09:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[이츠허밍]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/604/344/82604344_1648191778007_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[안녕, 나의 첫사랑]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82604320</link>
@@ -110,62 +166,6 @@
             <pubDate>Sat, 26 Mar 2022 09:14:48 GMT</pubDate>
             <content:encoded><![CDATA[김미정]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/601/041/82601041_1648185720657_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[비긴어게인 오픈마이크 EPISODE. 31]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82604729</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82604729</guid>
-            <pubDate>Sat, 26 Mar 2022 09:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[원필 (DAY6) &amp; 정석훈 &amp; 김준서]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/604/729/82604729_1648174847597_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[면회 한 번 와줄래]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82604819</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82604819</guid>
-            <pubDate>Sat, 26 Mar 2022 09:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[이진재]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/604/819/82604819_1648184608798_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[My Land (Prod. by Yammo)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82602772</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82602772</guid>
-            <pubDate>Sat, 26 Mar 2022 09:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[Uno (우노)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/602/772/82602772_1648178252259_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Mood & Delusional Character]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82604251</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82604251</guid>
-            <pubDate>Sat, 26 Mar 2022 09:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[명이월 (Myeong E-Wol)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/604/251/82604251_1648191125991_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[구원 (救援)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82603172</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82603172</guid>
-            <pubDate>Sat, 26 Mar 2022 09:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[yosi]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/603/172/82603172_1648192743067_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Ooh Ooh]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82599307</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82599307</guid>
-            <pubDate>Fri, 25 Mar 2022 09:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[THAMA]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/599/307/82599307_1648184152111_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[(Vol.130) 유희열의 스케치북 With you : 여든 네번째 목소리 '유스케 X 규현']]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82605931</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82605931</guid>
-            <pubDate>Sat, 26 Mar 2022 03:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[규현 (KYUHYUN)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/605/931/82605931_1648185791810_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
