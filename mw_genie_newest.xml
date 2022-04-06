@@ -4,9 +4,65 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 08:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 09:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Viva La Vida]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82624247</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82624247</guid>
+            <pubDate>Wed, 06 Apr 2022 09:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[홍진영]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/624/247/82624247_1649222220032_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Love beyond words (DOKO X soundtrack#1)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82626307</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82626307</guid>
+            <pubDate>Wed, 06 Apr 2022 09:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[DOKO (도코)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/626/307/82626307_1649228469319_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[정릉]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82626114</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82626114</guid>
+            <pubDate>Wed, 06 Apr 2022 09:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[곽진언]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/626/114/82626114_1649221403888_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[우리들 : Riddle]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82624897</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82624897</guid>
+            <pubDate>Wed, 06 Apr 2022 09:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[Milena (밀레나)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/624/897/82624897_1649224904924_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[천일홍]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82626309</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82626309</guid>
+            <pubDate>Wed, 06 Apr 2022 09:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[조현영]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/626/309/82626309_1649223636410_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Lazy]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82624951</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82624951</guid>
+            <pubDate>Wed, 06 Apr 2022 09:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[SIM2]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/624/951/82624951_1649226227781_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[night night !]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82626319</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82626319</guid>
+            <pubDate>Wed, 06 Apr 2022 09:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[chilloud &amp; Lil Kirby &amp; Lil Kintexx &amp; Yaon &amp; Qka &amp; MaxOTT]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/626/319/82626319_1649210464505_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[끊기 싫어 버티는 네가 좋아]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82626571</link>
@@ -110,62 +166,6 @@
             <pubDate>Tue, 05 Apr 2022 20:18:08 GMT</pubDate>
             <content:encoded><![CDATA[홍이삭]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/616/077/82616077_1649133644549_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[LOVE DIVE]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82624363</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82624363</guid>
-            <pubDate>Tue, 05 Apr 2022 20:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[IVE (아이브)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/624/363/82624363_1649123068092_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[SUːM TIMES]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82624386</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82624386</guid>
-            <pubDate>Tue, 05 Apr 2022 20:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[딕펑스 (Dickpunks)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/624/386/82624386_1649136148605_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[레전드 듀엣 프로젝트 첫번째]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82624236</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82624236</guid>
-            <pubDate>Tue, 05 Apr 2022 20:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[별 &amp; 나윤권]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/624/236/82624236_1649121902231_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[위로]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82624721</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82624721</guid>
-            <pubDate>Tue, 05 Apr 2022 20:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[siso (시소)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/624/721/82624721_1649124837356_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[용기]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82619340</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82619340</guid>
-            <pubDate>Tue, 05 Apr 2022 20:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[호소 (Ho So)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/619/340/82619340_1649122294069_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[N]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82624884</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82624884</guid>
-            <pubDate>Tue, 05 Apr 2022 20:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[Sumsher (숨셔)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/624/884/82624884_1649135139599_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[혼자 (ALONE)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82624949</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82624949</guid>
-            <pubDate>Tue, 05 Apr 2022 20:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[다민이 (DAMINI)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/624/949/82624949_1649122323573_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
