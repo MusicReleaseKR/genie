@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 09:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/624/897/82624897_1649224904924_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[천일홍 (지니 모바일 ─ 최신음악)]]></title>
+            <title><![CDATA[Amaranth (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82626309</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82626309</guid>
             <pubDate>Wed, 06 Apr 2022 09:20:54 GMT</pubDate>
