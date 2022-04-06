@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 05:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 06:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -140,7 +140,7 @@
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82624721</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82624721</guid>
             <pubDate>Tue, 05 Apr 2022 20:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[siso]]></content:encoded>
+            <content:encoded><![CDATA[siso (시소)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/624/721/82624721_1649124837356_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
