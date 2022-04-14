@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 03:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 04:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Thu, 14 Apr 2022 03:04:48 GMT</pubDate>
             <content:encoded><![CDATA[메리메리서울 (MerryMerrySeoul)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/636/202/82636202_1649836526703_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[교생쌤 (2022)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82627952</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82627952</guid>
+            <pubDate>Thu, 14 Apr 2022 04:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[앤씨아]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/627/952/82627952_1649653836056_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[TOO MUCH]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 13 Apr 2022 09:19:47 GMT</pubDate>
             <content:encoded><![CDATA[전현재]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/633/762/82633762_1649822523305_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Drop The Bit (드랍 더 비트) The 3rd round part 1]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82630649</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82630649</guid>
-            <pubDate>Wed, 13 Apr 2022 09:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/630/649/82630649_1649826476153_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
