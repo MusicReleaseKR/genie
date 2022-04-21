@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 04:43:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 05:35:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/639/857/82639857_1650019227441_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[LOVE PROCESS ［1막 : 위(危)］ 여자이야기 (지니 모바일 ─ 최신음악)]]></title>
+            <title><![CDATA[LOVE PROCESS ［1막 : 위 (危)］ 여자이야기 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82648211</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82648211</guid>
             <pubDate>Thu, 21 Apr 2022 03:26:35 GMT</pubDate>
