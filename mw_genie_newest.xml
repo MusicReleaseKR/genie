@@ -4,9 +4,73 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 08:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 09:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[My Precious]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82656692</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82656692</guid>
+            <pubDate>Mon, 25 Apr 2022 09:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[JK 김동욱]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/656/692/82656692_1650872802119_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 월간 윤종신 4월호]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82656356</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82656356</guid>
+            <pubDate>Mon, 25 Apr 2022 09:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[윤종신]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/656/356/82656356_1650871229229_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[손편지]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82652100</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82652100</guid>
+            <pubDate>Mon, 25 Apr 2022 09:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[정동원 (Jeong Dong Won)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/652/100/82652100_1650854527970_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[DECRESCENDO]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82651845</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82651845</guid>
+            <pubDate>Mon, 25 Apr 2022 09:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[ChangJo]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/651/845/82651845_1650868121986_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[highway love]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82651511</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82651511</guid>
+            <pubDate>Mon, 25 Apr 2022 09:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[polar (폴라)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/651/511/82651511_1650593731075_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[SERIES 'O'［ROUND 3 : WHOLE］]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82656290</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82656290</guid>
+            <pubDate>Mon, 25 Apr 2022 09:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[VERIVERY]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/656/290/82656290_1650856629055_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[언제든 기대요]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82656590</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82656590</guid>
+            <pubDate>Mon, 25 Apr 2022 09:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[타코 (Tako)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/656/590/82656590_1650875136790_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Mo Famous]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82652212</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82652212</guid>
+            <pubDate>Mon, 25 Apr 2022 09:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[노윤하 &amp; 유명한아이]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/652/212/82652212_1650855274210_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[우리들의 블루스 OST Part 4]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82650152</link>
@@ -102,70 +166,6 @@
             <pubDate>Mon, 25 Apr 2022 03:12:17 GMT</pubDate>
             <content:encoded><![CDATA[태진아]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/651/989/82651989_1650849060720_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[살기 위해서]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82631752</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82631752</guid>
-            <pubDate>Sun, 24 Apr 2022 09:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[순순희]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/631/752/82631752_1650601078032_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 해방일지 OST Part 5]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82650222</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82650222</guid>
-            <pubDate>Sun, 24 Apr 2022 09:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[하현상]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/650/222/82650222_1650529854037_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[자가격리]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82651680</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82651680</guid>
-            <pubDate>Sun, 24 Apr 2022 09:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[릴러말즈 (Leellamarz) &amp; TOIL]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/651/680/82651680_1650612355548_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 X에게]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82651870</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82651870</guid>
-            <pubDate>Sun, 24 Apr 2022 09:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[경서]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/651/870/82651870_1650613662156_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[먼 곳만 보네요]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82651539</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82651539</guid>
-            <pubDate>Sun, 24 Apr 2022 09:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[투앤비]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/651/539/82651539_1650607907279_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[오션라이크미 OST Part.1]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82648343</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82648343</guid>
-            <pubDate>Sun, 24 Apr 2022 09:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[Holland]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/648/343/82648343_1650525839960_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[덮어둘거야]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82651338</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82651338</guid>
-            <pubDate>Sun, 24 Apr 2022 09:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[빈센트블루]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/651/338/82651338_1650604523020_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[I'LL BE THERE (지금부터, 쇼타임! X 안다은)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82651578</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82651578</guid>
-            <pubDate>Sun, 24 Apr 2022 09:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[안다은]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/651/578/82651578_1650613892448_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
