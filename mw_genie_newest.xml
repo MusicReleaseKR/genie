@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 09:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 10:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/552/226/82552226_1651110522138_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[아저씨. 마술을 믿으세요? (안나라수마나라 OST)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82660480</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82660480</guid>
+            <pubDate>Thu, 28 Apr 2022 09:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[지창욱 &amp; 최성은]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/660/480/82660480_1651125656002_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[너였나 봐 (손효규 x 썸 플레이리스트)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82660171</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82660171</guid>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Apr 2022 09:24:23 GMT</pubDate>
             <content:encoded><![CDATA[보이 브라운 (Boi Brown)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/660/788/82660788_1651047355857_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[아저씨. 마술을 믿으세요? (안나라수마나라 OST)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82660480</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82660480</guid>
-            <pubDate>Thu, 28 Apr 2022 09:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[지창욱 &amp; 최성은]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/660/480/82660480_1651125656002_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Nonstop]]></title>
