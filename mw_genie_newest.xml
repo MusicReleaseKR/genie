@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 01:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 02:48:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,7 +104,7 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/668/950/82668950_1651822026645_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Y.N.C ［해적 (Pirates)］]]></title>
+            <title><![CDATA[Y.N.C ［해적 (Pirate)］]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82677139</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82677139</guid>
             <pubDate>Mon, 09 May 2022 03:19:53 GMT</pubDate>
