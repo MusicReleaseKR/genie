@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 03:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 04:57:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 27 May 2022 03:25:34 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/711/653/82711653_1653550574761_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[SEVENTEEN 4th Album 'Face the Sun' (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82639088</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82639088</guid>
+            <pubDate>Fri, 27 May 2022 04:57:48 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴 (SEVENTEEN)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/639/088/82639088_1653623843808_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Potion (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 26 May 2022 09:18:02 GMT</pubDate>
             <content:encoded><![CDATA[Pink Sweat$ &amp; P1Harmony]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/709/135/82709135_1653458730150_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[그때, 우린 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82709255</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82709255</guid>
-            <pubDate>Thu, 26 May 2022 09:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[김용준]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/709/255/82709255_1653544311081_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
