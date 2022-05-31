@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 04:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 05:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -133,7 +133,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82714058</guid>
             <pubDate>Mon, 30 May 2022 09:19:37 GMT</pubDate>
             <content:encoded><![CDATA[정유진]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/714/058/82714058_1653873914303_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/714/058/82714058_1653973326520_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Lucky Charms! (지니 모바일 ─ 최신음악)]]></title>
