@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 14:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 15:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 07 Jun 2022 09:16:15 GMT</pubDate>
             <content:encoded><![CDATA[크루셜스타 (CRUCiAL STAR)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/727/650/82727650_1654569201771_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[A Kind Of Magic – Coke Studio Session (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82736285</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82736285</guid>
+            <pubDate>Tue, 07 Jun 2022 15:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/736/285/82736285_1654579263922_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[여기까지 해요 (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 06 Jun 2022 09:15:48 GMT</pubDate>
             <content:encoded><![CDATA[손동운]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/727/374/82727374_1654244305490_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[BOYHOOD I S#1 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82727585</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82727585</guid>
-            <pubDate>Mon, 06 Jun 2022 09:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[APR PROJECT]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/727/585/82727585_1654248098235_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
