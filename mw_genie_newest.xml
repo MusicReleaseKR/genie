@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 03:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 04:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 10 Jun 2022 03:20:15 GMT</pubDate>
             <content:encoded><![CDATA[WOODZ (조승연)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/743/201/82743201_1654762024473_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Proof]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82746162</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82746162</guid>
+            <pubDate>Fri, 10 Jun 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/746/162/82746162_1654826016759_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Cash In Cash Out]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Jun 2022 09:17:33 GMT</pubDate>
             <content:encoded><![CDATA[SURYEON]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/740/028/82740028_1654665045726_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[파동]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82736753</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82736753</guid>
-            <pubDate>Thu, 09 Jun 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[초이 (CHOI) &amp; 그네]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/736/753/82736753_1654740516505_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
