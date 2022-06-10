@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 11:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 12:33:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,7 +76,7 @@
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82733948</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82733948</guid>
             <pubDate>Fri, 10 Jun 2022 03:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[Pharrell]]></content:encoded>
+            <content:encoded><![CDATA[Pharrell Williams]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/733/948/82733948_1654538442165_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
