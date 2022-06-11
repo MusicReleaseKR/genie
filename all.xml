@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 09:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 10:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 11 Jun 2022 09:14:58 GMT</pubDate>
             <content:encoded><![CDATA[찬희 (SF9) &amp; 휘영 (SF9) &amp; 강민아]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/740/329/82740329_1654766065818_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[메이플스토리 : IGNITION (Original Game Soundtrack) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82736394</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82736394</guid>
+            <pubDate>Sat, 11 Jun 2022 10:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[국카스텐]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/736/394/82736394_1654580426787_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[WAKE UP (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 11 Jun 2022 03:17:49 GMT</pubDate>
             <content:encoded><![CDATA[나태주]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/746/044/82746044_1654846585180_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[폭 발! (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82743082</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82743082</guid>
-            <pubDate>Fri, 10 Jun 2022 09:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[황지상 (HWANG JI SANG)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/743/082/82743082_1654762371740_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
