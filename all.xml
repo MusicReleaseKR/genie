@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 09:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 10:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/759/740/82759740_1655262027177_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[Seven, (Prologue) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82759590</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82759590</guid>
+            <pubDate>Thu, 16 Jun 2022 09:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[임재범]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/759/590/82759590_1655357213450_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[모르는 법 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82759925</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82759925</guid>
@@ -54,14 +62,6 @@
             <pubDate>Thu, 16 Jun 2022 09:16:57 GMT</pubDate>
             <content:encoded><![CDATA[YELO (옐로)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/760/139/82760139_1655284702823_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Seven, (Prologue) (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82759590</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82759590</guid>
-            <pubDate>Thu, 16 Jun 2022 09:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[임재범]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/759/590/82759590_1655357213450_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[어제의 (지니 모바일 ─ 최신음악)]]></title>
