@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 03:41:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 04:37:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,36 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/758/465/82758465_1655962517994_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[Left and Right (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82777117</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82777117</guid>
+            <pubDate>Fri, 24 Jun 2022 04:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[Charlie Puth &amp; 정국 &amp; 방탄소년단]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/777/117/82777117_1655825727342_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[IM NAYEON (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82781282</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82781282</guid>
+            <pubDate>Fri, 24 Jun 2022 04:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[나연 (TWICE)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/781/282/82781282_1656034600098_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[Superache (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82635779</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82635779</guid>
             <pubDate>Fri, 24 Jun 2022 03:41:39 GMT</pubDate>
             <content:encoded><![CDATA[Conan Gray]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/635/779/82635779_1655972137283_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Life's Too Short (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82781190</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82781190</guid>
+            <pubDate>Fri, 24 Jun 2022 04:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[aespa]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/781/190/82781190_1656032945911_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Give Or Take (지니 모바일 ─ 최신음악)]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 23 Jun 2022 09:16:20 GMT</pubDate>
             <content:encoded><![CDATA[JUNNY (주니)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/779/067/82779067_1655962841061_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[인사이더 OST Part.1 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82778721</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82778721</guid>
-            <pubDate>Thu, 23 Jun 2022 09:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[임윤성]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/778/721/82778721_1655883216398_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Bad Neighbors (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82778978</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82778978</guid>
-            <pubDate>Thu, 23 Jun 2022 09:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[Chillin Homie &amp; KHAN]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/778/978/82778978_1655964128841_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Miami (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82778611</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82778611</guid>
-            <pubDate>Thu, 23 Jun 2022 09:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[Jiho Givenchy (지호지방시)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/778/611/82778611_1655881607754_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
