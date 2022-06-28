@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 14:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 15:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Tue, 28 Jun 2022 09:16:12 GMT</pubDate>
             <content:encoded><![CDATA[권은비]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/789/587/82789587_1656379956673_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[MASCARA]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82791172</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82791172</guid>
+            <pubDate>Tue, 28 Jun 2022 15:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[XG]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/791/172/82791172_1656400336728_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Yessir!]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Jun 2022 03:42:57 GMT</pubDate>
             <content:encoded><![CDATA[The Paradice]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/789/046/82789046_1656313957197_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[PALETTE E#302.]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82781322</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82781322</guid>
-            <pubDate>Tue, 28 Jun 2022 03:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[SOUND PALETTE]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/781/322/82781322_1656055099365_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
