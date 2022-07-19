@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 03:59:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 05:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/810/427/82810427_1657086027506_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[［Genuine］ (지니 모바일 ─ 최신음악)]]></title>
+            <title><![CDATA[Glass Heart (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82834507</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82834507</guid>
             <pubDate>Tue, 19 Jul 2022 03:59:21 GMT</pubDate>
