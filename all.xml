@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 07:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 08:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,7 +44,7 @@
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82840435</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82840435</guid>
             <pubDate>Thu, 21 Jul 2022 03:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[우연소]]></content:encoded>
+            <content:encoded><![CDATA[우연소 (遇緣所)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/840/435/82840435_1658367910590_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
@@ -86,14 +86,6 @@
             <pubDate>Thu, 21 Jul 2022 03:40:31 GMT</pubDate>
             <content:encoded><![CDATA[224]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/839/848/82839848_1658280963983_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[PREACH (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82840064</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82840064</guid>
-            <pubDate>Thu, 21 Jul 2022 03:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[Kolour FM]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/840/064/82840064_1658367341286_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Purple (지니 모바일 ─ 최신음악)]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 20 Jul 2022 09:17:17 GMT</pubDate>
             <content:encoded><![CDATA[P1Harmony]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/838/749/82838749_1658303134428_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Ways We Change (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82835106</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82835106</guid>
+            <pubDate>Thu, 21 Jul 2022 08:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[Lydia Lee]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/835/106/82835106_1658303790371_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
