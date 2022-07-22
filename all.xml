@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 06:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 07:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,12 +48,12 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/838/089/82838089_1658397223935_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Like a movie (지니 모바일 ─ 최신음악)]]></title>
+            <title><![CDATA[Like A Movie (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82842797</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82842797</guid>
             <pubDate>Fri, 22 Jul 2022 03:48:55 GMT</pubDate>
             <content:encoded><![CDATA[FL1X (플릭스)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/842/797/82842797_1658455696478_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/842/797/82842797_1658471634439_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[유미의 세포들 시즌2 OST (지니 모바일 ─ 최신음악)]]></title>
