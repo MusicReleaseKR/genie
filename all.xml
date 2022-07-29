@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 03:51:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 04:49:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THE WORLD EP.1 : MOVEMENT (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82839697</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82839697</guid>
+            <pubDate>Fri, 29 Jul 2022 04:49:37 GMT</pubDate>
+            <content:encoded><![CDATA[ATEEZ (에이티즈)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/839/697/82839697_1659000643529_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[환승연애2 OST Part 1 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82603203</link>
@@ -16,12 +24,12 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/603/203/82603203_1659002318689_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Summer Dance (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82854451</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82854451</guid>
-            <pubDate>Fri, 29 Jul 2022 03:51:22 GMT</pubDate>
-            <content:encoded><![CDATA[필윤 (Phil Yoon)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/854/451/82854451_1658991124133_1_200x200.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[Break My Heart Myself (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82851461</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82851461</guid>
+            <pubDate>Fri, 29 Jul 2022 04:49:37 GMT</pubDate>
+            <content:encoded><![CDATA[Bebe Rexha &amp; ITZY (있지)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/851/461/82851461_1658774779951_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[RENAISSANCE (지니 모바일 ─ 최신음악)]]></title>
@@ -38,6 +46,14 @@
             <pubDate>Fri, 29 Jul 2022 03:51:22 GMT</pubDate>
             <content:encoded><![CDATA[AJR]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/855/981/82855981_1658890828808_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer Dance (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82854451</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82854451</guid>
+            <pubDate>Fri, 29 Jul 2022 03:51:22 GMT</pubDate>
+            <content:encoded><![CDATA[필윤 (Phil Yoon)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/854/451/82854451_1658991124133_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Machine Gun (지니 모바일 ─ 최신음악)]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 28 Jul 2022 09:17:14 GMT</pubDate>
             <content:encoded><![CDATA[Minit]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/856/361/82856361_1658902833491_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[미래를 향해, 피해, 사랑해 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82838109</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82838109</guid>
-            <pubDate>Thu, 28 Jul 2022 09:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[위아더나잇 (We Are The Night)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/838/109/82838109_1658971864312_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[G-SHOCK (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82856531</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82856531</guid>
-            <pubDate>Thu, 28 Jul 2022 09:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[Chillin Homie &amp; 딜라 &amp; Y0UNG VA$$]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/856/531/82856531_1658990910645_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
