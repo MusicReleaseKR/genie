@@ -4,9 +4,65 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 08:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 09:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82858768</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82858768</guid>
+            <pubDate>Mon, 01 Aug 2022 09:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[Xin Seha (신세하)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/858/768/82858768_1659334276253_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[NewJeans 1st EP 'New Jeans' (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82842800</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82842800</guid>
+            <pubDate>Mon, 01 Aug 2022 09:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/842/800/82842800_1659340238924_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[BENZO (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82860453</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82860453</guid>
+            <pubDate>Mon, 01 Aug 2022 09:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[키드밀리 (Kid Milli)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/860/453/82860453_1659330010529_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[그대를 그리다 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82860191</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82860191</guid>
+            <pubDate>Mon, 01 Aug 2022 09:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[솔비]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/860/191/82860191_1659333799566_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[느낄 수 있어 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82866836</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82866836</guid>
+            <pubDate>Mon, 01 Aug 2022 09:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[제인팝]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/866/836/82866836_1659323736357_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[티를 살짝 내볼까 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82859671</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82859671</guid>
+            <pubDate>Mon, 01 Aug 2022 09:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[프리멜로]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/859/671/82859671_1659319981735_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Keep it on you (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82858587</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82858587</guid>
+            <pubDate>Mon, 01 Aug 2022 09:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[정훈 &amp; 박효경]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/858/587/82858587_1659341296453_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[You Are My TMI (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82853114</link>
@@ -110,62 +166,6 @@
             <pubDate>Sun, 31 Jul 2022 09:15:31 GMT</pubDate>
             <content:encoded><![CDATA[김미정]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/854/290/82854290_1659060354185_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[가식 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82860069</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82860069</guid>
-            <pubDate>Sun, 31 Jul 2022 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[경제환]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/860/069/82860069_1659070841379_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Kiss (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82858570</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82858570</guid>
-            <pubDate>Sun, 31 Jul 2022 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[NMIXX]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/858/570/82858570_1659080136525_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[미련을 말하는 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82858789</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82858789</guid>
-            <pubDate>Sun, 31 Jul 2022 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[한동근]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/858/789/82858789_1659075929023_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[마녀는 살아있다 OST Part 4 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82855951</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82855951</guid>
-            <pubDate>Sun, 31 Jul 2022 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[위키미키 (Weki Meki)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/855/951/82855951_1659003033453_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[하늘을 날다 (Hot Air Balloon) (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82860154</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82860154</guid>
-            <pubDate>Sun, 31 Jul 2022 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[박정현]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/860/154/82860154_1659079931424_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[연애의 참견 2022 OST - Part.17 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82859816</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82859816</guid>
-            <pubDate>Sun, 31 Jul 2022 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[수진 (Sujin)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/859/816/82859816_1659079701466_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 월간 브라운 7월호 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82850771</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82850771</guid>
-            <pubDate>Sun, 31 Jul 2022 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[브라운티거 (Brown Tigger)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/850/771/82850771_1659059092471_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
