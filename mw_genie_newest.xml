@@ -4,9 +4,65 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 08:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 09:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sool]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82874461</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82874461</guid>
+            <pubDate>Mon, 08 Aug 2022 09:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[선재 (snzae)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/874/461/82874461_1659922619829_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[1집수록곡]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82876144</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82876144</guid>
+            <pubDate>Mon, 08 Aug 2022 09:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[죠지]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/876/144/82876144_1659663042955_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[AURA]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82884395</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82884395</guid>
+            <pubDate>Mon, 08 Aug 2022 09:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[골든차일드]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/884/395/82884395_1659936287907_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Palm tree]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82872417</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82872417</guid>
+            <pubDate>Mon, 08 Aug 2022 09:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[새벽공방]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/872/417/82872417_1659942144886_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[GO]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82877059</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82877059</guid>
+            <pubDate>Mon, 08 Aug 2022 09:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[코요태]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/877/059/82877059_1659925256030_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[노예 (노 하지말고 예스해)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82877040</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82877040</guid>
+            <pubDate>Mon, 08 Aug 2022 09:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[Eian]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/877/040/82877040_1659925089498_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82884618</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82884618</guid>
+            <pubDate>Mon, 08 Aug 2022 09:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[기탁]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/884/618/82884618_1659942074453_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Summer End]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82870452</link>
@@ -110,62 +166,6 @@
             <pubDate>Sun, 07 Aug 2022 09:15:16 GMT</pubDate>
             <content:encoded><![CDATA[Miichi]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/872/344/82872344_1659605275786_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[언제라도 (Prod. by 이효리)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82867021</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82867021</guid>
-            <pubDate>Sun, 07 Aug 2022 09:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[베이빌론 (Babylon) &amp; 김범수]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/867/021/82867021_1659332428110_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[비밀남녀 OST Part.1]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82876969</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82876969</guid>
-            <pubDate>Sun, 07 Aug 2022 09:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[빌리어코스티]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/876/969/82876969_1659684407302_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑한다고 말해줘]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82874435</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82874435</guid>
-            <pubDate>Sun, 07 Aug 2022 09:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[탑현]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/874/435/82874435_1659686144189_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Maldives Air]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82874741</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82874741</guid>
-            <pubDate>Sun, 07 Aug 2022 09:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[슬리피 (Sleepy)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/874/741/82874741_1659676268478_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[비가 내리면]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82872398</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82872398</guid>
-            <pubDate>Sun, 07 Aug 2022 09:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[아샤트리]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/872/398/82872398_1659685092139_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[WARMHEART.]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82874737</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82874737</guid>
-            <pubDate>Sun, 07 Aug 2022 09:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[B JYUN.]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/874/737/82874737_1659600029063_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[볼륨을 높여]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82876928</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82876928</guid>
-            <pubDate>Sun, 07 Aug 2022 09:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[수안]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/876/928/82876928_1659687188480_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
