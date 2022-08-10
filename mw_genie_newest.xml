@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 04:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 05:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Wed, 10 Aug 2022 03:04:34 GMT</pubDate>
             <content:encoded><![CDATA[이소정 &amp; 대니 구 &amp; 김재환 &amp; 선미]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/888/520/82888520_1660096239944_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[비밀남녀 OST Part.2]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82887766</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82887766</guid>
+            <pubDate>Wed, 10 Aug 2022 05:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[에이블 (Able)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/887/766/82887766_1660095468262_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Friends Vol.11]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 09 Aug 2022 09:17:53 GMT</pubDate>
             <content:encoded><![CDATA[비비 (BB)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/876/030/82876030_1660009730707_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[PIECE-1 : 타미즈]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82884918</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82884918</guid>
-            <pubDate>Tue, 09 Aug 2022 09:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[THE PIECES (더 피스)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/884/918/82884918_1659953157874_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
