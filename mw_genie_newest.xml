@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 03:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 04:30:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 12 Aug 2022 03:27:56 GMT</pubDate>
             <content:encoded><![CDATA[Lil kirby]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/893/018/82893018_1660213067039_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Boogie Woogie]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82893432</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82893432</guid>
+            <pubDate>Fri, 12 Aug 2022 04:30:39 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/893/432/82893432_1660212439357_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[블루]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 11 Aug 2022 09:17:27 GMT</pubDate>
             <content:encoded><![CDATA[나린]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/891/203/82891203_1660127002669_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[NNF]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82888351</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82888351</guid>
-            <pubDate>Thu, 11 Aug 2022 09:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[lobonabeat!]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/888/351/82888351_1660027528721_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
