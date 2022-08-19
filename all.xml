@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 03:50:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 04:50:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pink Venom (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82912188</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82912188</guid>
+            <pubDate>Fri, 19 Aug 2022 04:50:28 GMT</pubDate>
+            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/912/188/82912188_1660871762466_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[It's Not Easy (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82906171</link>
@@ -46,6 +54,14 @@
             <pubDate>Fri, 19 Aug 2022 03:50:26 GMT</pubDate>
             <content:encoded><![CDATA[에스프레소]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/908/794/82908794_1660812156274_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Super Happy (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82909059</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82909059</guid>
+            <pubDate>Fri, 19 Aug 2022 04:50:28 GMT</pubDate>
+            <content:encoded><![CDATA[Su Lee &amp; Ariza]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/909/059/82909059_1660751753388_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[섬 (지니 모바일 ─ 최신음악)]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 18 Aug 2022 09:18:09 GMT</pubDate>
             <content:encoded><![CDATA[메이트리 (Maytree)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/905/375/82905375_1660800489474_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Girls Back Home (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82905803</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82905803</guid>
-            <pubDate>Thu, 18 Aug 2022 09:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[Ash-B (애쉬비)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/905/803/82905803_1660812444451_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[아다마스 OST Part 4 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82907696</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82907696</guid>
-            <pubDate>Thu, 18 Aug 2022 04:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[하현상]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/907/696/82907696_1660787139984_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
