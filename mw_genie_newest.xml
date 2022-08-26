@@ -4,9 +4,33 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 08:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 09:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울대작전 OST]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82924972</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82924972</guid>
+            <pubDate>Fri, 26 Aug 2022 09:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[MINO (송민호)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/924/972/82924972_1661489935880_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[한반도]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82927013</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82927013</guid>
+            <pubDate>Fri, 26 Aug 2022 09:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[호미들]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/927/013/82927013_1661483418923_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[GOD DID]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82875847</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82875847</guid>
+            <pubDate>Fri, 26 Aug 2022 09:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[DJ Khaled]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/875/847/82875847_1661483248344_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[BETWEEN 1&2]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82926773</link>
@@ -14,6 +38,38 @@
             <pubDate>Fri, 26 Aug 2022 04:18:09 GMT</pubDate>
             <content:encoded><![CDATA[TWICE (트와이스)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/926/773/82926773_1661442455822_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[_WORLD]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82928328</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82928328</guid>
+            <pubDate>Fri, 26 Aug 2022 04:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴 (SEVENTEEN)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/928/328/82928328_1661478047372_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[SEOULVIBES, FOREST]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82925031</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82925031</guid>
+            <pubDate>Fri, 26 Aug 2022 09:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[KozyPop]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/925/031/82925031_1661334211392_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[On the Wheel]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82926730</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82926730</guid>
+            <pubDate>Fri, 26 Aug 2022 09:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[Kvsh (캐시)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/926/730/82926730_1661481247993_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[그래서 이별이 아픈거겠죠]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82926700</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82926700</guid>
+            <pubDate>Fri, 26 Aug 2022 09:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[연규성]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/926/700/82926700_1661493238966_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[West Swing]]></title>
@@ -30,22 +86,6 @@
             <pubDate>Fri, 26 Aug 2022 04:18:09 GMT</pubDate>
             <content:encoded><![CDATA[Youth Hostel]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/924/580/82924580_1661475492136_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[_WORLD]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82928328</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82928328</guid>
-            <pubDate>Fri, 26 Aug 2022 04:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[세븐틴 (SEVENTEEN)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/928/328/82928328_1661478047372_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Will Of The People]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82921231</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82921231</guid>
-            <pubDate>Fri, 26 Aug 2022 04:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[Muse]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/921/231/82921231_1661195761754_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Lost in the City]]></title>
@@ -126,46 +166,6 @@
             <pubDate>Thu, 25 Aug 2022 09:17:18 GMT</pubDate>
             <content:encoded><![CDATA[2am]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/922/968/82922968_1661410850375_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[love you more,]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82925336</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82925336</guid>
-            <pubDate>Thu, 25 Aug 2022 09:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[YOUHA (유하)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/925/336/82925336_1661324727510_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[낮잠 (Nap Fairy) - SM STATION]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82925447</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82925447</guid>
-            <pubDate>Thu, 25 Aug 2022 09:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[예리 (YERI) &amp; 샘김 (Sam Kim)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/925/447/82925447_1661410127862_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[해피엔딩]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82925159</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82925159</guid>
-            <pubDate>Thu, 25 Aug 2022 09:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[홍대광]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/925/159/82925159_1661406772557_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[둘만 있는 세상에서]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82912862</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82912862</guid>
-            <pubDate>Thu, 25 Aug 2022 09:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[장희원]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/912/862/82912862_1661311238291_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[DIAMOND (다이아몬드)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82924908</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82924908</guid>
-            <pubDate>Thu, 25 Aug 2022 09:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[더 베인 (The VANE)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/924/908/82924908_1661407381747_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
