@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 10:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 11:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,22 +96,6 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/938/179/82938179_1662024769874_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Love Of Mine (Night Visions Demo) (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82939029</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82939029</guid>
-            <pubDate>Fri, 02 Sep 2022 04:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[Imagine Dragons]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/939/029/82939029_1661910335379_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Lighthouse (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82903210</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82903210</guid>
-            <pubDate>Fri, 02 Sep 2022 04:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[Peder Elias]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/903/210/82903210_1660545933313_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[둥게디어라 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82938018</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82938018</guid>
@@ -166,6 +150,22 @@
             <pubDate>Fri, 02 Sep 2022 04:14:54 GMT</pubDate>
             <content:encoded><![CDATA[백식 (Baeksik)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/919/896/82919896_1662083645524_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[OFOSUN (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82940711</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82940711</guid>
+            <pubDate>Fri, 02 Sep 2022 11:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[OSUN (권오선)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/940/711/82940711_1662021504533_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[아다마스 OST Part 5 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82938042</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82938042</guid>
+            <pubDate>Fri, 02 Sep 2022 11:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[KATIE]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/938/042/82938042_1661934644217_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
