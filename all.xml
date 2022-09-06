@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 11:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 12:34:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[스트릿 맨 파이터(SMF) Original Vol.3 (계급미션) (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82941007</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82941007</guid>
-            <pubDate>Tue, 06 Sep 2022 09:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/941/007/82941007_1662445894361_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
         <item>
             <title><![CDATA[DARK MOON : THE BLOOD ALTAR Soundtrack (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82950447</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 06 Sep 2022 09:17:27 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/950/447/82950447_1662446513130_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[스트릿 맨 파이터(SMF) Original Vol.3 (계급미션) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82941007</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82941007</guid>
+            <pubDate>Tue, 06 Sep 2022 09:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/941/007/82941007_1662445894361_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[법대로 사랑하라 OST Part.1 (지니 모바일 ─ 최신음악)]]></title>
