@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 08:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 09:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,38 @@
             <pubDate>Sun, 11 Sep 2022 04:07:34 GMT</pubDate>
             <content:encoded><![CDATA[J.yung &amp; YOUNG SKI (영스키)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/950/290/82950290_1662618694673_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[이제는 어떻게 사랑을 하나요]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82955973</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82955973</guid>
+            <pubDate>Sun, 11 Sep 2022 09:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[투앤비]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/955/973/82955973_1662546045705_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Pop It (Remix)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82956272</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82956272</guid>
+            <pubDate>Sun, 11 Sep 2022 09:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[Blase (블라세)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/956/272/82956272_1662534680141_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[마녀는 살아있다 OST]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82950103</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82950103</guid>
+            <pubDate>Sun, 11 Sep 2022 09:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/950/103/82950103_1662546464306_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[너와 나를 우리로 부른다는 건]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82952655</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82952655</guid>
+            <pubDate>Sun, 11 Sep 2022 09:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[섬머]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/952/655/82952655_1662543653158_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[현재는 아름다워 OST Part.19]]></title>
@@ -134,38 +166,6 @@
             <pubDate>Sat, 10 Sep 2022 09:17:26 GMT</pubDate>
             <content:encoded><![CDATA[이서진]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/955/145/82955145_1662538818097_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[잘지내나요]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82953048</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82953048</guid>
-            <pubDate>Sat, 10 Sep 2022 09:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[경지]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/953/048/82953048_1662618620891_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Second Run]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82952635</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82952635</guid>
-            <pubDate>Sat, 10 Sep 2022 09:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/952/635/82952635_1662541998201_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[보고싶어, 집 앞이야]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82950319</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82950319</guid>
-            <pubDate>Sat, 10 Sep 2022 04:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[스무살]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/950/319/82950319_1662616973529_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[밥먹고 졸릴 때 듣는 노래]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82949399</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82949399</guid>
-            <pubDate>Sat, 10 Sep 2022 04:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[빵쏭]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/949/399/82949399_1662617188869_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
