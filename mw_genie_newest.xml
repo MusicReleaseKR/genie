@@ -4,9 +4,65 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 08:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 09:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나와]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82955827</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82955827</guid>
+            <pubDate>Mon, 12 Sep 2022 09:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[류수정]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/955/827/82955827_1662618240625_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[D-Day]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82954888</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82954888</guid>
+            <pubDate>Mon, 12 Sep 2022 09:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[다루 &amp; 세진]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/954/888/82954888_1662612126703_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[LOVE & HOLIDAY]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82954845</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82954845</guid>
+            <pubDate>Mon, 12 Sep 2022 09:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[라비 (RAVI)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/954/845/82954845_1662544943353_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[술이 뭐길래]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82955937</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82955937</guid>
+            <pubDate>Mon, 12 Sep 2022 09:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[허각 &amp; 지아 (Zia)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/955/937/82955937_1662616385511_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[만취]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82956216</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82956216</guid>
+            <pubDate>Mon, 12 Sep 2022 09:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[FIL (필)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/956/216/82956216_1662546549079_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[우리를 닮은 영화]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82955886</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82955886</guid>
+            <pubDate>Mon, 12 Sep 2022 09:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[김창연]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/955/886/82955886_1662615375113_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[복학생 : 학점은 A지만 사랑은 F입니다 OST Part 3]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82957194</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82957194</guid>
+            <pubDate>Mon, 12 Sep 2022 09:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[고니아 (Gonia)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/957/194/82957194_1662604807992_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Belong to You]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82955939</link>
@@ -110,62 +166,6 @@
             <pubDate>Sun, 11 Sep 2022 09:18:15 GMT</pubDate>
             <content:encoded><![CDATA[Blase (블라세)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/956/272/82956272_1662534680141_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[마녀는 살아있다 OST]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82950103</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82950103</guid>
-            <pubDate>Sun, 11 Sep 2022 09:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/950/103/82950103_1662546464306_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[너와 나를 우리로 부른다는 건]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82952655</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82952655</guid>
-            <pubDate>Sun, 11 Sep 2022 09:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[섬머]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/952/655/82952655_1662543653158_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[현재는 아름다워 OST Part.19]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82954846</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82954846</guid>
-            <pubDate>Sun, 11 Sep 2022 04:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[란 (Ran)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/954/846/82954846_1662615138800_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[다정한 별빛 한 다발 품에 안고]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82952074</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82952074</guid>
-            <pubDate>Sun, 11 Sep 2022 04:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[안희수]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/952/074/82952074_1662534861453_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[The Good Days Boys Vol.2-3]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82955357</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82955357</guid>
-            <pubDate>Sun, 11 Sep 2022 04:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[Jimmy Brown &amp; Rovv &amp; Sweet The Kid]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/955/357/82955357_1662547613982_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[계절과 우리 사이]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82956167</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82956167</guid>
-            <pubDate>Sun, 11 Sep 2022 04:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[우연소 (遇緣所)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/956/167/82956167_1662545465199_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑연가 (斜廊戀歌)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82955906</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82955906</guid>
-            <pubDate>Sun, 11 Sep 2022 04:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[돛단배]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/955/906/82955906_1662618830321_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
