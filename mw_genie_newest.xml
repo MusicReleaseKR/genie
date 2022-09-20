@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 09:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 10:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Tue, 20 Sep 2022 09:23:13 GMT</pubDate>
             <content:encoded><![CDATA[갓튼 (Godton)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/983/026/82983026_1663636383046_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Zzz]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82993348</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82993348</guid>
+            <pubDate>Tue, 20 Sep 2022 10:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/993/348/82993348_1663559736022_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[멘탈코치 제갈길 OST Part 2]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 19 Sep 2022 09:22:56 GMT</pubDate>
             <content:encoded><![CDATA[사이먼 도미닉 &amp; 로꼬 &amp; 우원재 (Woo) &amp; 쿠기 (Coogie)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/978/029/82978029_1663555214413_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[성난 고래의 노래]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82991474</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82991474</guid>
-            <pubDate>Mon, 19 Sep 2022 09:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[YB (윤도현 밴드) &amp; 이선희]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/991/474/82991474_1663503327604_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
