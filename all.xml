@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 04:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 05:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/181/793/83181793_1668665021107_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[Lowlife Princess : Noir (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83016217</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83016217</guid>
+            <pubDate>Fri, 18 Nov 2022 05:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[비비 (BIBI)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/016/217/83016217_1668740831088_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[Night Before Christmas (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83187114</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83187114</guid>
@@ -32,12 +40,20 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/187/114/83187114_1668569427046_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Be Alright // U Sometimes (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82869030</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82869030</guid>
+            <title><![CDATA[Love or Loved Part.1 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83133922</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83133922</guid>
+            <pubDate>Fri, 18 Nov 2022 05:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[B.I]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/133/922/83133922_1667438550264_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[All Eyes On Me (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83148115</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83148115</guid>
             <pubDate>Fri, 18 Nov 2022 03:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[John K]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/869/030/82869030_1668670005270_1_200x200.JPG" length="0" type="image/JPG"/>
+            <content:encoded><![CDATA[VALORANT &amp; Jean Deaux &amp; Whipped Cream]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/148/115/83148115_1668736504711_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[ARTIST. Glass (지니 모바일 ─ 최신음악)]]></title>
@@ -48,12 +64,12 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/187/610/83187610_1668576031125_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[All Eyes On Me (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83148115</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83148115</guid>
+            <title><![CDATA[Be Alright // U Sometimes (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82869030</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82869030</guid>
             <pubDate>Fri, 18 Nov 2022 03:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[VALORANT &amp; Jean Deaux &amp; Whipped Cream]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/148/115/83148115_1668736504711_1_200x200.JPG" length="0" type="image/JPG"/>
+            <content:encoded><![CDATA[John K]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/869/030/82869030_1668670005270_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[4 Live (지니 모바일 ─ 최신음악)]]></title>
@@ -149,23 +165,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83187636</guid>
             <pubDate>Thu, 17 Nov 2022 09:16:31 GMT</pubDate>
             <content:encoded><![CDATA[Yescoba &amp; HEO DANIEL (허다니엘)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/187/636/83187636_1668666711123_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[My Star (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83187627</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83187627</guid>
-            <pubDate>Thu, 17 Nov 2022 09:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[천단비]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/187/627/83187627_1668576327244_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[목소리와 기타 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=82702290</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=82702290</guid>
-            <pubDate>Thu, 17 Nov 2022 09:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[루시드폴]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/702/290/82702290_1668670418843_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/187/636/83187636_1668748172412_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
