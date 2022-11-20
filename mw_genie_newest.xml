@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 04:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 05:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 20 Nov 2022 03:17:51 GMT</pubDate>
             <content:encoded><![CDATA[서액터]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/192/292/83192292_1668754290688_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Dreamers (Music from the FIFA World Cup Qatar 2022 Official Soundtrack)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83196201</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83196201</guid>
+            <pubDate>Sun, 20 Nov 2022 05:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[정국]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/196/201/83196201_1668851071553_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Memorain]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 19 Nov 2022 09:15:42 GMT</pubDate>
             <content:encoded><![CDATA[윤후]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/190/290/83190290_1668743646238_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[K 30th anniversary]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83187871</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83187871</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[K]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/187/871/83187871_1668747691858_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
