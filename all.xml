@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 04:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 05:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Thu, 01 Dec 2022 03:08:48 GMT</pubDate>
             <content:encoded><![CDATA[최도영 (CANDO)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/242/320/83242320_1669859431441_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Not About You (ENG Ver.) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83215864</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83215864</guid>
+            <pubDate>Thu, 01 Dec 2022 05:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[JUNNY (주니)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/215/864/83215864_1669355828831_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[낭만일 거야 (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 30 Nov 2022 09:15:41 GMT</pubDate>
             <content:encoded><![CDATA[그리 (GREE)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/235/350/83235350_1669773536141_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[싴후당 Part.1 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83239353</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83239353</guid>
-            <pubDate>Wed, 30 Nov 2022 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[윤슬 (아이리스) &amp; 리브 (아이리스)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/239/353/83239353_1669774599988_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
