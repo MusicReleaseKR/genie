@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 04:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 05:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Indigo (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83249927</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83249927</guid>
+            <pubDate>Fri, 02 Dec 2022 05:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[RM]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/249/927/83249927_1669941339337_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Treasure (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83212128</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 01 Dec 2022 09:15:52 GMT</pubDate>
             <content:encoded><![CDATA[송승현]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/216/050/83216050_1669787536535_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[New Feature (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83239838</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83239838</guid>
-            <pubDate>Thu, 01 Dec 2022 09:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[LOLLY]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/239/838/83239838_1669783033023_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
