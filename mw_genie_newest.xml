@@ -4,17 +4,9 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 01:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 02:40:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[크리스마스에는]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83251288</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83251288</guid>
-            <pubDate>Sun, 04 Dec 2022 12:27:29 GMT</pubDate>
-            <content:encoded><![CDATA[이보람 (씨야) &amp; 펀치 (Punch) &amp; 백예빈]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/251/288/83251288_1669969485384_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
         <item>
             <title><![CDATA[#ffdab9]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83251420</link>
@@ -166,6 +158,14 @@
             <pubDate>Sat, 03 Dec 2022 09:13:45 GMT</pubDate>
             <content:encoded><![CDATA[위우티디 (WIWTD)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/250/205/83250205_1669965816425_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Part Of Her]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83250539</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83250539</guid>
+            <pubDate>Mon, 05 Dec 2022 02:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[한요한 &amp; 김승민]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/250/539/83250539_1669948860295_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
