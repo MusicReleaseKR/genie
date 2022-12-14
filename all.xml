@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 09:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 10:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Wed, 14 Dec 2022 09:14:33 GMT</pubDate>
             <content:encoded><![CDATA[잠골버스]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/303/886/83303886_1670995904607_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[조선 세비지 (Chosun Savage) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83278190</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83278190</guid>
+            <pubDate>Wed, 14 Dec 2022 10:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[제이통 (J-Tong)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/278/190/83278190_1670547289775_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[전망대 (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 14 Dec 2022 03:19:02 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/303/550/83303550_1670914276291_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Burnout (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83302682</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83302682</guid>
-            <pubDate>Wed, 14 Dec 2022 03:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[AVND]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/302/682/83302682_1670927160601_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
