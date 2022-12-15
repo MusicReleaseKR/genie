@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 04:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 05:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 15 Dec 2022 03:19:40 GMT</pubDate>
             <content:encoded><![CDATA[로칼하이레코즈 (Localhigh Records)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/302/154/83302154_1671008005344_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[안아줘]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83303424</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83303424</guid>
+            <pubDate>Thu, 15 Dec 2022 05:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[블루 (BLOO)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/303/424/83303424_1671069644998_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Sorry For Myself]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 14 Dec 2022 09:14:33 GMT</pubDate>
             <content:encoded><![CDATA[포이 (POY)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/299/606/83299606_1670897370018_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[미운 밤]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83303886</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83303886</guid>
-            <pubDate>Wed, 14 Dec 2022 09:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[잠골버스]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/303/886/83303886_1670995904607_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
