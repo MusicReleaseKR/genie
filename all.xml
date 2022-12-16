@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 04:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 05:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 16 Dec 2022 03:15:44 GMT</pubDate>
             <content:encoded><![CDATA[Simon Franglen]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/306/717/83306717_1670989553312_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Nxde (Steve Aoki Remix) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83310039</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83310039</guid>
+            <pubDate>Fri, 16 Dec 2022 05:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[(여자)아이들 &amp; Steve Aoki]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/310/039/83310039_1671154045163_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Rainbow (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 15 Dec 2022 05:14:09 GMT</pubDate>
             <content:encoded><![CDATA[블루 (BLOO)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/303/424/83303424_1671069644998_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 너를 찾으려해 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83298635</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83298635</guid>
-            <pubDate>Thu, 15 Dec 2022 09:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[슬로디 (Slou.D)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/298/635/83298635_1671002065927_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
