@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 09:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 10:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,8 +92,8 @@
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83314666</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83314666</guid>
             <pubDate>Thu, 22 Dec 2022 03:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[하현우 (국카스텐) &amp; 윤일상 &amp; 김승현]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/314/666/83314666_1671612381715_1_200x200.JPG" length="0" type="image/JPG"/>
+            <content:encoded><![CDATA[윤일상 &amp; 하현우 (국카스텐) &amp; 김승현]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/314/666/83314666_1671702857611_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[［The Bloom : UTOPIA］ The Borders of Utopia]]></title>
