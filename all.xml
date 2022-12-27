@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 01:07:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 02:33:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,7 +156,7 @@
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83343572</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83343572</guid>
             <pubDate>Mon, 26 Dec 2022 03:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[Aimer (에이머)]]></content:encoded>
+            <content:encoded><![CDATA[에이머 (Aimer)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/343/572/83343572_1671774717581_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
