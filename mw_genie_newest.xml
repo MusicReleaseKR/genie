@@ -4,9 +4,49 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 08:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 09:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ponytail]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83363241</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83363241</guid>
+            <pubDate>Mon, 02 Jan 2023 09:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[유겸 (YUGYEOM)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/363/241/83363241_1672644131755_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[NewJeans 'OMG']]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83325577</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83325577</guid>
+            <pubDate>Mon, 02 Jan 2023 09:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/325/577/83325577_1672649874616_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[SPECIAL GIFT ［Woo Woo (이게 말이 돼?)］]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83378455</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83378455</guid>
+            <pubDate>Mon, 02 Jan 2023 09:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[n.SSign (엔싸인)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/378/455/83378455_1672629761135_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[돌아서는 네 모습을 난 아직도 그리워 해]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83389602</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83389602</guid>
+            <pubDate>Mon, 02 Jan 2023 09:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[강찬휘]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/389/602/83389602_1672638959875_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[날씨의 날개]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83374783</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83374783</guid>
+            <pubDate>Mon, 02 Jan 2023 09:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[팻두 (FatDoo) &amp; 유연]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/374/783/83374783_1672625344531_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[오늘 하루는 어땠는지]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83376842</link>
@@ -126,46 +166,6 @@
             <pubDate>Sun, 01 Jan 2023 09:13:06 GMT</pubDate>
             <content:encoded><![CDATA[DIVE (다이브)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/367/729/83367729_1672189555951_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[새로고침]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83335705</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83335705</guid>
-            <pubDate>Sun, 01 Jan 2023 09:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[LOTI (로티)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/335/705/83335705_1672296953671_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[뫼비우스]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83372808</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83372808</guid>
-            <pubDate>Sun, 01 Jan 2023 03:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[앤 (En)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/372/808/83372808_1672306635094_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 #12]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83363318</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83363318</guid>
-            <pubDate>Sun, 01 Jan 2023 03:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[정예원 (YEWON)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/363/318/83363318_1672304635829_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Symphony]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83331321</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83331321</guid>
-            <pubDate>Sun, 01 Jan 2023 03:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[뎁트]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/331/321/83331321_1672296938921_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[낯선 계절에 만나 OST]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83373707</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83373707</guid>
-            <pubDate>Sun, 01 Jan 2023 03:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[라엘 (Ra.L) &amp; 이준화]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/373/707/83373707_1672381970370_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
