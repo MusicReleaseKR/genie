@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 09:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 10:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/424/630/83424630_1673833704395_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[따뜻한 꿈 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83377013</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83377013</guid>
-            <pubDate>Mon, 16 Jan 2023 09:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[SUN KIM]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/377/013/83377013_1673585161335_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[Stamp On It - The 1st Mini Album (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83397213</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83397213</guid>
             <pubDate>Mon, 16 Jan 2023 09:15:16 GMT</pubDate>
             <content:encoded><![CDATA[GOT the beat]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/397/213/83397213_1673851863778_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[따뜻한 꿈 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83377013</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83377013</guid>
+            <pubDate>Mon, 16 Jan 2023 09:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[SUN KIM]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/377/013/83377013_1673585161335_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Best Friend (지니 모바일 ─ 최신음악)]]></title>
