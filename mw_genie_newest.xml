@@ -4,9 +4,17 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 04:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 05:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이름의 장 : TEMPTATION]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83480223</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83480223</guid>
+            <pubDate>Fri, 27 Jan 2023 05:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[투모로우바이투게더]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/480/223/83480223_1674781263327_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[집 없는 물고기]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83453555</link>
@@ -38,6 +46,14 @@
             <pubDate>Fri, 27 Jan 2023 03:15:38 GMT</pubDate>
             <content:encoded><![CDATA[The Kid LAROI]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/469/765/83469765_1674506444098_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[MOONLIGHT SUNRISE (The Remixes)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83479155</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83479155</guid>
+            <pubDate>Fri, 27 Jan 2023 05:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE (트와이스)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/479/155/83479155_1674786477980_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[사모 (死慕)]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 26 Jan 2023 09:14:20 GMT</pubDate>
             <content:encoded><![CDATA[백예슬]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/476/358/83476358_1674696102470_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Swing Slam]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83456276</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83456276</guid>
-            <pubDate>Thu, 26 Jan 2023 09:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[서사무엘 (Samuel Seo)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/456/276/83456276_1674699133620_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[CAFE TAPE 02]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83455710</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83455710</guid>
-            <pubDate>Thu, 26 Jan 2023 09:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[비앙 (Viann)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/455/710/83455710_1674633438194_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
