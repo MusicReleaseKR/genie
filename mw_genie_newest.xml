@@ -4,9 +4,57 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 08:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 09:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Strawberry]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83421802</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83421802</guid>
+            <pubDate>Wed, 01 Feb 2023 09:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[에픽하이 (EPIK HIGH)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/421/802/83421802_1675074056308_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[자존]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83497550</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83497550</guid>
+            <pubDate>Wed, 01 Feb 2023 09:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[오왼 (Owen)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/497/550/83497550_1675130793674_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑의 이해 OST Part.8]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83497408</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83497408</guid>
+            <pubDate>Wed, 01 Feb 2023 09:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[민서 (MINSEO)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/497/408/83497408_1675230185658_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[미치게 만들어]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83499932</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83499932</guid>
+            <pubDate>Wed, 01 Feb 2023 09:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[안다은]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/499/932/83499932_1675218420800_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[시간을 여행하는 히치하이커를 위한 안내서 Part.2]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83499068</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83499068</guid>
+            <pubDate>Wed, 01 Feb 2023 09:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[찰리빈웍스]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/499/068/83499068_1675158386442_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[96]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83418791</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83418791</guid>
+            <pubDate>Wed, 01 Feb 2023 09:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[홍크 (HONK)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/418/791/83418791_1675233009013_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Love is very difficult]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83476313</link>
@@ -118,54 +166,6 @@
             <pubDate>Tue, 31 Jan 2023 09:15:05 GMT</pubDate>
             <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/494/144/83494144_1675132149226_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 디데이 OST Part.1]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83493818</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83493818</guid>
-            <pubDate>Tue, 31 Jan 2023 09:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[한동근]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/493/818/83493818_1675145498009_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Trust Yourself]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83493040</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83493040</guid>
-            <pubDate>Tue, 31 Jan 2023 09:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[Balming Tiger]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/493/040/83493040_1675048573669_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 월간 윤종신 1월호]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83498720</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83498720</guid>
-            <pubDate>Tue, 31 Jan 2023 09:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[윤종신]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/498/720/83498720_1675150056401_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[눈 빛 (snow light)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83493683</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83493683</guid>
-            <pubDate>Tue, 31 Jan 2023 09:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[홍대광]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/493/683/83493683_1675129698255_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[이별도 내겐 사랑인가 봐 (임은하수 x 이별 이야기)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83493860</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83493860</guid>
-            <pubDate>Tue, 31 Jan 2023 09:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[임은하수]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/493/860/83493860_1675131592776_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[헤어졌죠]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83478539</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83478539</guid>
-            <pubDate>Tue, 31 Jan 2023 09:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[이준호]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/478/539/83478539_1674728546093_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
