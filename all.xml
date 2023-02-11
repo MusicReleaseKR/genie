@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 08:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 10:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 고백합니다 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83519719</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83519719</guid>
+            <pubDate>Sat, 11 Feb 2023 10:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[MSG워너비 (M.O.M)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/519/719/83519719_1675993908975_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[대행사 OST Part.6 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83531343</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83531343</guid>
+            <pubDate>Sat, 11 Feb 2023 10:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[제휘]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/531/343/83531343_1675996571410_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Spend It All On You (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83535513</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83535513</guid>
+            <pubDate>Sat, 11 Feb 2023 10:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[Michael Carreon &amp; Patrick Hizon]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/535/513/83535513_1676011378406_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[나를 사랑했다는 네 거짓말 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83531395</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83531395</guid>
+            <pubDate>Sat, 11 Feb 2023 10:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[이아영]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/531/395/83531395_1676008356374_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[빨간풍선 OST Part.6 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83531754</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83531754</guid>
+            <pubDate>Sat, 11 Feb 2023 10:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[건지 (GUNJI)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/531/754/83531754_1675918595609_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[사랑하지 말자 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83527238</link>
@@ -126,46 +166,6 @@
             <pubDate>Fri, 10 Feb 2023 09:15:15 GMT</pubDate>
             <content:encoded><![CDATA[한동근]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/528/539/83528539_1676007268024_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[네가 있어 다행이야 (법쩐 X 오현우) (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83532211</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83532211</guid>
-            <pubDate>Fri, 10 Feb 2023 09:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[오현우]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/532/211/83532211_1675936127057_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[SOULBYSEL Compilation 04 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83527407</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83527407</guid>
-            <pubDate>Fri, 10 Feb 2023 09:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[SOULBYSEL]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/527/407/83527407_1675996645363_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[지구와 달 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83528103</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83528103</guid>
-            <pubDate>Fri, 10 Feb 2023 09:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[HOON]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/528/103/83528103_1675832782723_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[넌 봄날 햇살 같았어 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83528261</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83528261</guid>
-            <pubDate>Fri, 10 Feb 2023 09:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[이진재]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/528/261/83528261_1676006652045_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Petrichor (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83527120</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83527120</guid>
-            <pubDate>Fri, 10 Feb 2023 09:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[크록 (CROQ)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/527/120/83527120_1675991831339_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
