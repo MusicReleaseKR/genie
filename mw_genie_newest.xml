@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 04:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 05:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 17 Feb 2023 03:21:42 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/497/660/83497660_1676595473249_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[iScreaM Vol.21 : 질주 (2 Baddies) (Remixes)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83550819</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83550819</guid>
+            <pubDate>Fri, 17 Feb 2023 05:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 &amp; No Identity (노 아이덴티티) &amp; 비앙 (Viann) &amp; BIICLA]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/550/819/83550819_1676593561789_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[TRUSTFALL]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 16 Feb 2023 09:15:56 GMT</pubDate>
             <content:encoded><![CDATA[HELLO GLOOM]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/544/017/83544017_1676532478412_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Bridal Shower]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83547660</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83547660</guid>
-            <pubDate>Thu, 16 Feb 2023 09:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[저드 (jerd)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/547/660/83547660_1676512416058_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
