@@ -4,9 +4,17 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 04:45:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 05:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[on the street]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83597101</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83597101</guid>
+            <pubDate>Fri, 03 Mar 2023 05:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[j-hope &amp; J. Cole]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/597/101/83597101_1677804051224_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[I Can Do This All Day]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83564767</link>
@@ -22,6 +30,14 @@
             <pubDate>Fri, 03 Mar 2023 03:10:34 GMT</pubDate>
             <content:encoded><![CDATA[클랑 (KLANG)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/588/786/83588786_1677751090761_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[There And Back Again (Reimagined)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83594292</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83594292</guid>
+            <pubDate>Fri, 03 Mar 2023 05:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[에릭남 (Eric Nam)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/594/292/83594292_1677720352426_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[4TH WALL]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 02 Mar 2023 09:15:50 GMT</pubDate>
             <content:encoded><![CDATA[소희]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/589/255/83589255_1677559939440_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 죽으려고 생각한 것은]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83585449</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83585449</guid>
-            <pubDate>Thu, 02 Mar 2023 09:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[강지]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/585/449/83585449_1677719635392_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[반대로 걸어요]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83588622</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83588622</guid>
-            <pubDate>Thu, 02 Mar 2023 09:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[조연호]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/588/622/83588622_1677735800187_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
