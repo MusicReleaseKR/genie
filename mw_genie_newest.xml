@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 14:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 15:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 12 Mar 2023 09:13:22 GMT</pubDate>
             <content:encoded><![CDATA[권순일 (어반자카파)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/609/848/83609848_1678424393221_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Young, Dumb, Stupid]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83613607</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83613607</guid>
+            <pubDate>Sun, 12 Mar 2023 15:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[NMIXX]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/613/607/83613607_1678432270929_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[그대라는 사치]]></title>
@@ -48,20 +56,20 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/613/256/83613256_1678436447247_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[더 퀸즈 OST Part.1]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83616671</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83616671</guid>
-            <pubDate>Sun, 12 Mar 2023 09:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[다율 &amp; 이수훈]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/616/671/83616671_1678432115475_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[one second]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83613847</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83613847</guid>
             <pubDate>Sun, 12 Mar 2023 09:13:22 GMT</pubDate>
             <content:encoded><![CDATA[김제형]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/613/847/83613847_1678350940527_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[더 퀸즈 OST Part.1]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83616671</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83616671</guid>
+            <pubDate>Sun, 12 Mar 2023 09:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[다율 &amp; 이수훈]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/616/671/83616671_1678432115475_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Errr Day]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 11 Mar 2023 09:13:23 GMT</pubDate>
             <content:encoded><![CDATA[#안녕]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/610/282/83610282_1678436321977_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[이별이 사랑의 시작인 걸 알았다면]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83612493</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83612493</guid>
-            <pubDate>Sat, 11 Mar 2023 09:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[자정]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/612/493/83612493_1678427780871_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
