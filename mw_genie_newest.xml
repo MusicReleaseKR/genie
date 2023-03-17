@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 05:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 06:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 17 Mar 2023 04:18:17 GMT</pubDate>
             <content:encoded><![CDATA[DPR LIVE &amp; DPR IAN &amp; DPR CREAM &amp; DPR ARTIC]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/629/287/83629287_1679019359199_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[All Of The Girls You Loved Before]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83634464</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83634464</guid>
+            <pubDate>Fri, 17 Mar 2023 06:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[Taylor Swift]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/634/464/83634464_1679027581642_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[SET ME FREE (Remixes)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 16 Mar 2023 09:15:39 GMT</pubDate>
             <content:encoded><![CDATA[진민호]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/623/128/83623128_1678847153824_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 연애 시뮬레이션 OST Part.2]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83628684</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83628684</guid>
-            <pubDate>Thu, 16 Mar 2023 09:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[더 브릿지 (The Bridge)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/628/684/83628684_1678930274415_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
