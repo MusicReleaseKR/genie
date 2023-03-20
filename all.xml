@@ -4,9 +4,105 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 02:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 03:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[약속해 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83630770</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83630770</guid>
+            <pubDate>Mon, 20 Mar 2023 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[김유안]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/630/770/83630770_1679128569143_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[청록 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83623257</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83623257</guid>
+            <pubDate>Mon, 20 Mar 2023 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[이츠]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/623/257/83623257_1679042235265_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[2am Freestyle (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83629038</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83629038</guid>
+            <pubDate>Mon, 20 Mar 2023 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[JERO]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/629/038/83629038_1678948069315_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[머핀, 한 조각 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83634355</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83634355</guid>
+            <pubDate>Mon, 20 Mar 2023 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[muhpy &amp; HAAN]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/634/355/83634355_1679021451727_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[어떤 하루 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83629085</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83629085</guid>
+            <pubDate>Mon, 20 Mar 2023 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[곽동현 (KWAK DONG HYUN)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/629/085/83629085_1679016693197_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 웹툰 이제야 연애 OST Part.2 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83634816</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83634816</guid>
+            <pubDate>Mon, 20 Mar 2023 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[RENDY (렌디)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/634/816/83634816_1679276624359_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Spring Memories (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83634337</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83634337</guid>
+            <pubDate>Mon, 20 Mar 2023 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[레몬시티 (Lemon City)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/634/337/83634337_1679041693776_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울이 가야 봄이 온다 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83626515</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83626515</guid>
+            <pubDate>Mon, 20 Mar 2023 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[처리 (Churry)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/626/515/83626515_1679040581400_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Strange Way To Love (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83634218</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83634218</guid>
+            <pubDate>Mon, 20 Mar 2023 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[예은]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/634/218/83634218_1679275826558_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[김수찬 1집 '공존' (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83628547</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83628547</guid>
+            <pubDate>Mon, 20 Mar 2023 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[김수찬]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/628/547/83628547_1679276292204_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[＜나타나주세요!＞ OST Part 2 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83630990</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83630990</guid>
+            <pubDate>Mon, 20 Mar 2023 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[MZ]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/630/990/83630990_1679274834122_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[너라는 계절을 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83626270</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83626270</guid>
+            <pubDate>Mon, 20 Mar 2023 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[더 데이지 (The Daisy)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/626/270/83626270_1679049592360_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[3 2 1 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83631470</link>
@@ -70,102 +166,6 @@
             <pubDate>Sun, 19 Mar 2023 09:13:51 GMT</pubDate>
             <content:encoded><![CDATA[Around (어라운드)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/634/646/83634646_1679044009262_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[흐드러지게 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83625623</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83625623</guid>
-            <pubDate>Sun, 19 Mar 2023 09:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/625/623/83625623_1679016330817_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 보이고 싶은 마음에 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83631756</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83631756</guid>
-            <pubDate>Sun, 19 Mar 2023 09:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[BoomPop]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/631/756/83631756_1679034111512_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Get Sturdy (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83634055</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83634055</guid>
-            <pubDate>Sun, 19 Mar 2023 03:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[구본겸 (RB NINE)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/634/055/83634055_1679028400512_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Tonight ＜기억의 엔딩 OST #1＞ (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83625679</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83625679</guid>
-            <pubDate>Sun, 19 Mar 2023 03:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[지안]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/625/679/83625679_1679031805735_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[그댄 아나요 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83630732</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83630732</guid>
-            <pubDate>Sun, 19 Mar 2023 03:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[새봄 (Saevom)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/630/732/83630732_1678947893477_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[SPECTRUM for tomorrow (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83631375</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83631375</guid>
-            <pubDate>Sun, 19 Mar 2023 03:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[헤온 (Heon) &amp; Avii Garde &amp; Jinee (지니) &amp; 더 굿 보이즈 (The Good Boys) &amp; 디스코택시 (D'scoTech-XI)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/631/375/83631375_1679034539627_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[5분만 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83630942</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83630942</guid>
-            <pubDate>Sun, 19 Mar 2023 03:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[헤르쯔 아날로그 (Herz Analog)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/630/942/83630942_1679039636048_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[when i was young (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83634375</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83634375</guid>
-            <pubDate>Sun, 19 Mar 2023 03:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[Sein]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/634/375/83634375_1679022047850_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[One more time (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83634896</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83634896</guid>
-            <pubDate>Sun, 19 Mar 2023 03:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[도윤 (DOYOON)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/634/896/83634896_1679042324029_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[한순간 설렘 일지라도 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83634468</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83634468</guid>
-            <pubDate>Sun, 19 Mar 2023 03:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[주현민]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/634/468/83634468_1679034226628_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[널 위해 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83634589</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83634589</guid>
-            <pubDate>Sun, 19 Mar 2023 03:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[키다플러그 (kidda plug)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/634/589/83634589_1679041114183_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[GO (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83634340</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83634340</guid>
-            <pubDate>Sun, 19 Mar 2023 03:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[원카인 (1KYNE) &amp; WON JANG]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/634/340/83634340_1679031818290_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
