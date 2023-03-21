@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 03:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 04:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 21 Mar 2023 03:14:47 GMT</pubDate>
             <content:encoded><![CDATA[원지 (WONJI)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/628/460/83628460_1679283878948_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Beatbox (English Ver.) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83642648</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83642648</guid>
+            <pubDate>Tue, 21 Mar 2023 04:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/642/648/83642648_1679299194239_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[D_Edition #COLOR (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 20 Mar 2023 09:16:27 GMT</pubDate>
             <content:encoded><![CDATA[벤자민 (Benzamin) &amp; 1of1]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/641/376/83641376_1679277028127_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[DOUBLECROSS MUSASHI (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83634500</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83634500</guid>
-            <pubDate>Mon, 20 Mar 2023 09:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[Son Simba (손 심바)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/634/500/83634500_1679277544518_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
