@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 14:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 15:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/647/333/83647333_1679553752629_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[Put Up a Fight]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83650933</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83650933</guid>
+            <pubDate>Thu, 23 Mar 2023 15:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[LØREN]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/650/933/83650933_1679538928377_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[FEEL IT]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83647437</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83647437</guid>
@@ -64,20 +72,20 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/647/426/83647426_1679476122002_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Falling]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83647355</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83647355</guid>
-            <pubDate>Thu, 23 Mar 2023 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[채리 (chaeree)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/647/355/83647355_1679464833355_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[Challenger]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83646630</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83646630</guid>
             <pubDate>Thu, 23 Mar 2023 09:14:43 GMT</pubDate>
             <content:encoded><![CDATA[ICHILLIN' (아이칠린)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/646/630/83646630_1679554308617_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Falling]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83647355</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83647355</guid>
+            <pubDate>Thu, 23 Mar 2023 09:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[채리 (chaeree)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/647/355/83647355_1679464833355_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[너의 목소리가 보여 10 Part 1]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Mar 2023 03:15:05 GMT</pubDate>
             <content:encoded><![CDATA[범진]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/642/395/83642395_1679448732697_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[딜리버리맨 OST Part 4]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83644669</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83644669</guid>
-            <pubDate>Wed, 22 Mar 2023 09:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[Jimmy Brown]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/644/669/83644669_1679393972738_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
