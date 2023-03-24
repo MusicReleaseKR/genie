@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 03:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 04:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FACE (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83633882</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83633882</guid>
+            <pubDate>Fri, 24 Mar 2023 04:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[지민]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/633/882/83633882_1679013658293_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Eyes Closed (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83648012</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83648012</guid>
+            <pubDate>Fri, 24 Mar 2023 04:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[Ed Sheeran]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/648/012/83648012_1679489727870_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[BamBiNun (밤비눈) (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83646870</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 23 Mar 2023 09:14:43 GMT</pubDate>
             <content:encoded><![CDATA[별은]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/647/426/83647426_1679476122002_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Challenger (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83646630</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83646630</guid>
-            <pubDate>Thu, 23 Mar 2023 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[ICHILLIN' (아이칠린)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/646/630/83646630_1679554308617_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Falling (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83647355</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83647355</guid>
-            <pubDate>Thu, 23 Mar 2023 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[채리 (chaeree)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/647/355/83647355_1679464833355_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
