@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 03:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 04:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ME (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83687323</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83687323</guid>
+            <pubDate>Fri, 31 Mar 2023 04:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[지수 (JISOO)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/687/323/83687323_1680228994484_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[FUTURECORE (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83684107</link>
@@ -30,6 +38,14 @@
             <pubDate>Thu, 30 Mar 2023 15:15:26 GMT</pubDate>
             <content:encoded><![CDATA[Charlie Puth]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/674/087/83674087_1680016534948_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Carry Me Out (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83667732</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83667732</guid>
+            <pubDate>Fri, 31 Mar 2023 04:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[마크 (GOT7)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/667/732/83667732_1679905307800_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[세글자 (지니 모바일 ─ 최신음악)]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 30 Mar 2023 09:16:16 GMT</pubDate>
             <content:encoded><![CDATA[xikers (싸이커스)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/673/636/83673636_1680138251227_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[어디선가 나처럼 이 노랠 듣고 있을 너에게 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83677449</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83677449</guid>
-            <pubDate>Thu, 30 Mar 2023 09:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[제이세라 (J-Cera)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/677/449/83677449_1680142351536_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Smoothie ＜3 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83677635</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83677635</guid>
-            <pubDate>Thu, 30 Mar 2023 09:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[P. Cassady (피캐시디)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/677/635/83677635_1680057754015_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
