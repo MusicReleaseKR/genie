@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 01:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 02:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,11 +72,11 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/696/068/83696068_1680503870406_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Boutta Go (지니 모바일 ─ 최신음악)]]></title>
+            <title><![CDATA[Boutta Go (Prod. by Panda Gomm) (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83699334</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83699334</guid>
             <pubDate>Wed, 05 Apr 2023 09:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[100KGOLD (허니케이골드) &amp; 스티피 (STEEPY)]]></content:encoded>
+            <content:encoded><![CDATA[100KGOLD &amp; 스티피 (STEEPY)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/699/334/83699334_1680575336148_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
