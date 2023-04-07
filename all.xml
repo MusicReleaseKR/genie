@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 03:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 04:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사람 Pt.2 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83713255</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83713255</guid>
+            <pubDate>Fri, 07 Apr 2023 04:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[Agust D]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/713/255/83713255_1680827790737_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[More than Love (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83706168</link>
@@ -22,14 +30,6 @@
             <pubDate>Fri, 07 Apr 2023 03:14:10 GMT</pubDate>
             <content:encoded><![CDATA[Linkin Park]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/702/770/83702770_1680632127915_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[I Don't Know What Love Is (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83706696</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83706696</guid>
-            <pubDate>Fri, 07 Apr 2023 03:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[Stacey Ryan]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/706/696/83706696_1680688530188_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[생활음악 시리즈 22집； Part Ⅳ (지니 모바일 ─ 최신음악)]]></title>
@@ -80,28 +80,20 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/672/156/83672156_1680079800062_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[딜리버리맨 OST Part 6 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83706387</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83706387</guid>
-            <pubDate>Thu, 06 Apr 2023 09:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[유성은]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/706/387/83706387_1680689622804_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[FRR (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83706562</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83706562</guid>
-            <pubDate>Thu, 06 Apr 2023 09:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[죠지]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/706/562/83706562_1680681934397_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[비의도적 연애담 OST Part.5 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83700555</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83700555</guid>
             <pubDate>Fri, 07 Apr 2023 03:14:10 GMT</pubDate>
             <content:encoded><![CDATA[차서원]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/700/555/83700555_1680832227387_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[I Don't Know What Love Is (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83706696</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83706696</guid>
+            <pubDate>Fri, 07 Apr 2023 03:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[Stacey Ryan]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/706/696/83706696_1680688530188_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[나랑 살래 (지니 모바일 ─ 최신음악)]]></title>
@@ -124,7 +116,7 @@
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83710395</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83710395</guid>
             <pubDate>Fri, 07 Apr 2023 03:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[XG]]></content:encoded>
+            <content:encoded><![CDATA[XG &amp; JAKOPS]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/710/395/83710395_1680770240615_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 07 Apr 2023 03:14:10 GMT</pubDate>
             <content:encoded><![CDATA[OVN (오븐)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/698/866/83698866_1680745299972_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[딜리버리맨 OST Part 6 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83706387</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83706387</guid>
+            <pubDate>Thu, 06 Apr 2023 09:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[유성은]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/706/387/83706387_1680689622804_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
