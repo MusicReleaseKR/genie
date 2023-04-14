@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 03:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 04:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 14 Apr 2023 03:14:41 GMT</pubDate>
             <content:encoded><![CDATA[라디 (Ra. D)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/727/671/83727671_1681369838216_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Kill Bill (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83733878</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83733878</guid>
+            <pubDate>Fri, 14 Apr 2023 04:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[SZA]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/733/878/83733878_1681431650244_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Can we ? (지니 모바일 ─ 최신음악)]]></title>
@@ -152,20 +160,12 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/723/042/83723042_1681348983086_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[LAX (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83705302</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83705302</guid>
-            <pubDate>Fri, 14 Apr 2023 03:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[유로겸]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/705/302/83705302_1681374290230_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Need you (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83719951</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83719951</guid>
-            <pubDate>Thu, 13 Apr 2023 09:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[SOLE (쏠) &amp; 성시경]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/719/951/83719951_1681347388075_1_200x200.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[Re : Praise Vol.1 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83732415</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83732415</guid>
+            <pubDate>Fri, 14 Apr 2023 04:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[To. Ministry (투 미니스트리)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/732/415/83732415_1681370799320_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
