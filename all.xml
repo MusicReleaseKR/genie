@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 14:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 15:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BOYS PLANET - FINAL TOP9 BATTLE (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83734058</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83734058</guid>
+            <pubDate>Thu, 20 Apr 2023 15:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[BOYS PLANET]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/734/058/83734058_1681970737507_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[보라! 데보라 OST Part 3 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83747466</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Apr 2023 03:14:24 GMT</pubDate>
             <content:encoded><![CDATA[WINee (위니)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/699/779/83699779_1681888520140_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[MORUGETTA (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83748154</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83748154</guid>
-            <pubDate>Thu, 20 Apr 2023 03:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[UHERO (우해로)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/748/154/83748154_1681896230712_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
