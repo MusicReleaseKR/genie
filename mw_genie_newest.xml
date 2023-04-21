@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 01:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 02:30:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,7 +68,7 @@
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83748203</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83748203</guid>
             <pubDate>Thu, 20 Apr 2023 09:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[JUPITER KIM &amp; 토이고 (toigo) &amp; 365LIT]]></content:encoded>
+            <content:encoded><![CDATA[UNDER SEONGSU BRIDGE]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/748/203/83748203_1681882228574_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
@@ -96,7 +96,7 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/745/931/83745931_1681813231993_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Drive]]></title>
+            <title><![CDATA[Drive!]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83745614</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83745614</guid>
             <pubDate>Thu, 20 Apr 2023 09:14:27 GMT</pubDate>
