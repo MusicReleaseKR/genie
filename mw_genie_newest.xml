@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 03:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 04:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 20 Apr 2023 15:15:59 GMT</pubDate>
             <content:encoded><![CDATA[BOYS PLANET]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/734/058/83734058_1681970737507_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[D-DAY]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83713255</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83713255</guid>
+            <pubDate>Fri, 21 Apr 2023 04:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[Agust D]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/713/255/83713255_1682049565488_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Boat]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 21 Apr 2023 03:14:13 GMT</pubDate>
             <content:encoded><![CDATA[지훈]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/751/894/83751894_1681977101730_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[보라! 데보라 OST Part 3]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83747466</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83747466</guid>
-            <pubDate>Thu, 20 Apr 2023 09:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[이소정]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/747/466/83747466_1681898969376_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
