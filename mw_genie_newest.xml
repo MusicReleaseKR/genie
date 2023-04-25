@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 03:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 04:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,12 +40,12 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/762/960/83762960_1682323087238_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[일탈 (逸脫)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83751824</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83751824</guid>
-            <pubDate>Tue, 25 Apr 2023 03:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[처리 (Churry)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/751/824/83751824_1682075683154_1_200x200.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[사랑이 제곱이 되었다]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83751491</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83751491</guid>
+            <pubDate>Tue, 25 Apr 2023 04:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[타린 &amp; 롱디 (LONG:D)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/751/491/83751491_1682301591316_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[DKZ 1st Repackage Album 'HARMONY']]></title>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 24 Apr 2023 09:14:52 GMT</pubDate>
             <content:encoded><![CDATA[DKZ]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/698/814/83698814_1681886859839_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[일탈 (逸脫)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83751824</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83751824</guid>
+            <pubDate>Tue, 25 Apr 2023 03:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[처리 (Churry)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/751/824/83751824_1682075683154_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[wonder]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Apr 2023 03:14:16 GMT</pubDate>
             <content:encoded><![CDATA[페퍼민트]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/745/533/83745533_1682388016607_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Forrest Gump]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83748595</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83748595</guid>
-            <pubDate>Tue, 25 Apr 2023 03:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[소동 (Sodong)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/748/595/83748595_1682075537824_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
