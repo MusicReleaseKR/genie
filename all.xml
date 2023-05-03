@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 03:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 04:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,12 +88,12 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/793/967/83793967_1683018524949_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Still (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83794042</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83794042</guid>
-            <pubDate>Wed, 03 May 2023 03:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[SIM2]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/794/042/83794042_1683077122425_1_200x200.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[SHINE BRIGHT (Lodge Boy Remix) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83766496</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83766496</guid>
+            <pubDate>Wed, 03 May 2023 04:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[ANA]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/766/496/83766496_1682643200113_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[사천, 그 해변으로 (지니 모바일 ─ 최신음악)]]></title>
@@ -136,6 +136,14 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/791/981/83791981_1682948728579_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[Still (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83794042</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83794042</guid>
+            <pubDate>Wed, 03 May 2023 03:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[SIM2]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/794/042/83794042_1683077122425_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[사랑에 빠진 것 같아 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83770012</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83770012</guid>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 03 May 2023 03:14:18 GMT</pubDate>
             <content:encoded><![CDATA[VIN]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/793/544/83793544_1683073378326_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[종이달 OST Part.4 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83775863</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83775863</guid>
-            <pubDate>Tue, 02 May 2023 09:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[진민호]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/775/863/83775863_1683012837421_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
