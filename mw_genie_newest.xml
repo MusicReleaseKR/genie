@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 14:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 15:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Thu, 04 May 2023 09:13:40 GMT</pubDate>
             <content:encoded><![CDATA[에이블 (Able)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/797/472/83797472_1683177402526_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[- (Deluxe)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83797836</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83797836</guid>
+            <pubDate>Thu, 04 May 2023 15:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[Ed Sheeran]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/797/836/83797836_1683109228537_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Since when have you been so pretty]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 04 May 2023 03:14:07 GMT</pubDate>
             <content:encoded><![CDATA[우은미]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/796/751/83796751_1683097687419_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Headache]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83779057</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83779057</guid>
-            <pubDate>Thu, 04 May 2023 03:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[Gila (길라)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/779/057/83779057_1683162773708_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
