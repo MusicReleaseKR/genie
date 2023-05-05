@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 03:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 04:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -93,7 +93,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83794371</guid>
             <pubDate>Fri, 05 May 2023 03:14:09 GMT</pubDate>
             <content:encoded><![CDATA[백식 (Baeksik)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/imageg/mobile_web/common/default_img.png" length="0" type="image/png"/>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/794/371/83794371_1683180680466_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[알겠어]]></title>
@@ -101,7 +101,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83797415</guid>
             <pubDate>Fri, 05 May 2023 03:14:09 GMT</pubDate>
             <content:encoded><![CDATA[Ever (에버) &amp; Lucy (루시)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/imageg/mobile_web/common/default_img.png" length="0" type="image/png"/>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/797/415/83797415_1683103312180_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[LEFT RIGHT REMIXX (Prod. by JAKOPS)]]></title>
@@ -125,7 +125,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83770263</guid>
             <pubDate>Fri, 05 May 2023 03:14:09 GMT</pubDate>
             <content:encoded><![CDATA[야견]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/imageg/mobile_web/common/default_img.png" length="0" type="image/png"/>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/770/263/83770263_1683187103720_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[한여름 밤의 꿈]]></title>
