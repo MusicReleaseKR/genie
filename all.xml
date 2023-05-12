@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 03:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 04:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 12 May 2023 03:14:14 GMT</pubDate>
             <content:encoded><![CDATA[노디시카 (Nody Cika)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/807/582/83807582_1683796175622_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[The Planet (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83820188</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83820188</guid>
+            <pubDate>Fri, 12 May 2023 04:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/820/188/83820188_1683852348295_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Black Knight (Music from the Netflix Series) (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 May 2023 03:14:14 GMT</pubDate>
             <content:encoded><![CDATA[오올블루 (4ll8lue) &amp; 유래 (Yoorae)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/815/685/83815685_1683793806519_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[스틸러 : 일곱 개의 조선통보 OST Part 3 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83801312</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83801312</guid>
-            <pubDate>Thu, 11 May 2023 09:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[YELO (옐로)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/801/312/83801312_1683698314409_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
