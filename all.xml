@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 11:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 12:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 18 May 2023 09:13:11 GMT</pubDate>
             <content:encoded><![CDATA[김아름]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/835/238/83835238_1684389852714_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Angel Pt 1 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83833523</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83833523</guid>
+            <pubDate>Thu, 18 May 2023 12:26:19 GMT</pubDate>
+            <content:encoded><![CDATA[Fast &amp; Furious : The Fast Saga &amp; 지민 &amp; 방탄소년단]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/833/523/83833523_1684239926813_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[ALBUM ON THE WAY! (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 18 May 2023 03:14:09 GMT</pubDate>
             <content:encoded><![CDATA[오은철]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/835/658/83835658_1684305329953_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[그대를 만나서, 사랑을 알았습니다. (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83834651</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83834651</guid>
-            <pubDate>Thu, 18 May 2023 03:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[간종욱]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/834/651/83834651_1684310983465_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
