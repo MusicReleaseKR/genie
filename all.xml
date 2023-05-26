@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 03:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 04:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/855/579/83855579_1685065873786_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[WONDERLAND (English Ver.) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83856087</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83856087</guid>
+            <pubDate>Fri, 26 May 2023 04:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[트라이비 (TRI.BE)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/856/087/83856087_1684908927409_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[피터판다 (PETER PANDA) OST Part.9 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83855969</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83855969</guid>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 May 2023 09:15:06 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/853/530/83853530_1684993963365_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[한강에서 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83855417</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83855417</guid>
-            <pubDate>Thu, 25 May 2023 09:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[폴킴]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/855/417/83855417_1684992759580_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
