@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 11:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 12:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83855346</guid>
             <pubDate>Fri, 26 May 2023 09:13:12 GMT</pubDate>
             <content:encoded><![CDATA[송가인]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/855/346/83855346_1685008436523_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/855/346/83855346_1685102243274_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[하늘색까만색 (지니 모바일 ─ 최신음악)]]></title>
