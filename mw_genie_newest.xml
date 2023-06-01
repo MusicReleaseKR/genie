@@ -4,9 +4,73 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 08:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 09:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Romantico (Prod. by TETE)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83873203</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83873203</guid>
+            <pubDate>Thu, 01 Jun 2023 09:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[림킴 (김예림) &amp; TETE]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/873/203/83873203_1685513433969_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Behind (행복배틀 OST Part 1)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83873357</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83873357</guid>
+            <pubDate>Thu, 01 Jun 2023 09:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[손승연]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/873/357/83873357_1685525534570_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[GIFT]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83873649</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83873649</guid>
+            <pubDate>Thu, 01 Jun 2023 09:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[황치열]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/873/649/83873649_1685516850421_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[TO DIE FOR]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83877072</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83877072</guid>
+            <pubDate>Thu, 01 Jun 2023 09:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[B.I]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/877/072/83877072_1685521967739_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[시차]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83876659</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83876659</guid>
+            <pubDate>Thu, 01 Jun 2023 09:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[아론]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/876/659/83876659_1685529284374_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[친구 얘긴데]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83876605</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83876605</guid>
+            <pubDate>Thu, 01 Jun 2023 09:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[그리즐리 (Grizzly)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/876/605/83876605_1685523122306_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Honey]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83877109</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83877109</guid>
+            <pubDate>Thu, 01 Jun 2023 09:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[숲튽훈]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/877/109/83877109_1685524238545_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Mañana (Our Drama)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83876984</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83876984</guid>
+            <pubDate>Thu, 01 Jun 2023 09:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[조미 (ZHOUMI)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/876/984/83876984_1685602258359_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[If I Success]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83874003</link>
@@ -102,70 +166,6 @@
             <pubDate>Thu, 01 Jun 2023 03:10:16 GMT</pubDate>
             <content:encoded><![CDATA[주설옥]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/873/177/83873177_1685439784851_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[푸른 일기장]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83873288</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83873288</guid>
-            <pubDate>Thu, 01 Jun 2023 03:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[메리애플]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/873/288/83873288_1685513901976_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Talk to Smiley]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83851775</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83851775</guid>
-            <pubDate>Thu, 01 Jun 2023 03:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[Smiley DeBron]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/851/775/83851775_1684777547371_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[러브 메이트 OST Part.3]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83873166</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83873166</guid>
-            <pubDate>Thu, 01 Jun 2023 03:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[하민 (BXB) &amp; 현우 (BXB) &amp; 시우 (BXB)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/873/166/83873166_1685526310221_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[빛의 파도]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83876594</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83876594</guid>
-            <pubDate>Thu, 01 Jun 2023 03:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[5252]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/876/594/83876594_1685510773265_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[before sunset]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83871363</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83871363</guid>
-            <pubDate>Thu, 01 Jun 2023 03:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[쵸이 (C.H.O.I)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/871/363/83871363_1685523589235_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Young Baller]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83874165</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83874165</guid>
-            <pubDate>Thu, 01 Jun 2023 03:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[Dorico (김도윤)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/874/165/83874165_1685528003198_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[난 너를 사랑한듯해]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83876489</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83876489</guid>
-            <pubDate>Thu, 01 Jun 2023 03:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[이제인]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/876/489/83876489_1685512959731_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Prime time never happens again]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83862593</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83862593</guid>
-            <pubDate>Thu, 01 Jun 2023 03:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[반디 (Bandi)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/862/593/83862593_1685516562487_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
