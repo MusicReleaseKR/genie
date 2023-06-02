@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 04:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 05:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 01 Jun 2023 09:14:10 GMT</pubDate>
             <content:encoded><![CDATA[손승연]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/873/357/83873357_1685525534570_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Popular (From The Idol Vol. 1 (Music from the HBO Original Series))]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83882773</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83882773</guid>
+            <pubDate>Fri, 02 Jun 2023 05:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[The Weeknd &amp; Madonna]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/882/773/83882773_1685680526909_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[연리지]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 02 Jun 2023 03:14:23 GMT</pubDate>
             <content:encoded><![CDATA[Dot Nol]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/873/104/83873104_1685523799247_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Eternal]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83873296</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83873296</guid>
-            <pubDate>Fri, 02 Jun 2023 03:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[Sixx]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/873/296/83873296_1685669880030_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
