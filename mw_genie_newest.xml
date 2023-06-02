@@ -4,9 +4,17 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 08:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 09:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ransome]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83876500</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83876500</guid>
+            <pubDate>Fri, 02 Jun 2023 09:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[우원재 (Woo)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/876/500/83876500_1685686014401_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[★★★★★ (5-STAR)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83874181</link>
@@ -14,6 +22,46 @@
             <pubDate>Fri, 02 Jun 2023 04:15:48 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/874/181/83874181_1685671635717_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[낭만닥터 김사부 3 OST Part.6]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83874354</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83874354</guid>
+            <pubDate>Fri, 02 Jun 2023 09:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[이적]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/874/354/83874354_1685682350916_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[have]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83877061</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83877061</guid>
+            <pubDate>Fri, 02 Jun 2023 09:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[장지수 (Sou)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/877/061/83877061_1685514333533_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[갈아타는 곳]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83877268</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83877268</guid>
+            <pubDate>Fri, 02 Jun 2023 09:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[리누 (Lee-Nu)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/877/268/83877268_1685687995174_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[내가 그린 기린 그림]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83876693</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83876693</guid>
+            <pubDate>Fri, 02 Jun 2023 09:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[고요]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/876/693/83876693_1685669866846_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[BASTIONS OST Part.3]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83880770</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83880770</guid>
+            <pubDate>Fri, 02 Jun 2023 09:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[브레이브걸스 (Brave girls) &amp; P. Cassady (피캐시디)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/880/770/83880770_1685683145346_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Riding a T-Rex]]></title>
@@ -118,54 +166,6 @@
             <pubDate>Fri, 02 Jun 2023 03:14:23 GMT</pubDate>
             <content:encoded><![CDATA[송효정]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/876/678/83876678_1685669869406_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[비가오면 비가오죠]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83876428</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83876428</guid>
-            <pubDate>Fri, 02 Jun 2023 03:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[쿠쿠크루]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/876/428/83876428_1685523141729_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[미스터로또 베스트 PART4]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83880984</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83880984</guid>
-            <pubDate>Fri, 02 Jun 2023 03:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/880/984/83880984_1685666916244_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[카페 앵커리지 OST Part.20]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83876479</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83876479</guid>
-            <pubDate>Fri, 02 Jun 2023 03:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[루미 (Rumy)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/876/479/83876479_1685592894071_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[해몽]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83872770</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83872770</guid>
-            <pubDate>Fri, 02 Jun 2023 03:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[찬민 (CHANMIN) &amp; 도정민]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/872/770/83872770_1685666907676_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[어쩔 수 없는 건 어쩔 수 없는 거야]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83874146</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83874146</guid>
-            <pubDate>Fri, 02 Jun 2023 03:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[지율]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/874/146/83874146_1685526401109_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑해라는 말을 하기 전에]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83873104</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83873104</guid>
-            <pubDate>Fri, 02 Jun 2023 03:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[Dot Nol]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/873/104/83873104_1685523799247_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
