@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 11:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 12:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 15 Jun 2023 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[미란이 (MIRANI)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/919/851/83919851_1686730685914_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Angel Pt. 2 (FAST X Soundtrack) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83926019</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83926019</guid>
+            <pubDate>Thu, 15 Jun 2023 12:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[Fast &amp; Furious : The Fast Saga &amp; 지민 &amp; 방탄소년단]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/926/019/83926019_1686659127392_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[CONTINUE? (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 15 Jun 2023 03:14:31 GMT</pubDate>
             <content:encoded><![CDATA[소울크라이 (SoulCry)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/920/272/83920272_1686641394250_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Oh My God (2023) (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=83920330</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83920330</guid>
-            <pubDate>Thu, 15 Jun 2023 03:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[앤씨아]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/920/330/83920330_1686621388311_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
