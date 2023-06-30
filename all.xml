@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 05:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 06:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=83996867</guid>
             <pubDate>Fri, 30 Jun 2023 04:17:53 GMT</pubDate>
             <content:encoded><![CDATA[Olivia Rodrigo]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/996/867/83996867_1688096127473_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/996/867/83996867_1688102727411_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Summer Dance (지니 모바일 ─ 최신음악)]]></title>
