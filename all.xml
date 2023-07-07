@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 04:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 05:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 06 Jul 2023 23:15:55 GMT</pubDate>
             <content:encoded><![CDATA[FIFTY FIFTY]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/016/983/84016983_1688584532794_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Perfect (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84015695</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84015695</guid>
+            <pubDate>Fri, 07 Jul 2023 05:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[Sam Smith &amp; Jessie Reyez &amp; Cat Burns]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/015/695/84015695_1688694949242_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[아이아이 (ii) (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Jul 2023 03:27:03 GMT</pubDate>
             <content:encoded><![CDATA[스탠다드원 (Standard1)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/006/626/84006626_1688634327231_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Fresh! (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84009769</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84009769</guid>
-            <pubDate>Fri, 07 Jul 2023 03:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[OVN (오븐)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/009/769/84009769_1688620008079_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
