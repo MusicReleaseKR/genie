@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 03:00:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 03:32:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 10 Jul 2023 03:00:23 GMT</pubDate>
             <content:encoded><![CDATA[DOKO (도코)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/997/191/83997191_1688720014195_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼퀸 2라운드 PART 2]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84019730</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84019730</guid>
+            <pubDate>Mon, 10 Jul 2023 03:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[진절머리 &amp; 드림퀸즈 &amp; 꽃보다 X4]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/019/730/84019730_1688714297242_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[honest]]></title>
