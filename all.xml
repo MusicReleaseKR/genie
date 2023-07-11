@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 23:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 01:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84029952</guid>
             <pubDate>Mon, 10 Jul 2023 09:16:15 GMT</pubDate>
             <content:encoded><![CDATA[송골매]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/029/952/84029952_1688970246394_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/029/952/84029952_1689037782320_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[그릇 (지니 모바일 ─ 최신음악)]]></title>
