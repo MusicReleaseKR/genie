@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 01:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 02:58:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84030430</guid>
             <pubDate>Wed, 12 Jul 2023 09:14:55 GMT</pubDate>
             <content:encoded><![CDATA[OuiOui (위위)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/030/430/84030430_1689053294186_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/030/430/84030430_1689215044055_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[이게 사랑이지 뭐야 (지니 모바일 ─ 최신음악)]]></title>
