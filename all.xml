@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 15:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 16:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 13 Jul 2023 09:14:54 GMT</pubDate>
             <content:encoded><![CDATA[IVE (아이브)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/039/945/84039945_1689213634156_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[What Was I Made For? (From The Motion Picture 'Barbie') (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84046293</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84046293</guid>
+            <pubDate>Thu, 13 Jul 2023 16:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[Billie Eilish]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/046/293/84046293_1689261327535_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[V12YL by BRANDNEW : got to be U 2023 (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 13 Jul 2023 03:29:04 GMT</pubDate>
             <content:encoded><![CDATA[청춘낭만사 (GSR) &amp; 필통]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/023/166/84023166_1689123908127_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[아지랑이 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84023336</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84023336</guid>
-            <pubDate>Thu, 13 Jul 2023 03:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[김뽐므]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/023/336/84023336_1689139159868_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
