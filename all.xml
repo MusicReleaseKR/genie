@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 14:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 15:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 13 Jul 2023 09:14:54 GMT</pubDate>
             <content:encoded><![CDATA[E SENS]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/030/364/84030364_1689227584110_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Rush (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84045888</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84045888</guid>
+            <pubDate>Thu, 13 Jul 2023 15:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[Troye Sivan]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/045/888/84045888_1689248127511_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[I WANT (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 13 Jul 2023 03:29:04 GMT</pubDate>
             <content:encoded><![CDATA[김뽐므]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/023/336/84023336_1689139159868_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[City Lights (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84039913</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84039913</guid>
-            <pubDate>Thu, 13 Jul 2023 03:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[버닝소다 (Burningsoda)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/039/913/84039913_1689215415794_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
