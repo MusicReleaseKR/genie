@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 05:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 06:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/011/506/84011506_1688447429359_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[타이다이 (지니 모바일 ─ 최신음악)]]></title>
+            <title><![CDATA[타이다이 (TIE DYE) (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84043309</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84043309</guid>
             <pubDate>Mon, 17 Jul 2023 03:02:50 GMT</pubDate>
