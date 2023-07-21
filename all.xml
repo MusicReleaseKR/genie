@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 03:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 04:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NewJeans 2nd EP 'Get Up' (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84019740</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84019740</guid>
+            <pubDate>Fri, 21 Jul 2023 04:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/019/740/84019740_1688692234715_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[신비아파트 특별판2 OST - 조선퇴마실록 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84059047</link>
@@ -14,14 +22,6 @@
             <pubDate>Fri, 21 Jul 2023 03:13:43 GMT</pubDate>
             <content:encoded><![CDATA[신비아파트]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/059/047/84059047_1689842912493_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[A Message From The Universe (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84064764</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84064764</guid>
-            <pubDate>Fri, 21 Jul 2023 03:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[SUMMER CAKE (썸머케익) &amp; 궤도]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/064/764/84064764_1689843715325_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Love Like This (지니 모바일 ─ 최신음악)]]></title>
@@ -38,6 +38,30 @@
             <pubDate>Fri, 21 Jul 2023 03:13:43 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/062/734/84062734_1689714996556_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[A Message From The Universe (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84064764</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84064764</guid>
+            <pubDate>Fri, 21 Jul 2023 03:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[SUMMER CAKE (썸머케익) &amp; 궤도]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/064/764/84064764_1689843715325_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[House on a Hill (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84068570</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84068570</guid>
+            <pubDate>Fri, 21 Jul 2023 04:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[에릭남 (Eric Nam)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/068/570/84068570_1689846627854_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Back To Me / Alive (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84059694</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84059694</guid>
+            <pubDate>Fri, 21 Jul 2023 04:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[The Rose (더 로즈)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/059/694/84059694_1689662869148_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[마당이 있는 집 OST (지니 모바일 ─ 최신음악)]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 21 Jul 2023 03:13:43 GMT</pubDate>
             <content:encoded><![CDATA[Elliot (엘리엇) &amp; Itzel]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/064/598/84064598_1689903313998_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[나에게만 웃어주는 한 사람 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84058502</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84058502</guid>
-            <pubDate>Thu, 20 Jul 2023 09:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[김유안]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/058/502/84058502_1689834310378_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[행복배틀 OST (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84055355</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84055355</guid>
-            <pubDate>Thu, 20 Jul 2023 09:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/055/355/84055355_1689751821194_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Marry Me (여름날 우리 X 양다일) (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84064580</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84064580</guid>
-            <pubDate>Thu, 20 Jul 2023 09:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[양다일]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/064/580/84064580_1689832523369_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
