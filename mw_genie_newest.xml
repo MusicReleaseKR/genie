@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 14:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 15:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 27 Jul 2023 09:13:20 GMT</pubDate>
             <content:encoded><![CDATA[정민]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/089/922/84089922_1690423024502_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Desire]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84081095</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84081095</guid>
+            <pubDate>Thu, 27 Jul 2023 15:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[Calvin Harris &amp; Sam Smith]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/081/095/84081095_1690218674772_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Kidd]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Jul 2023 03:13:23 GMT</pubDate>
             <content:encoded><![CDATA[PUP (펍)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/080/611/84080611_1690341682785_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[［송골매콘서트 - 40년만의 비행］ 실황 음원]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84084674</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84084674</guid>
-            <pubDate>Thu, 27 Jul 2023 03:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[송골매]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/084/674/84084674_1690424216037_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
