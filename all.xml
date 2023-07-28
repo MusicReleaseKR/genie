@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 03:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 04:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,12 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/094/727/84094727_1690458927490_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Desire (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84081095</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84081095</guid>
-            <pubDate>Thu, 27 Jul 2023 15:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[Calvin Harris &amp; Sam Smith]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/081/095/84081095_1690218674772_1_200x200.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[UTOPIA (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84098683</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84098683</guid>
+            <pubDate>Fri, 28 Jul 2023 04:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[Travis Scott]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/098/683/84098683_1690516345965_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[2 hands (지니 모바일 ─ 최신음악)]]></title>
@@ -40,12 +40,12 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/056/209/84056209_1690335577884_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[별사탕 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84092956</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84092956</guid>
-            <pubDate>Fri, 28 Jul 2023 03:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[올티 (Olltii)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/092/956/84092956_1690418537508_1_200x200.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[이브, 프시케 그리고 푸른 수염의 아내 (Rina Sawayama Remix) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84094324</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84094324</guid>
+            <pubDate>Fri, 28 Jul 2023 04:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[LE SSERAFIM (르세라핌)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/094/324/84094324_1690446050201_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Painkiller (지니 모바일 ─ 최신음악)]]></title>
@@ -54,6 +54,22 @@
             <pubDate>Fri, 28 Jul 2023 03:13:20 GMT</pubDate>
             <content:encoded><![CDATA[EMOSI]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/015/631/84015631_1689303390440_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Desire (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84081095</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84081095</guid>
+            <pubDate>Thu, 27 Jul 2023 15:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[Calvin Harris &amp; Sam Smith]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/081/095/84081095_1690218674772_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[별사탕 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84092956</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84092956</guid>
+            <pubDate>Fri, 28 Jul 2023 03:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[올티 (Olltii)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/092/956/84092956_1690418537508_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[베티 (지니 모바일 ─ 최신음악)]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 28 Jul 2023 03:13:20 GMT</pubDate>
             <content:encoded><![CDATA[달담 (DALDAM)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/080/586/84080586_1690336776968_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[쉬었다 가자 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84082856</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84082856</guid>
-            <pubDate>Fri, 28 Jul 2023 03:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[강주은]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/082/856/84082856_1690511403287_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[조약돌 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84082827</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84082827</guid>
-            <pubDate>Fri, 28 Jul 2023 03:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[운찬]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/082/827/84082827_1690425034408_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
