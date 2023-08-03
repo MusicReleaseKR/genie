@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 14:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 15:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/107/322/84107322_1690966530747_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[Love U Like That]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84116477</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84116477</guid>
+            <pubDate>Thu, 03 Aug 2023 15:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[Lauv]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/116/477/84116477_1690952731104_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[그 여름밤]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84094087</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84094087</guid>
@@ -40,12 +48,36 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/094/087/84094087_1690798680780_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[Paint The Town Red]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84101100</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84101100</guid>
+            <pubDate>Thu, 03 Aug 2023 15:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[Doja Cat]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/101/100/84101100_1690569631687_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[홀리비트]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84116635</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84116635</guid>
             <pubDate>Thu, 03 Aug 2023 09:15:42 GMT</pubDate>
             <content:encoded><![CDATA[케이스트릿]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/116/635/84116635_1691027805005_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[STRINGS]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84112570</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84112570</guid>
+            <pubDate>Thu, 03 Aug 2023 15:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[MAX]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/112/570/84112570_1690935336421_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[XXL]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84116476</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84116476</guid>
+            <pubDate>Thu, 03 Aug 2023 15:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[LANY]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/116/476/84116476_1690952730758_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[By The Calm Water]]></title>
@@ -134,38 +166,6 @@
             <pubDate>Thu, 03 Aug 2023 03:18:47 GMT</pubDate>
             <content:encoded><![CDATA[maji]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/116/890/84116890_1690962660089_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW MIND]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84116105</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84116105</guid>
-            <pubDate>Thu, 03 Aug 2023 03:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[NINE.i (나인아이)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/116/105/84116105_1690963436743_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Broomstick]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84107302</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84107302</guid>
-            <pubDate>Thu, 03 Aug 2023 03:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[Holynn]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/107/302/84107302_1690966424540_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑한다 했잖아요]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84111748</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84111748</guid>
-            <pubDate>Thu, 03 Aug 2023 03:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[이상은]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/111/748/84111748_1691027078780_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[FAKE LOVE]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84115929</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84115929</guid>
-            <pubDate>Thu, 03 Aug 2023 03:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[에이블루 (ABLUE)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/115/929/84115929_1690953222998_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
