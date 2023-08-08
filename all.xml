@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 23:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 01:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84127432</guid>
             <pubDate>Mon, 07 Aug 2023 09:14:01 GMT</pubDate>
             <content:encoded><![CDATA[전소미]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/127/432/84127432_1691371061520_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/127/432/84127432_1691456003174_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Reality Show - The 3rd Mini Album (지니 모바일 ─ 최신음악)]]></title>
