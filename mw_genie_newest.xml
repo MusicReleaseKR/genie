@@ -4,9 +4,49 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 08:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 09:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RAP TITANS]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84143612</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84143612</guid>
+            <pubDate>Sat, 12 Aug 2023 09:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[뉴올 (Nuol)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/143/612/84143612_1691731962327_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[잔혹한 인턴 OST Part.1]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84130008</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84130008</guid>
+            <pubDate>Sat, 12 Aug 2023 09:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[최유정 (Weki Meki)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/130/008/84130008_1691426772367_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[그리움에 지쳐서 힘들어 하는 밤]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84149691</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84149691</guid>
+            <pubDate>Sat, 12 Aug 2023 09:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[어쿠루브]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/149/691/84149691_1691735907555_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[다른]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84143895</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84143895</guid>
+            <pubDate>Sat, 12 Aug 2023 09:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[이우]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/143/895/84143895_1691736127098_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Call Call Call]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84143891</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84143891</guid>
+            <pubDate>Sat, 12 Aug 2023 09:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[림지 (LimJi)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/143/891/84143891_1691732966299_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[새벽을 걸어]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84140247</link>
@@ -126,46 +166,6 @@
             <pubDate>Sat, 12 Aug 2023 03:13:02 GMT</pubDate>
             <content:encoded><![CDATA[노아원러브 (NOAH1LUV)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/127/602/84127602_1691558976019_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[카페 앵커리지 OST Part.30]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84141191</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84141191</guid>
-            <pubDate>Sat, 12 Aug 2023 03:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[김대연]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/141/191/84141191_1691655647279_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Crispy]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84144382</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84144382</guid>
-            <pubDate>Sat, 12 Aug 2023 03:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[허스키 (HUSKI)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/144/382/84144382_1691658353692_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Malone House Vol. 3]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84145389</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84145389</guid>
-            <pubDate>Sat, 12 Aug 2023 03:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[Malone House]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/145/389/84145389_1691733203871_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[HOLD UP]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84140977</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84140977</guid>
-            <pubDate>Sat, 12 Aug 2023 03:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[909]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/140/977/84140977_1691645046709_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[비 내리는 장마군요]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84127773</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84127773</guid>
-            <pubDate>Sat, 12 Aug 2023 03:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[블루 베이커리(Blue Bakery)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/127/773/84127773_1691641759291_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
