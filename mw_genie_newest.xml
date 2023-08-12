@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 03:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 04:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sat, 12 Aug 2023 03:13:02 GMT</pubDate>
             <content:encoded><![CDATA[10CM]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/150/515/84150515_1691737792492_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Do It Like That (Jax Jones Remix)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84145188</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84145188</guid>
+            <pubDate>Sat, 12 Aug 2023 04:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[투모로우바이투게더 &amp; Jonas Brothers &amp; Jax Jones]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/145/188/84145188_1691651495435_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[MBN Y2K 댄스 가요제 ＜쇼킹나이트＞ 4회]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 12 Aug 2023 03:13:02 GMT</pubDate>
             <content:encoded><![CDATA[블루 베이커리(Blue Bakery)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/127/773/84127773_1691641759291_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[New York]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84127532</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84127532</guid>
-            <pubDate>Fri, 11 Aug 2023 09:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[Jason Lee (제이슨 리)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/127/532/84127532_1691633342334_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
