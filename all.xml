@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 14:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 15:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,12 +64,28 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/164/287/84164287_1692250026594_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[Lipstick (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84162824</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84162824</guid>
+            <pubDate>Thu, 17 Aug 2023 15:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[Charlie Puth]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/162/824/84162824_1692104440286_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[혼자 살아서 뭐해 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84157706</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84157706</guid>
             <pubDate>Thu, 17 Aug 2023 09:12:56 GMT</pubDate>
             <content:encoded><![CDATA[앤씨아]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/157/706/84157706_1691997036624_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Cupid - Twin Ver. (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84165423</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84165423</guid>
+            <pubDate>Thu, 17 Aug 2023 15:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[FIFTY FIFTY]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/165/423/84165423_1692260431748_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[친절하지 않아 (지니 모바일 ─ 최신음악)]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 16 Aug 2023 09:12:51 GMT</pubDate>
             <content:encoded><![CDATA[로시 (Rothy)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/144/729/84144729_1692170398387_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[New Edition 53 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84141613</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84141613</guid>
-            <pubDate>Thu, 17 Aug 2023 03:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[015B]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/141/613/84141613_1692239437700_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[트랄랄라 브라더스 베스트 PART16 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84164934</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84164934</guid>
-            <pubDate>Thu, 17 Aug 2023 03:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/164/934/84164934_1692238207626_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
