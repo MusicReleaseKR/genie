@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 03:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 04:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Fri, 18 Aug 2023 03:13:13 GMT</pubDate>
             <content:encoded><![CDATA[PL (피엘)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/144/156/84144156_1692249586608_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[ZONE]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84165223</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84165223</guid>
+            <pubDate>Fri, 18 Aug 2023 04:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[지효 (TWICE)]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/165/223/84165223_1692266236307_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Jack In The Box (HOPE Edition)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84172453</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84172453</guid>
+            <pubDate>Fri, 18 Aug 2023 04:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[j-hope]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/172/453/84172453_1692319579677_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Better Things]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84169207</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84169207</guid>
+            <pubDate>Fri, 18 Aug 2023 04:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[aespa]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/169/207/84169207_1692265444312_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Lipstick]]></title>
@@ -40,14 +64,6 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/164/143/84164143_1692253752920_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[미스터로또 베스트 PART15]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84169326</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84169326</guid>
-            <pubDate>Fri, 18 Aug 2023 03:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/169/326/84169326_1692324456035_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[불꽃밴드 Part.3 - 레전드밴드 X 컬래버싱어]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84172530</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84172530</guid>
@@ -64,20 +80,28 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/138/581/84138581_1691531487481_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Cupid - Twin Ver.]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84165423</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84165423</guid>
-            <pubDate>Thu, 17 Aug 2023 15:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[FIFTY FIFTY]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/165/423/84165423_1692260431748_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[happybirthdaytoyou!]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84116134</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84116134</guid>
             <pubDate>Fri, 18 Aug 2023 03:13:13 GMT</pubDate>
             <content:encoded><![CDATA[버둥]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/116/134/84116134_1692233155624_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터로또 베스트 PART15]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84169326</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84169326</guid>
+            <pubDate>Fri, 18 Aug 2023 03:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/169/326/84169326_1692324456035_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Cupid - Twin Ver.]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84165423</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84165423</guid>
+            <pubDate>Thu, 17 Aug 2023 15:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[FIFTY FIFTY]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/165/423/84165423_1692260431748_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Rubber Ball]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 18 Aug 2023 03:13:13 GMT</pubDate>
             <content:encoded><![CDATA[SAZA최우준]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/149/549/84149549_1692237162130_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[안 좋은 습관]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84163996</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84163996</guid>
-            <pubDate>Fri, 18 Aug 2023 03:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[damduck]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/163/996/84163996_1692319264665_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[INEEDYOURLOVE]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84133063</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84133063</guid>
-            <pubDate>Thu, 17 Aug 2023 09:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[로꼬]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/133/063/84133063_1692240647698_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[오랫동안 당신을 기다렸습니다 OST Part.4]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84165466</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84165466</guid>
-            <pubDate>Thu, 17 Aug 2023 09:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[정세운]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/165/466/84165466_1692251461124_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
