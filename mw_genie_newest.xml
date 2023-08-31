@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 03:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 04:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,12 +88,12 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/214/766/84214766_1693444353308_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Naive]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84211272</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84211272</guid>
+            <title><![CDATA[오늘은 헤어지는 날이죠]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84216291</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84216291</guid>
             <pubDate>Thu, 31 Aug 2023 03:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[YOUNGWON]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/211/272/84211272_1693301841020_1_200x200.JPG" length="0" type="image/JPG"/>
+            <content:encoded><![CDATA[이아영]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/216/291/84216291_1693445944608_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[divin']]></title>
@@ -112,12 +112,12 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/216/088/84216088_1693391500180_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[오늘은 헤어지는 날이죠]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84216291</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84216291</guid>
+            <title><![CDATA[Naive]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84211272</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84211272</guid>
             <pubDate>Thu, 31 Aug 2023 03:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[이아영]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/216/291/84216291_1693445944608_1_200x200.JPG" length="0" type="image/JPG"/>
+            <content:encoded><![CDATA[YOUNGWON]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/211/272/84211272_1693301841020_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[헤어지고 사랑을 배우는 나에요]]></title>
