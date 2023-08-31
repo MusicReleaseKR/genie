@@ -4,17 +4,9 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 07:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 08:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[너같은 새X는 뻐X가 최고야]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84198788</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84198788</guid>
-            <pubDate>Thu, 31 Aug 2023 03:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[가오가이 (kaogaii) &amp; 키츠요지 (kitsyojii)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/198/788/84198788_1693209841294_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
         <item>
             <title><![CDATA[영화 '차박- 살인과 낭만의 밤' OST Part 2]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84211211</link>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 31 Aug 2023 03:13:02 GMT</pubDate>
             <content:encoded><![CDATA[프리멜로]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/208/081/84208081_1693446979623_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[The moment : 美成年, Bounce.]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84194472</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84194472</guid>
+            <pubDate>Thu, 31 Aug 2023 08:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[김우진]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/194/472/84194472_1693294061262_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
