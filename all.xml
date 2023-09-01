@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 03:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 04:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 01 Sep 2023 03:13:57 GMT</pubDate>
             <content:encoded><![CDATA[Ruia]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/186/999/84186999_1693527052922_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Cheese (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84219461</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84219461</guid>
+            <pubDate>Fri, 01 Sep 2023 04:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/219/461/84219461_1693532127080_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Demons (지니 모바일 ─ 최신음악)]]></title>
@@ -64,28 +72,12 @@
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/191/530/84191530_1693533793841_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[과거로 돌아간다면 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84194265</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84194265</guid>
-            <pubDate>Thu, 31 Aug 2023 09:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[한동근]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/194/265/84194265_1693373371374_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[Plastic doll (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84214723</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84214723</guid>
             <pubDate>Fri, 01 Sep 2023 03:13:57 GMT</pubDate>
             <content:encoded><![CDATA[버블 시스터즈 (Bubble Sisters)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/214/723/84214723_1693457542658_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[미스터로또 베스트 PART17 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84219327</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84219327</guid>
-            <pubDate>Fri, 01 Sep 2023 03:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/219/327/84219327_1693531401298_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Ripple Effect (지니 모바일 ─ 최신음악)]]></title>
@@ -102,6 +94,22 @@
             <pubDate>Fri, 01 Sep 2023 03:13:57 GMT</pubDate>
             <content:encoded><![CDATA[소울크라이 &amp; 전철민 &amp; 기현 &amp; 카진 &amp; 하루 &amp; 달림 &amp; 박유나]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/220/122/84220122_1693472759005_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터로또 베스트 PART17 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84219327</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84219327</guid>
+            <pubDate>Fri, 01 Sep 2023 03:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/219/327/84219327_1693531401298_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[과거로 돌아간다면 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84194265</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84194265</guid>
+            <pubDate>Thu, 31 Aug 2023 09:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[한동근]]></content:encoded>
+            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/194/265/84194265_1693373371374_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Sunday Driver (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 01 Sep 2023 03:13:57 GMT</pubDate>
             <content:encoded><![CDATA[Peeky (피키)]]></content:encoded>
             <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/215/822/84215822_1693475275433_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[몽환 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84210757</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84210757</guid>
-            <pubDate>Fri, 01 Sep 2023 03:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[강백호 (AnyBodyThere) &amp; Navyn (네이빈)]]></content:encoded>
-            <enclosure url="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/210/757/84210757_1693362514878_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
