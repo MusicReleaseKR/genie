@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 17:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 18:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,7 +52,7 @@
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84286364</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84286364</guid>
             <pubDate>Fri, 22 Sep 2023 04:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[The Rose (더 로즈)]]></content:encoded>
+            <content:encoded><![CDATA[The Rose]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/286/364/84286364_1695109533280_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
