@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 14:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 15:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/297/914/84297914_1695712181616_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[NEW DNA]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84111585</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84111585</guid>
+            <pubDate>Tue, 26 Sep 2023 15:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[XG]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/111/585/84111585_1691025928185_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[내일 또 만나자]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84293493</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84293493</guid>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Sep 2023 03:13:38 GMT</pubDate>
             <content:encoded><![CDATA[조선블루스]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/292/910/84292910_1695695645556_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[25.9 여름의 징크스]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84303220</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84303220</guid>
-            <pubDate>Tue, 26 Sep 2023 03:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[소년:달]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/303/220/84303220_1695627636499_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
