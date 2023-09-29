@@ -4,9 +4,17 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 03:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 04:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3D]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84311313</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84311313</guid>
+            <pubDate>Fri, 29 Sep 2023 04:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[정국]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/311/313/84311313_1695776428788_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Autumn Variations]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84314163</link>
@@ -30,6 +38,22 @@
             <pubDate>Fri, 29 Sep 2023 03:13:25 GMT</pubDate>
             <content:encoded><![CDATA[LANY]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/312/437/84312437_1695786954421_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[4 Letters]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84305912</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84305912</guid>
+            <pubDate>Fri, 29 Sep 2023 04:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[B.I]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/305/912/84305912_1695638432139_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Better Things (RAYE Remix)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84308227</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84308227</guid>
+            <pubDate>Fri, 29 Sep 2023 04:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[aespa &amp; RAYE]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/308/227/84308227_1695797041375_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Better Off (Alone, Pt. III)]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 29 Sep 2023 03:13:25 GMT</pubDate>
             <content:encoded><![CDATA[Griffy]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/305/362/84305362_1695774425765_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Amor 'longing]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84298231</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84298231</guid>
-            <pubDate>Fri, 29 Sep 2023 03:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[floryy]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/298/231/84298231_1695734922614_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Let me love]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84304739</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84304739</guid>
-            <pubDate>Fri, 29 Sep 2023 03:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[DL]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/304/739/84304739_1695620433428_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[street love]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84304964</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84304964</guid>
-            <pubDate>Thu, 28 Sep 2023 09:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[Street Baby]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/304/964/84304964_1695783897124_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
