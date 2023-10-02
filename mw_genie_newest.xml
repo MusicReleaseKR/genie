@@ -4,9 +4,17 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 03:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 04:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3D : The Remixes]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84311693</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84311693</guid>
+            <pubDate>Mon, 02 Oct 2023 04:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[정국]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/311/693/84311693_1695781619437_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[발걸음]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84305027</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 01 Oct 2023 09:12:20 GMT</pubDate>
             <content:encoded><![CDATA[바이미 (by me)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/309/141/84309141_1695714721376_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[My Universe]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84304435</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84304435</guid>
-            <pubDate>Sun, 01 Oct 2023 09:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[전예지 (경서예지)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/304/435/84304435_1695797527740_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
