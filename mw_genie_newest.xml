@@ -4,9 +4,33 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 03:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 04:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fact Check - The 5th Album]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84344399</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84344399</guid>
+            <pubDate>Fri, 06 Oct 2023 04:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/344/399/84344399_1696559236022_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[JENNIE Special Single ［You & Me］]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84344886</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84344886</guid>
+            <pubDate>Fri, 06 Oct 2023 04:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[제니 (JENNIE)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/344/886/84344886_1696493428348_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Off The Record]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84297639</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84297639</guid>
+            <pubDate>Fri, 06 Oct 2023 04:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[IVE (아이브)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/297/639/84297639_1696563048470_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[화사한 그녀]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84339118</link>
@@ -30,6 +54,14 @@
             <pubDate>Fri, 06 Oct 2023 03:13:58 GMT</pubDate>
             <content:encoded><![CDATA[진준우 (JIN JUNWOO)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/297/789/84297789_1696485729529_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Dear Insanity...]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84343240</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84343240</guid>
+            <pubDate>Fri, 06 Oct 2023 04:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[DPR IAN]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/343/240/84343240_1696495320788_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[불꽃밴드 Part.9]]></title>
@@ -134,38 +166,6 @@
             <pubDate>Fri, 06 Oct 2023 03:13:58 GMT</pubDate>
             <content:encoded><![CDATA[마끼아또]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/338/138/84338138_1696557341783_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[너랑나랑]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84338271</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84338271</guid>
-            <pubDate>Fri, 06 Oct 2023 03:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[물 (Mool)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/338/271/84338271_1696556667060_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[이별의 이유가 불행이 되지는 말자]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84344361</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84344361</guid>
-            <pubDate>Fri, 06 Oct 2023 03:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[윤건호 &amp; Novnine]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/344/361/84344361_1696500448131_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Sure Thing]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84338321</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84338321</guid>
-            <pubDate>Thu, 05 Oct 2023 09:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[82MAJOR (에이티투메이저)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/338/321/84338321_1696473010645_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[찬바람이 불면]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84337621</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84337621</guid>
-            <pubDate>Thu, 05 Oct 2023 09:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[HYNN (박혜원)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/337/621/84337621_1696405153770_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
