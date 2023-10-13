@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 03:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 04:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I'VE MINE (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84297639</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84297639</guid>
+            <pubDate>Fri, 13 Oct 2023 04:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[IVE (아이브)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/297/639/84297639_1697167366974_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[이름의 장 : FREEFALL (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84374612</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84374612</guid>
+            <pubDate>Fri, 13 Oct 2023 04:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[투모로우바이투게더]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/374/612/84374612_1697158534777_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[LULUPOP The Party 모두 다 반할 걸? (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84365894</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 13 Oct 2023 03:14:25 GMT</pubDate>
             <content:encoded><![CDATA[밴드경지]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/366/175/84366175_1697163772558_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Moon Shower (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84286394</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84286394</guid>
-            <pubDate>Thu, 12 Oct 2023 09:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[넬 (NELL)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/286/394/84286394_1696926343565_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[독후감 下 (哀) (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84344379</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84344379</guid>
-            <pubDate>Thu, 12 Oct 2023 09:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[차우 (Chawoo)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/344/379/84344379_1697089832075_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
