@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 04:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 05:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/297/639/84297639_1697167366974_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[이름의 장 : FREEFALL (지니 모바일 ─ 최신음악)]]></title>
+            <title><![CDATA[이름의 장: FREEFALL (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84374612</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84374612</guid>
             <pubDate>Fri, 13 Oct 2023 04:16:04 GMT</pubDate>
