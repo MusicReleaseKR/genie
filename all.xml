@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 22:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 23:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TOO MUCH (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84400442</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84400442</guid>
+            <pubDate>Thu, 19 Oct 2023 23:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[The Kid LAROI &amp; 정국 &amp; Central Cee]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/400/442/84400442_1697756011344_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[울었어 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84387464</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 19 Oct 2023 03:13:30 GMT</pubDate>
             <content:encoded><![CDATA[강민수 (AQUINAS)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/375/149/84375149_1697676513908_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[홍김동전 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84391988</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84391988</guid>
-            <pubDate>Thu, 19 Oct 2023 03:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[언밸런스]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/391/988/84391988_1697682158449_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
