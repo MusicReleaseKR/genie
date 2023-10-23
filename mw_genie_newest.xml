@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 03:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 04:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 23 Oct 2023 03:14:33 GMT</pubDate>
             <content:encoded><![CDATA[APOKI]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/400/819/84400819_1697787906042_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Slow Dancing (Remix)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84411430</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84411430</guid>
+            <pubDate>Mon, 23 Oct 2023 04:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[V]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/411/430/84411430_1698023175109_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Weed Out]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 23 Oct 2023 03:14:33 GMT</pubDate>
             <content:encoded><![CDATA[아사히]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/396/766/84396766_1698021999845_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Pieces]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84401318</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84401318</guid>
-            <pubDate>Mon, 23 Oct 2023 03:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[Jane B]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/401/318/84401318_1698025519684_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
