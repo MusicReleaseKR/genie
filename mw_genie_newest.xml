@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 05:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 06:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84430260</guid>
             <pubDate>Fri, 27 Oct 2023 04:15:51 GMT</pubDate>
             <content:encoded><![CDATA[Taylor Swift]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/430/260/84430260_1698378807056_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/430/260/84430260_1698384343398_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Perfect Night]]></title>
