@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 03:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 04:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 30 Oct 2023 03:13:53 GMT</pubDate>
             <content:encoded><![CDATA[김마리]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/392/177/84392177_1698629692020_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Seven (David Guetta Remix) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84440245</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84440245</guid>
+            <pubDate>Mon, 30 Oct 2023 04:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[정국]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/440/245/84440245_1698630045909_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Space : (Acoustic Ver.) (지니 모바일 ─ 최신음악)]]></title>
@@ -96,6 +104,14 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/424/510/84424510_1698630769490_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[3D (MK Remix) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84440138</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84440138</guid>
+            <pubDate>Mon, 30 Oct 2023 04:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[정국]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/440/138/84440138_1698626736438_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[이어도사나 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84431254</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84431254</guid>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 30 Oct 2023 03:13:53 GMT</pubDate>
             <content:encoded><![CDATA[류가람]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/421/185/84421185_1698389602713_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Feel This Way (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84424560</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84424560</guid>
-            <pubDate>Mon, 30 Oct 2023 03:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[Anoc &amp; Hayne &amp; Fleen]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/424/560/84424560_1698630493440_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Do (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84430177</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84430177</guid>
-            <pubDate>Sun, 29 Oct 2023 09:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[Paul Blanco]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/430/177/84430177_1698389235440_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
