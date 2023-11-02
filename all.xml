@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 14:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 15:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 02 Nov 2023 09:13:33 GMT</pubDate>
             <content:encoded><![CDATA[pH-1]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/445/213/84445213_1698903103733_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Now And Then (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84450343</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84450343</guid>
+            <pubDate>Thu, 02 Nov 2023 15:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[The Beatles]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/450/343/84450343_1698937519318_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[WHERE DOES SASQUATCH LIVE? PART 2 (지니 모바일 ─ 최신음악)]]></title>
@@ -32,20 +40,20 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/447/433/84447433_1698900851115_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[LIFE (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84445026</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84445026</guid>
-            <pubDate>Thu, 02 Nov 2023 09:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[김필]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/445/026/84445026_1698906350925_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[Smoke (Remix) (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84445530</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84445530</guid>
             <pubDate>Thu, 02 Nov 2023 09:13:33 GMT</pubDate>
             <content:encoded><![CDATA[다이나믹 듀오 &amp; 지코 (ZICO) &amp; B.I &amp; 박재범 &amp; CHANGMO &amp; 제시 &amp; Padi (페디)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/445/530/84445530_1698893754248_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[LIFE (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84445026</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84445026</guid>
+            <pubDate>Thu, 02 Nov 2023 09:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[김필]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/445/026/84445026_1698906350925_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Thrifty Issue 02 (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Nov 2023 03:14:13 GMT</pubDate>
             <content:encoded><![CDATA[Urban Fisher]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/444/920/84444920_1698727239156_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[LUV PUNK (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84445038</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84445038</guid>
-            <pubDate>Thu, 02 Nov 2023 03:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[OAH! (오아!)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/445/038/84445038_1698806918891_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
