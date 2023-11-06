@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 04:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 05:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/445/370/84445370_1698987524393_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[ESPPRESSO MARTINI (지니 모바일 ─ 최신음악)]]></title>
+            <title><![CDATA[ESPRESSO MARTINI (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84450175</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84450175</guid>
             <pubDate>Mon, 06 Nov 2023 03:14:03 GMT</pubDate>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 06 Nov 2023 03:14:03 GMT</pubDate>
             <content:encoded><![CDATA[규빈]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/450/028/84450028_1698975249159_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Standing Next to You (The Remixes) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84458523</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84458523</guid>
+            <pubDate>Mon, 06 Nov 2023 05:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[정국]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/458/523/84458523_1699232161576_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[어디까지 간 거야 (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 06 Nov 2023 03:14:03 GMT</pubDate>
             <content:encoded><![CDATA[네프 (Neff)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/424/511/84424511_1699231316674_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[SLOW (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84448341</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84448341</guid>
-            <pubDate>Sun, 05 Nov 2023 09:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[환희]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/448/341/84448341_1698987358777_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
