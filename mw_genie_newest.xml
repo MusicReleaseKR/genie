@@ -4,9 +4,25 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 04:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 05:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Drama - The 4th Mini Album]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84472747</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84472747</guid>
+            <pubDate>Fri, 10 Nov 2023 05:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[aespa]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/472/747/84472747_1699512957643_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[樂-STAR]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84468130</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84468130</guid>
+            <pubDate>Fri, 10 Nov 2023 05:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/468/130/84468130_1699514695440_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Complete me]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84444592</link>
@@ -24,12 +40,12 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/466/428/84466428_1699386938759_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[THE FIRST TIME]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84463089</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84463089</guid>
-            <pubDate>Fri, 10 Nov 2023 03:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[The Kid LAROI]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/463/089/84463089_1699316739295_1_200x200.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[Love or Loved Part.2]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84475780</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84475780</guid>
+            <pubDate>Fri, 10 Nov 2023 05:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[B.I]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/475/780/84475780_1699577730844_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[BOSS LADY]]></title>
@@ -38,6 +54,14 @@
             <pubDate>Fri, 10 Nov 2023 03:13:55 GMT</pubDate>
             <content:encoded><![CDATA[V1VA (비바)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/467/298/84467298_1699511598020_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[THE FIRST TIME]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84463089</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84463089</guid>
+            <pubDate>Fri, 10 Nov 2023 03:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[The Kid LAROI]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/463/089/84463089_1699316739295_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[The Beatles 1967 – 1970 (2023 Edition)]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 10 Nov 2023 03:13:55 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/473/079/84473079_1699517706192_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Do!]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84463966</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84463966</guid>
-            <pubDate>Thu, 09 Nov 2023 09:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[OuiOui (위위)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/463/966/84463966_1699491743415_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[The Dawn of the Black and Ivory]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84463949</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84463949</guid>
-            <pubDate>Thu, 09 Nov 2023 09:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[Devine Channel &amp; 던 (DAWN)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/463/949/84463949_1699430657272_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[mYmY (마이마이)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84459685</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84459685</guid>
-            <pubDate>Thu, 09 Nov 2023 09:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[용용 (YongYong)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/459/685/84459685_1699439151804_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
