@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 07:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 08:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -132,7 +132,7 @@
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84467391</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84467391</guid>
             <pubDate>Mon, 13 Nov 2023 03:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[Mix.audio &amp; Nuevo Seoul &amp; 황은정 (ONCLASSA)]]></content:encoded>
+            <content:encoded><![CDATA[Mix.audio &amp; Nuevo Seoul &amp; 황은정]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/467/391/84467391_1699595301469_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
@@ -158,6 +158,14 @@
             <pubDate>Mon, 13 Nov 2023 03:13:42 GMT</pubDate>
             <content:encoded><![CDATA[란 (Ran)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/459/800/84459800_1699839756014_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[CHED&L (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84475912</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84475912</guid>
+            <pubDate>Mon, 13 Nov 2023 08:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[Way Ched (웨이체드) &amp; TRADE L]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/475/912/84475912_1699597609252_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
