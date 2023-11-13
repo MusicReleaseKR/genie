@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 09:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 10:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84476382</guid>
             <pubDate>Mon, 13 Nov 2023 09:14:12 GMT</pubDate>
             <content:encoded><![CDATA[정창룡]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/imageg/mobile_web/common/default_img.png" length="0" type="image/png"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/476/382/84476382_1699851846991_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[바라봐줘요 (베일드뮤지션 X 양요섭 & 손동운 With 청담동)]]></title>
