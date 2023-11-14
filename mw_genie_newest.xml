@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 09:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 10:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/477/553/84477553_1699864204217_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[Shadow]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84487264</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84487264</guid>
+            <pubDate>Tue, 14 Nov 2023 10:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[2Spade]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/487/264/84487264_1699929560404_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[APEX #1]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84487731</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84487731</guid>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Nov 2023 03:14:08 GMT</pubDate>
             <content:encoded><![CDATA[박필규]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/487/868/84487868_1699926631593_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[AowAo]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84477729</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84477729</guid>
-            <pubDate>Tue, 14 Nov 2023 03:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[장한나]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/477/729/84477729_1699605327943_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
