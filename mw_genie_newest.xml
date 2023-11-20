@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 04:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 05:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,28 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/494/054/84494054_1700207154968_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[쫌]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84500267</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84500267</guid>
-            <pubDate>Mon, 20 Nov 2023 03:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[이구이 (IGWI)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/500/267/84500267_1700209226838_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[전화도 못하고]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84500446</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84500446</guid>
             <pubDate>Mon, 20 Nov 2023 03:14:30 GMT</pubDate>
             <content:encoded><![CDATA[김보경 (NEON)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/500/446/84500446_1700203657258_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[TFT Remix Rumble (Steve Aoki Remix)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84500448</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84500448</guid>
+            <pubDate>Mon, 20 Nov 2023 05:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[League of Legends &amp; TEAMFIGHT TACTICS]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/500/448/84500448_1700446976635_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[쫌]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84500267</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84500267</guid>
+            <pubDate>Mon, 20 Nov 2023 03:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[이구이 (IGWI)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/500/267/84500267_1700209226838_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[1st Mini Album 'PLAY']]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 19 Nov 2023 09:12:25 GMT</pubDate>
             <content:encoded><![CDATA[한동근]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/489/945/84489945_1700206630996_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[wOw]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84498598</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84498598</guid>
-            <pubDate>Sun, 19 Nov 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[딜라잇 (DLight)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/498/598/84498598_1700198775800_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
