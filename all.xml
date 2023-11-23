@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 04:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 05:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 23 Nov 2023 03:14:15 GMT</pubDate>
             <content:encoded><![CDATA[나고은]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/513/383/84513383_1700563203565_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Perfect Night (Holiday Remix) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84519824</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84519824</guid>
+            <pubDate>Thu, 23 Nov 2023 05:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[LE SSERAFIM (르세라핌)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/519/824/84519824_1700638228477_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Humanoid operational (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Nov 2023 03:14:15 GMT</pubDate>
             <content:encoded><![CDATA[크로키오 (crockyO)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/513/016/84513016_1700641980188_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[난리났네 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84516194</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84516194</guid>
-            <pubDate>Thu, 23 Nov 2023 03:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[윤희]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/516/194/84516194_1700640205926_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
