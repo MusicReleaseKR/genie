@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 05:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 06:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Thu, 23 Nov 2023 09:13:44 GMT</pubDate>
             <content:encoded><![CDATA[길구봉구]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/515/741/84515741_1700563325848_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Siren]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84490158</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84490158</guid>
-            <pubDate>Fri, 24 Nov 2023 03:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[AB6IX (에이비식스)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/490/158/84490158_1699926682483_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[구름]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 24 Nov 2023 03:14:35 GMT</pubDate>
             <content:encoded><![CDATA[OVN (오븐)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/515/648/84515648_1700716320545_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Drunk]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84522439</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84522439</guid>
+            <pubDate>Fri, 24 Nov 2023 06:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[RYUKIE]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/522/439/84522439_1700793845724_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
