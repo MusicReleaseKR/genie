@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 04:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 05:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 24 Nov 2023 03:14:35 GMT</pubDate>
             <content:encoded><![CDATA[서인 (SOIN)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/519/830/84519830_1700723879863_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Jingle Bell Rock (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84522205</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84522205</guid>
+            <pubDate>Fri, 24 Nov 2023 05:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[aespa]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/522/205/84522205_1700790808877_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[지하철 여행기 : 이번 역은 3호선입니다 (지니 모바일 ─ 최신음악)]]></title>
@@ -46,6 +54,14 @@
             <pubDate>Fri, 24 Nov 2023 03:14:35 GMT</pubDate>
             <content:encoded><![CDATA[챤미나 (CHANMINA)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/517/905/84517905_1700594751459_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[3D (Justin Timberlake Remix) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84523592</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84523592</guid>
+            <pubDate>Fri, 24 Nov 2023 05:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[정국]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/523/592/84523592_1700720728364_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[낮에 뜨는 달 OST Part.4 (지니 모바일 ─ 최신음악)]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 24 Nov 2023 03:14:35 GMT</pubDate>
             <content:encoded><![CDATA[OVN (오븐)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/515/648/84515648_1700716320545_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Drunk (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84522439</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84522439</guid>
-            <pubDate>Fri, 24 Nov 2023 03:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[RYUKIE]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/522/439/84522439_1700793845724_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Fall in love (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84515443</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84515443</guid>
-            <pubDate>Fri, 24 Nov 2023 03:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[차가운]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/515/443/84515443_1700638997337_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
