@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 07:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 08:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,7 +52,7 @@
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84548129</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84548129</guid>
             <pubDate>Thu, 30 Nov 2023 03:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[가람 &amp; 인준 (대국남아) &amp; Jay]]></content:encoded>
+            <content:encoded><![CDATA[가람 &amp; 인준 &amp; Jay]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/548/129/84548129_1701234520004_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
