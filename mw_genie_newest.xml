@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 03:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 04:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84552907</guid>
             <pubDate>Fri, 01 Dec 2023 03:14:36 GMT</pubDate>
             <content:encoded><![CDATA[업타운 (UPTOWN)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/imageg/mobile_web/common/default_img.png" length="0" type="image/png"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/552/907/84552907_1701339562029_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[33.3]]></title>
@@ -61,7 +61,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84549817</guid>
             <pubDate>Fri, 01 Dec 2023 03:14:36 GMT</pubDate>
             <content:encoded><![CDATA[VV:on (비비온) &amp; yuri cleff]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/imageg/mobile_web/common/default_img.png" length="0" type="image/png"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/549/817/84549817_1701400836962_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[미스터로또 베스트 PART26]]></title>
