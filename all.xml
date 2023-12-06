@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 23:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 02:31:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,7 +116,7 @@
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84553430</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84553430</guid>
             <pubDate>Tue, 05 Dec 2023 03:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[유다빈밴드]]></content:encoded>
+            <content:encoded><![CDATA[유다빈]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/553/430/84553430_1701674311901_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
