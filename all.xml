@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 01:01:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 02:01:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,7 +136,7 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/575/814/84575814_1701846270807_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[거울속의 사람 (지니 모바일 ─ 최신음악)]]></title>
+            <title><![CDATA[거울 속의 사람 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84578296</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84578296</guid>
             <pubDate>Thu, 07 Dec 2023 03:14:21 GMT</pubDate>
