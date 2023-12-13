@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 06:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 07:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,7 +56,7 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/600/365/84600365_1702432956686_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[전자도시부평 (지니 모바일 ─ 최신음악)]]></title>
+            <title><![CDATA[부평사운드 2023 전자도시부평 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84585107</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84585107</guid>
             <pubDate>Wed, 13 Dec 2023 03:14:48 GMT</pubDate>
