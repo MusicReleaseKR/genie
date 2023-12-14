@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 09:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 10:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 14 Dec 2023 09:13:51 GMT</pubDate>
             <content:encoded><![CDATA[박지윤]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/576/498/84576498_1701794469438_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Fire! (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84607086</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84607086</guid>
+            <pubDate>Thu, 14 Dec 2023 10:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[Alan Walker &amp; JVKE &amp; 우기 ((여자)아이들)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/607/086/84607086_1702522541334_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Find the way (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Dec 2023 03:14:24 GMT</pubDate>
             <content:encoded><![CDATA[임도혁]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/600/712/84600712_1702514493164_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 겨울 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84597009</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84597009</guid>
-            <pubDate>Thu, 14 Dec 2023 03:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[뉘뉘 (NUITNUIT)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/597/009/84597009_1702449698210_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
