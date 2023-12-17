@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 14:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 15:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 17 Dec 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[주호]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/607/921/84607921_1702610272228_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Miracle (Korean Ver.)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84611563</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84611563</guid>
+            <pubDate>Sun, 17 Dec 2023 15:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[NEXZ (넥스지)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/611/563/84611563_1702627665955_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[그대, 그대, 그대]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 17 Dec 2023 03:14:02 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/603/506/84603506_1702602727452_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Winter Song]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84607913</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84607913</guid>
-            <pubDate>Sun, 17 Dec 2023 03:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[Sunnie (써니)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/607/913/84607913_1702610275150_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
