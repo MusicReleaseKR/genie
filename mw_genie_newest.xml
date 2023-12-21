@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 14:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 15:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Thu, 21 Dec 2023 09:13:13 GMT</pubDate>
             <content:encoded><![CDATA[소연 (LABOUM) &amp; 우석 (펜타곤)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/611/912/84611912_1703051451644_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[YOUNHA 20th Anniversary Digital Single '기다리다']]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84634045</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84634045</guid>
+            <pubDate>Thu, 21 Dec 2023 15:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[윤하 (YOUNHA)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/634/045/84634045_1703146188184_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[날개 (2024 Ver.)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 20 Dec 2023 09:11:27 GMT</pubDate>
             <content:encoded><![CDATA[미주 (MIJOO)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/625/470/84625470_1703050694078_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[UNIVERSE TICKET - LEVEL STATION]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84633321</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84633321</guid>
-            <pubDate>Thu, 21 Dec 2023 03:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[UNIVERSE TICKET]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/633/321/84633321_1703067221185_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
