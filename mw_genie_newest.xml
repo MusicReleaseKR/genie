@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 09:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 10:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/625/004/84625004_1703066875838_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Closer Than This]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84635917</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84635917</guid>
-            <pubDate>Fri, 22 Dec 2023 05:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[지민]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/635/917/84635917_1703127027985_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[Be There For Me - Winter Special Single]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84636411</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84636411</guid>
             <pubDate>Fri, 22 Dec 2023 09:13:38 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/636/411/84636411_1703222092753_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Closer Than This]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84635917</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84635917</guid>
+            <pubDate>Fri, 22 Dec 2023 05:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[지민]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/635/917/84635917_1703127027985_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[손가락만 까딱하면 OST Part.1]]></title>
@@ -92,7 +92,7 @@
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84635927</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84635927</guid>
             <pubDate>Fri, 22 Dec 2023 09:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <content:encoded><![CDATA[수호 (SUHO)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/635/927/84635927_1703221758708_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
