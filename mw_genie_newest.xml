@@ -4,9 +4,17 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 03:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 04:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소원을 빌어]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84633839</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84633839</guid>
+            <pubDate>Fri, 22 Dec 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[안유진 (IVE)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/633/839/84633839_1703046927895_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[뿜빠이]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84572840</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 21 Dec 2023 09:13:13 GMT</pubDate>
             <content:encoded><![CDATA[고영배 (소란)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/572/786/84572786_1703061809117_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[화이트 (White)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84630686</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84630686</guid>
-            <pubDate>Thu, 21 Dec 2023 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[폴킴]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/630/686/84630686_1703128821135_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
