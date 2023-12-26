@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 03:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 04:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,12 +136,12 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/631/161/84631161_1703299764932_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[우리가 사는 별 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84635877</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84635877</guid>
-            <pubDate>Tue, 26 Dec 2023 03:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[트루베르]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/635/877/84635877_1703139385200_1_200x200.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[쉬어가요 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84635789</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84635789</guid>
+            <pubDate>Tue, 26 Dec 2023 04:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[내리]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/635/789/84635789_1703250131931_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[To my Muse (지니 모바일 ─ 최신음악)]]></title>
