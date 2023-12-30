@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 04:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 05:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 30 Dec 2023 03:13:46 GMT</pubDate>
             <content:encoded><![CDATA[Heon Seo (헌서)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/637/779/84637779_1703814955115_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[wherever u r (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84653385</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84653385</guid>
+            <pubDate>Sat, 30 Dec 2023 05:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[UMI &amp; V]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/653/385/84653385_1703780129079_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Frog Man (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 29 Dec 2023 09:13:36 GMT</pubDate>
             <content:encoded><![CDATA[LUCY]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/648/349/84648349_1703749552308_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[풍각쟁이 리믹스 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84652973</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84652973</guid>
-            <pubDate>Fri, 29 Dec 2023 09:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[CHERRY BOY 17 (체리보이17)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/652/973/84652973_1703826409465_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
