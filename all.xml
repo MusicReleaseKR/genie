@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Dec 2023 14:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 15:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1조 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84654069</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84654069</guid>
+            <pubDate>Sun, 31 Dec 2023 15:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[이찬혁]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/654/069/84654069_1703809260401_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[오늘 하루도 고생했어 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84633996</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 31 Dec 2023 03:14:51 GMT</pubDate>
             <content:encoded><![CDATA[최린 (미니마니)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/643/855/84643855_1703811542376_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[U-BUSKING 청춘 레코드 part.3 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84650112</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84650112</guid>
-            <pubDate>Sun, 31 Dec 2023 03:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[위아위안 &amp; 정승훈 &amp; BOK]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/650/112/84650112_1703832364318_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
