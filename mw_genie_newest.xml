@@ -4,9 +4,49 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Dec 2023 08:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 09:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘 하루도 고생했어]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84633996</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84633996</guid>
+            <pubDate>Sun, 31 Dec 2023 09:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[DOKO (도코)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/633/996/84633996_1703814959424_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Fairy]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84648767</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84648767</guid>
+            <pubDate>Sun, 31 Dec 2023 09:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[마크툽 (Maktub)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/648/767/84648767_1703837890449_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[마에스트라 OST Part.4]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84649123</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84649123</guid>
+            <pubDate>Sun, 31 Dec 2023 09:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[제아 (브라운아이드걸스)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/649/123/84649123_1703832368111_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[시작]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84643832</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84643832</guid>
+            <pubDate>Sun, 31 Dec 2023 09:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[시연 (드림캐쳐)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/643/832/84643832_1703656838568_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Auto]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84654419</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84654419</guid>
+            <pubDate>Sun, 31 Dec 2023 09:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[SYCHO]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/654/419/84654419_1703834916178_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[World]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84643843</link>
@@ -126,46 +166,6 @@
             <pubDate>Sun, 31 Dec 2023 03:14:51 GMT</pubDate>
             <content:encoded><![CDATA[위아위안 &amp; 정승훈 &amp; BOK]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/650/112/84650112_1703832364318_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[그 거리]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84612350</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84612350</guid>
-            <pubDate>Sat, 30 Dec 2023 09:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[#안녕]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/612/350/84612350_1703814949783_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑노래]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84647202</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84647202</guid>
-            <pubDate>Sat, 30 Dec 2023 09:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[dori]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/647/202/84647202_1703640946602_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Bye]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84651925</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84651925</guid>
-            <pubDate>Sat, 30 Dec 2023 09:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[오존 (O3ohn)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/651/925/84651925_1703830632085_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[웰컴투 삼달리 OST Part.5]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84652697</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84652697</guid>
-            <pubDate>Sat, 30 Dec 2023 09:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[범진]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/652/697/84652697_1703754846181_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[손가락만 까딱하면 OST Part.2]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84653087</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84653087</guid>
-            <pubDate>Sat, 30 Dec 2023 09:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[민서 (MINSEO)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/653/087/84653087_1703813925417_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
