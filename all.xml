@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 01:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 02:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/685/459/84685459_1704861444481_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[FIRST MINI ALBUM ＜ALL OURS＞ (지니 모바일 ─ 최신음악)]]></title>
+            <title><![CDATA[ALL OURS (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84687975</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84687975</guid>
             <pubDate>Wed, 10 Jan 2024 09:14:03 GMT</pubDate>
