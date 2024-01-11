@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 14:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 15:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Thu, 11 Jan 2024 09:14:01 GMT</pubDate>
             <content:encoded><![CDATA[BXB]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/687/926/84687926_1704946836537_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어게인3 - 무명가수전 Episode.12]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84691299</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84691299</guid>
+            <pubDate>Thu, 11 Jan 2024 15:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/691/299/84691299_1704954113856_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[너처럼 날 사랑할 수 있게]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 11 Jan 2024 03:14:32 GMT</pubDate>
             <content:encoded><![CDATA[머디레드 (Muddy Red)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/688/212/84688212_1704781528129_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[THRONE AND LIBERTY - Adventures in Solisium]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84675645</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84675645</guid>
-            <pubDate>Thu, 11 Jan 2024 03:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[NCSOUND]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/675/645/84675645_1704880752553_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
