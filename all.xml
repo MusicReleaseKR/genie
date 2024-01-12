@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 04:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 05:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[yes, and? (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84697264</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84697264</guid>
+            <pubDate>Fri, 12 Jan 2024 05:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[Ariana Grande]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/697/264/84697264_1705034188038_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Still Here (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84662987</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 11 Jan 2024 09:14:01 GMT</pubDate>
             <content:encoded><![CDATA[LIMELIGHT (라임라잇)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/687/801/84687801_1704953333260_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[그 날 이후 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84691447</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84691447</guid>
-            <pubDate>Thu, 11 Jan 2024 09:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[송하예]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/691/447/84691447_1704937957073_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
