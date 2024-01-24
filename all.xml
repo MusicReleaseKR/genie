@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 04:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 05:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 24 Jan 2024 03:14:48 GMT</pubDate>
             <content:encoded><![CDATA[키츠요지 (kitsyojii)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/711/668/84711668_1705973174121_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[2ROX (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84730032</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84730032</guid>
+            <pubDate>Wed, 24 Jan 2024 05:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[류수정]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/730/032/84730032_1706057279147_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[사랑 그 그리움3 (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 23 Jan 2024 09:14:37 GMT</pubDate>
             <content:encoded><![CDATA[설아 (우주소녀)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/726/857/84726857_1705975999700_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[track by YOON : 괜찮아지겠지 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84727162</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84727162</guid>
-            <pubDate>Tue, 23 Jan 2024 09:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[윤종신 &amp; 에디킴]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/727/162/84727162_1705976579850_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
