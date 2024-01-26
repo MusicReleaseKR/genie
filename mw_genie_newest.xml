@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 04:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 05:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Thu, 25 Jan 2024 15:15:04 GMT</pubDate>
             <content:encoded><![CDATA[WOOZI (SEVENTEEN)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/738/132/84738132_1706147806637_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Girls of the Year]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84739691</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84739691</guid>
+            <pubDate>Fri, 26 Jan 2024 05:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[VCHA]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/739/691/84739691_1706236956845_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[iScreaM Vol.29 : Fact Check (불가사의; 不可思議) (Remixes)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84737827</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84737827</guid>
+            <pubDate>Fri, 26 Jan 2024 05:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 &amp; 2Spade &amp; HYPNOSIS THERAPY]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/737/827/84737827_1706172951856_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[SWDITB]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 25 Jan 2024 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[김범수]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/730/445/84730445_1706145323783_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[푸른동경]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84734240</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84734240</guid>
-            <pubDate>Thu, 25 Jan 2024 09:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[스웨덴세탁소]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/734/240/84734240_1706090044903_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[So Bad]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84727748</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84727748</guid>
-            <pubDate>Thu, 25 Jan 2024 09:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[JMIN]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/727/748/84727748_1706145325734_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
