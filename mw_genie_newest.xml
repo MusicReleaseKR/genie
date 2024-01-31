@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 14:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 15:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,12 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/739/046/84739046_1706681423449_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Broken]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84750538</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84750538</guid>
-            <pubDate>Wed, 31 Jan 2024 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[Seori]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/750/538/84750538_1706488897513_1_200x200.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[BABYMONSTER Pre-Release Single ［Stuck In The Middle］]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84756755</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84756755</guid>
+            <pubDate>Wed, 31 Jan 2024 15:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[BABYMONSTER]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/756/755/84756755_1706661718526_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[광 (狂)]]></title>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 31 Jan 2024 09:12:44 GMT</pubDate>
             <content:encoded><![CDATA[윤종신]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/756/879/84756879_1706680788272_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Broken]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84750538</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84750538</guid>
+            <pubDate>Wed, 31 Jan 2024 09:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[Seori]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/750/538/84750538_1706488897513_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[색깔얼룩말]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 31 Jan 2024 03:13:59 GMT</pubDate>
             <content:encoded><![CDATA[가가멜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/754/122/84754122_1706604961006_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[살리에리]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84752350</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84752350</guid>
-            <pubDate>Wed, 31 Jan 2024 03:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[쏘망 (50mang)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/752/350/84752350_1706659759672_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
