@@ -4,9 +4,65 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 08:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 09:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불면증]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84738729</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84738729</guid>
+            <pubDate>Thu, 01 Feb 2024 09:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[놀플라워]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/738/729/84738729_1706751701264_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[회상]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84754731</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84754731</guid>
+            <pubDate>Thu, 01 Feb 2024 09:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[김민석]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/754/731/84754731_1706756904584_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[대박디스코 - 어쩌다 사장3 OST]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84760651</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84760651</guid>
+            <pubDate>Thu, 01 Feb 2024 09:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[박서진]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/760/651/84760651_1706769156253_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Eternal]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84754791</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84754791</guid>
+            <pubDate>Thu, 01 Feb 2024 09:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[EDEN]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/754/791/84754791_1706694223574_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84755439</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84755439</guid>
+            <pubDate>Thu, 01 Feb 2024 09:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[브로맨스 (VROMANCE)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/755/439/84755439_1706757835953_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[O Christmas Tree]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84757154</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84757154</guid>
+            <pubDate>Thu, 01 Feb 2024 09:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[정연]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/757/154/84757154_1706692820687_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Last Train]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84750685</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84750685</guid>
+            <pubDate>Thu, 01 Feb 2024 09:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/750/685/84750685_1706604976800_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Vantablack Dreams]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84750788</link>
@@ -110,62 +166,6 @@
             <pubDate>Thu, 01 Feb 2024 03:14:44 GMT</pubDate>
             <content:encoded><![CDATA[파리채]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/755/164/84755164_1706686588307_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[I don't want that]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84751313</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84751313</guid>
-            <pubDate>Thu, 01 Feb 2024 03:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[The Semmy]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/751/313/84751313_1706666291839_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[처음으로 다시, 안녕]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84738361</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84738361</guid>
-            <pubDate>Thu, 01 Feb 2024 03:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[유태]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/738/361/84738361_1706582592956_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[피도 눈물도 없이 OST Part.2]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84755234</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84755234</guid>
-            <pubDate>Thu, 01 Feb 2024 03:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[란 (Ran)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/755/234/84755234_1706752087910_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[(EPisode) 별빛의 노래]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84743410</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84743410</guid>
-            <pubDate>Thu, 01 Feb 2024 03:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[김빛찬]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/743/410/84743410_1706752235008_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[LA SOL MI]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84739046</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84739046</guid>
-            <pubDate>Wed, 31 Jan 2024 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[유겸 (YUGYEOM)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/739/046/84739046_1706681423449_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[광 (狂)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84754201</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84754201</guid>
-            <pubDate>Wed, 31 Jan 2024 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[2BIC(투빅)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/754/201/84754201_1706604945105_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Sick of Love]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84753934</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84753934</guid>
-            <pubDate>Wed, 31 Jan 2024 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[BOYCOLD]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/753/934/84753934_1706679855928_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
