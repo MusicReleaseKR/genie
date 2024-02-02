@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 04:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 05:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I GOT YOU (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84760614</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84760614</guid>
+            <pubDate>Fri, 02 Feb 2024 05:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE (트와이스)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/760/614/84760614_1706782374409_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[STAY (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84751626</link>
@@ -24,12 +32,12 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/756/866/84756866_1706782433963_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[미스트롯3 팀 메들리 미션 베스트 PART1 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84758241</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84758241</guid>
-            <pubDate>Fri, 02 Feb 2024 03:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/758/241/84758241_1706783458136_1_200x200.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[KINEMA (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84757529</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84757529</guid>
+            <pubDate>Fri, 02 Feb 2024 05:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[DPR ARTIC]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/757/529/84757529_1706782593355_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[I GO (지니 모바일 ─ 최신음악)]]></title>
@@ -54,6 +62,14 @@
             <pubDate>Fri, 02 Feb 2024 03:14:17 GMT</pubDate>
             <content:encoded><![CDATA[krnb]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/760/788/84760788_1706763996047_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[미스트롯3 팀 메들리 미션 베스트 PART1 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84758241</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84758241</guid>
+            <pubDate>Fri, 02 Feb 2024 03:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/758/241/84758241_1706783458136_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[이방인 (지니 모바일 ─ 최신음악)]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 01 Feb 2024 09:14:03 GMT</pubDate>
             <content:encoded><![CDATA[놀플라워]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/738/729/84738729_1706751701264_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[회상 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84754731</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84754731</guid>
-            <pubDate>Thu, 01 Feb 2024 09:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[김민석]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/754/731/84754731_1706756904584_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[대박디스코 - 어쩌다 사장3 OST (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84760651</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84760651</guid>
-            <pubDate>Thu, 01 Feb 2024 09:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[박서진]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/760/651/84760651_1706769156253_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
