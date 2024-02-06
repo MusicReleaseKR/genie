@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 04:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 05:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,12 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/771/386/84771386_1707122674367_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[KC (BUST IT DOWN) (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84772251</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84772251</guid>
-            <pubDate>Tue, 06 Feb 2024 03:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[식케이 (Sik-K) &amp; 김하온 (HAON)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/772/251/84772251_1707183389621_1_200x200.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[I GOT YOU (Voyage Ver.) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84772873</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84772873</guid>
+            <pubDate>Tue, 06 Feb 2024 05:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE (트와이스)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/772/873/84772873_1707183502374_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[25 - A COLORS SHOW (지니 모바일 ─ 최신음악)]]></title>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 06 Feb 2024 03:14:36 GMT</pubDate>
             <content:encoded><![CDATA[이원석 (데이브레이크)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/771/550/84771550_1707122799958_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[KC (BUST IT DOWN) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84772251</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84772251</guid>
+            <pubDate>Tue, 06 Feb 2024 03:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[식케이 (Sik-K) &amp; 김하온 (HAON)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/772/251/84772251_1707183389621_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[No Mo Problem (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 05 Feb 2024 09:13:13 GMT</pubDate>
             <content:encoded><![CDATA[신현우]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/763/747/84763747_1707096881609_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[졸업식 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84764219</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84764219</guid>
-            <pubDate>Mon, 05 Feb 2024 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[EPEX (이펙스)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/764/219/84764219_1707114788490_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
