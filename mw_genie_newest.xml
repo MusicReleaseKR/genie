@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 09:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 10:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84801635</guid>
             <pubDate>Wed, 14 Feb 2024 09:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이영현 &amp; 박민혜 (빅마마)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/imageg/mobile_web/common/default_img.png" length="0" type="image/png"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/801/635/84801635_1707892907546_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[너도 해방]]></title>
