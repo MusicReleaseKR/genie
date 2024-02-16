@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 04:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 05:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[yes, and? (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84808213</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84808213</guid>
+            <pubDate>Fri, 16 Feb 2024 05:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[Ariana Grande &amp; Mariah Carey]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/808/213/84808213_1708057588248_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[가로등 아래에서 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84781151</link>
@@ -14,6 +22,14 @@
             <pubDate>Fri, 16 Feb 2024 03:14:57 GMT</pubDate>
             <content:encoded><![CDATA[Western P.I.G]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/781/151/84781151_1707982653349_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[손오공 (Workout Remix) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84805135</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84805135</guid>
+            <pubDate>Fri, 16 Feb 2024 05:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴 (SEVENTEEN)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/805/135/84805135_1707976299633_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Training Season (지니 모바일 ─ 최신음악)]]></title>
@@ -133,7 +149,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84804691</guid>
             <pubDate>Fri, 16 Feb 2024 03:14:57 GMT</pubDate>
             <content:encoded><![CDATA[Leebae]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/imageg/mobile_web/common/default_img.png" length="0" type="image/png"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/804/691/84804691_1708048555501_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Unfair (지니 모바일 ─ 최신음악)]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 16 Feb 2024 03:14:57 GMT</pubDate>
             <content:encoded><![CDATA[Midnight Bloo]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/805/067/84805067_1707990567648_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[NAKSEO［戀］ (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84798097</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84798097</guid>
-            <pubDate>Thu, 15 Feb 2024 09:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[DK (김동혁)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/798/097/84798097_1707964840442_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[ENTITY (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84801192</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84801192</guid>
-            <pubDate>Thu, 15 Feb 2024 09:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[차은우 (ASTRO)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/801/192/84801192_1707963932404_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
