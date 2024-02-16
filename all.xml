@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 03:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 04:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -133,7 +133,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84804691</guid>
             <pubDate>Fri, 16 Feb 2024 03:14:57 GMT</pubDate>
             <content:encoded><![CDATA[Leebae]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/804/691/84804691_1708048555501_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://image.genie.co.kr/imageg/mobile_web/common/default_img.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Unfair (지니 모바일 ─ 최신음악)]]></title>
