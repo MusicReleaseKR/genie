@@ -4,9 +4,65 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 08:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 09:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤성준]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84801565</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84801565</guid>
+            <pubDate>Sat, 24 Feb 2024 09:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[윤토벤 (YounToven)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/801/565/84801565_1708587881904_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[날 그만 잊어요]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84818023</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84818023</guid>
+            <pubDate>Sat, 24 Feb 2024 09:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[마크툽 (Maktub)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/818/023/84818023_1708678987535_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[닥터슬럼프 OST Part.4]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84831182</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84831182</guid>
+            <pubDate>Sat, 24 Feb 2024 09:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[정기고 (Junggigo)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/831/182/84831182_1708668218529_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Empty Paper]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84823717</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84823717</guid>
+            <pubDate>Sat, 24 Feb 2024 09:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[우석 (펜타곤)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/823/717/84823717_1708671550662_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Souly. (deluxe)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84825396</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84825396</guid>
+            <pubDate>Sat, 24 Feb 2024 09:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[Marv]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/825/396/84825396_1708565502166_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[LDH TIMES]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84810457</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84810457</guid>
+            <pubDate>Sat, 24 Feb 2024 09:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[이동현]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/810/457/84810457_1708424601300_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[빛 조각]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84817854</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84817854</guid>
+            <pubDate>Sat, 24 Feb 2024 09:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[시호 (SIHO)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/817/854/84817854_1708655370045_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[빌드업 : 보컬 보이그룹 서바이벌 Part 2]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84817815</link>
@@ -110,62 +166,6 @@
             <pubDate>Sat, 24 Feb 2024 03:16:13 GMT</pubDate>
             <content:encoded><![CDATA[Loeyn (로엔)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/825/658/84825658_1708598737664_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[어때]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84818540</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84818540</guid>
-            <pubDate>Sat, 24 Feb 2024 03:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[VINCI]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/818/540/84818540_1708648089966_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[supersound]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84818484</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84818484</guid>
-            <pubDate>Sat, 24 Feb 2024 03:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[태선리]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/818/484/84818484_1708671455958_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[lovely]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84817830</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84817830</guid>
-            <pubDate>Sat, 24 Feb 2024 03:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[주혜주 &amp; 김예준]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/817/830/84817830_1708668688594_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[모두 다 잊을거라고 쉽게 말하지마]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84808607</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84808607</guid>
-            <pubDate>Sat, 24 Feb 2024 03:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[김풀잎]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/808/607/84808607_1708504121051_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[What Makes You Beautiful (THE 시즌즈 : 이효리의 레드카펫)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84696710</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84696710</guid>
-            <pubDate>Fri, 23 Feb 2024 09:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/696/710/84696710_1708588490533_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[억 냄새]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84818392</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84818392</guid>
-            <pubDate>Fri, 23 Feb 2024 09:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[Nudeboi Seo (누드보이 서)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/818/392/84818392_1708596703716_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Circles]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84823234</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84823234</guid>
-            <pubDate>Fri, 23 Feb 2024 09:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[ASTRO (아스트로)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/823/234/84823234_1708659041582_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
