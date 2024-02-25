@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 14:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 15:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 25 Feb 2024 09:11:30 GMT</pubDate>
             <content:encoded><![CDATA[김연지]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/797/990/84797990_1708652908928_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[민들레 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84831567</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84831567</guid>
+            <pubDate>Sun, 25 Feb 2024 15:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[승관 (SEVENTEEN)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/831/567/84831567_1708665706840_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[진심 (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 25 Feb 2024 03:13:42 GMT</pubDate>
             <content:encoded><![CDATA[리디아 (Lydia)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/822/589/84822589_1708657647113_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[M.L.I.A.S (My Love Is Always Standing) (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84825985</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84825985</guid>
-            <pubDate>Sun, 25 Feb 2024 03:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[릴피쉬 (Lil FISH)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/825/985/84825985_1708671580486_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
