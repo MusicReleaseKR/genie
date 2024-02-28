@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 09:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 10:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/842/496/84842496_1709014669297_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[2024 월간 윤종신 2월호]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84843085</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84843085</guid>
-            <pubDate>Wed, 28 Feb 2024 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[윤종신]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/843/085/84843085_1709091717688_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[WISH]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84842456</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84842456</guid>
             <pubDate>Wed, 28 Feb 2024 09:13:18 GMT</pubDate>
             <content:encoded><![CDATA[NCT WISH]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/842/456/84842456_1709083336225_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 월간 윤종신 2월호]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84843085</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84843085</guid>
+            <pubDate>Wed, 28 Feb 2024 09:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[윤종신]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/843/085/84843085_1709091717688_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Monthly Flower Project #2]]></title>
