@@ -4,9 +4,33 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 04:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 05:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Slow Motion]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84834438</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84834438</guid>
+            <pubDate>Fri, 08 Mar 2024 05:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[Matt Champion &amp; 제니 (JENNIE)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/834/438/84834438_1708735288948_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[eternal sunshine]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84871152</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84871152</guid>
+            <pubDate>Fri, 08 Mar 2024 05:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[Ariana Grande]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/871/152/84871152_1709872588198_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[HOUSE OF TRICKY : Trial And Error]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84868507</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84868507</guid>
+            <pubDate>Fri, 08 Mar 2024 05:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[xikers (싸이커스)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/868/507/84868507_1709828858861_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[환승연애3 OST Part 8]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84862228</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 07 Mar 2024 09:11:56 GMT</pubDate>
             <content:encoded><![CDATA[Skinny Brown &amp; Kid Wine]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/865/617/84865617_1709774763313_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[영원히 영원히]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84861922</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84861922</guid>
-            <pubDate>Thu, 07 Mar 2024 09:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[길구봉구]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/861/922/84861922_1709712501427_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[병원에선 괜찮다고 해]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84864734</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84864734</guid>
-            <pubDate>Thu, 07 Mar 2024 09:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[지아]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/864/734/84864734_1709797425972_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[YAINS]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84862315</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84862315</guid>
-            <pubDate>Thu, 07 Mar 2024 09:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[호미들]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/862/315/84862315_1709693566978_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
