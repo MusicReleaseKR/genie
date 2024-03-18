@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 04:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 05:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -165,7 +165,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84877249</guid>
             <pubDate>Mon, 18 Mar 2024 03:14:52 GMT</pubDate>
             <content:encoded><![CDATA[윤찬 &amp; 마이웨이사운드]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/877/249/84877249_1710293992974_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/877/249/84877249_1710738613731_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
