@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 00:57:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 01:49:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/887/927/84887927_1710727255599_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[그 때 그대와]]></title>
+            <title><![CDATA[그때 그대와]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84884591</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84884591</guid>
             <pubDate>Mon, 18 Mar 2024 09:13:41 GMT</pubDate>
