@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 00:57:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 01:48:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 21 Mar 2024 09:13:21 GMT</pubDate>
             <content:encoded><![CDATA[Seori]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/750/538/84750538_1711011005425_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Slow It Down]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84897070</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84897070</guid>
+            <pubDate>Fri, 22 Mar 2024 01:48:43 GMT</pubDate>
+            <content:encoded><![CDATA[Benson Boone]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/897/070/84897070_1710814623522_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[DLC]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 21 Mar 2024 03:15:25 GMT</pubDate>
             <content:encoded><![CDATA[구본암]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/903/017/84903017_1710930233608_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Tunnel]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84896743</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84896743</guid>
-            <pubDate>Thu, 21 Mar 2024 03:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[ecru (에크루)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/896/743/84896743_1710809503717_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
