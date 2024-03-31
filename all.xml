@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 14:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 15:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 31 Mar 2024 09:13:06 GMT</pubDate>
             <content:encoded><![CDATA[경서]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/887/619/84887619_1711692748007_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[BABYMONSTER 1st MINI ALBUM ［BABYMONS7ER］ (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84939906</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84939906</guid>
+            <pubDate>Sun, 31 Mar 2024 15:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[BABYMONSTER]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/939/906/84939906_1711679190122_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[3 (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 31 Mar 2024 03:14:53 GMT</pubDate>
             <content:encoded><![CDATA[Baybrick (베이브릭) &amp; LONE (론)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/925/046/84925046_1711677086653_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[그냥 이렇게 살아가 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84928938</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84928938</guid>
-            <pubDate>Sun, 31 Mar 2024 03:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[이상은]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/928/938/84928938_1711612361844_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
