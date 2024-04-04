@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 14:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 15:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 04 Apr 2024 09:13:53 GMT</pubDate>
             <content:encoded><![CDATA[LUCY]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/959/337/84959337_1712135335246_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Fireworks & Rollerblades (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84954534</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84954534</guid>
+            <pubDate>Thu, 04 Apr 2024 15:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[Benson Boone]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/954/534/84954534_1712025988408_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[JAMI (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 04 Apr 2024 03:16:47 GMT</pubDate>
             <content:encoded><![CDATA[김청일]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/954/631/84954631_1712104885577_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[DESSERT (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84915599</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84915599</guid>
-            <pubDate>Thu, 04 Apr 2024 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[이소 (E.SO) &amp; ISHA]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/915/599/84915599_1711613951975_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
