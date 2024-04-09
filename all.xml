@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 01:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 02:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84967076</guid>
             <pubDate>Mon, 08 Apr 2024 09:14:30 GMT</pubDate>
             <content:encoded><![CDATA[온앤오프 (ONF)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/967/076/84967076_1712548815865_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/967/076/84967076_1712627842588_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Vanilla (지니 모바일 ─ 최신음악)]]></title>
