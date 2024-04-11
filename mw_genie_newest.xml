@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 21:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 22:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 11 Apr 2024 09:14:35 GMT</pubDate>
             <content:encoded><![CDATA[헤이즈 (Heize)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/981/225/84981225_1712802500638_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Illusion]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84989584</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84989584</guid>
+            <pubDate>Thu, 11 Apr 2024 22:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[Dua Lipa]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/989/584/84989584_1712745702359_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[MARNI]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 11 Apr 2024 03:14:19 GMT</pubDate>
             <content:encoded><![CDATA[SEMIN (세민) &amp; Wiz-B]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/954/531/84954531_1712622440549_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[계속 계속 계속]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84966719</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84966719</guid>
-            <pubDate>Thu, 11 Apr 2024 03:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[소년:달]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/966/719/84966719_1712798115873_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
