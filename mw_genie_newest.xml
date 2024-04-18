@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 12:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 15:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 18 Apr 2024 09:14:17 GMT</pubDate>
             <content:encoded><![CDATA[RIIZE]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/955/137/84955137_1713428694000_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Imaginary]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85019389</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85019389</guid>
+            <pubDate>Thu, 18 Apr 2024 15:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[HONNE]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/019/389/85019389_1713266791800_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Diminished]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 18 Apr 2024 03:14:26 GMT</pubDate>
             <content:encoded><![CDATA[ROSESIA (로즈시아)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/023/557/85023557_1713339391582_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[유명가수와 길거리 심사단 EP.6]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85017438</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85017438</guid>
-            <pubDate>Thu, 18 Apr 2024 03:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/017/438/85017438_1713343255060_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
