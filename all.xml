@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 03:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 04:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THE TORTURED POETS DEPARTMENT (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85032924</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85032924</guid>
+            <pubDate>Fri, 19 Apr 2024 04:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[Taylor Swift]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/032/924/85032924_1713498290720_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[조이보이 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85022541</link>
@@ -22,6 +30,14 @@
             <pubDate>Thu, 18 Apr 2024 15:14:13 GMT</pubDate>
             <content:encoded><![CDATA[HONNE]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/019/389/85019389_1713266791800_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Magnetic (Remixes) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85026987</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85026987</guid>
+            <pubDate>Fri, 19 Apr 2024 04:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[아일릿 (ILLIT)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/026/987/85026987_1713489977982_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Fly (지니 모바일 ─ 최신음악)]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 19 Apr 2024 03:14:10 GMT</pubDate>
             <content:encoded><![CDATA[2Key &amp; 송좌 (Songjwa) &amp; 247 Blu3]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/023/443/85023443_1713336388372_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[제자리표 Episode1 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85012201</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85012201</guid>
-            <pubDate>Thu, 18 Apr 2024 09:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[솔지]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/012/201/85012201_1713403095804_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Impossible (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84955137</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84955137</guid>
-            <pubDate>Thu, 18 Apr 2024 09:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[RIIZE]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/955/137/84955137_1713428694000_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
