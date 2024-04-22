@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 06:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 07:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/023/027/85023027_1713332560191_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Selena Gomez (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85032315</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85032315</guid>
-            <pubDate>Mon, 22 Apr 2024 03:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[Shane &amp; Rual &amp; yoon]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/032/315/85032315_1713752646927_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[이렇게 우리가 멀어지는 게 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85011990</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85011990</guid>
@@ -166,6 +158,14 @@
             <pubDate>Sun, 21 Apr 2024 09:14:51 GMT</pubDate>
             <content:encoded><![CDATA[정예원 (YEWON) &amp; 109]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/032/348/85032348_1713515929781_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[눈물의 여왕 OST Part.10 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85033562</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85033562</guid>
+            <pubDate>Mon, 22 Apr 2024 07:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[dori]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/033/562/85033562_1713512864932_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
