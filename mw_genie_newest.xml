@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Apr 2024 14:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 15:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 28 Apr 2024 09:12:46 GMT</pubDate>
             <content:encoded><![CDATA[김사월]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/048/793/85048793_1714109214365_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[RIIZING]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=84955137</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=84955137</guid>
+            <pubDate>Sun, 28 Apr 2024 15:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[RIIZE]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/955/137/84955137_1714315928671_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[길에서]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 28 Apr 2024 03:15:21 GMT</pubDate>
             <content:encoded><![CDATA[로버스 (Rovers)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/073/379/85073379_1714107164049_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Mint Green]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85049660</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85049660</guid>
-            <pubDate>Sun, 28 Apr 2024 03:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[Kiik &amp; 신기원 (ShinGiWon)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/049/660/85049660_1714099990032_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
