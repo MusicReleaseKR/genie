@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 03:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 04:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/033/625/85033625_1713507098443_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[Pinnacle (Remixes) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85095773</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85095773</guid>
+            <pubDate>Thu, 02 May 2024 04:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[4URA &amp; PhiloSofie]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/095/773/85095773_1714458413409_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[평범해 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85092330</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85092330</guid>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 May 2024 03:15:18 GMT</pubDate>
             <content:encoded><![CDATA[어진별]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/090/616/85090616_1714609095162_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[천국과 지옥 사이 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85090008</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85090008</guid>
-            <pubDate>Wed, 01 May 2024 09:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[백지영]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/090/008/85090008_1714447605840_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
