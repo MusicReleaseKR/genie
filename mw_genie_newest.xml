@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 14:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 15:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 02 May 2024 09:14:20 GMT</pubDate>
             <content:encoded><![CDATA[현아]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/023/351/85023351_1714611307315_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Radical Optimism]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85100608</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85100608</guid>
+            <pubDate>Thu, 02 May 2024 15:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[Dua Lipa]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/100/608/85100608_1714538213013_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[오랜만이야]]></title>
@@ -40,20 +48,20 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/068/333/85068333_1714039889217_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[If this is love, I want a refund]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85104852</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85104852</guid>
-            <pubDate>Thu, 02 May 2024 09:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[KINO]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/104/852/85104852_1714625483078_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[EVERLASTING]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85075649</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85075649</guid>
             <pubDate>Thu, 02 May 2024 09:14:20 GMT</pubDate>
             <content:encoded><![CDATA[엘라스트 (E'LAST)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/075/649/85075649_1714466013589_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[If this is love, I want a refund]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85104852</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85104852</guid>
+            <pubDate>Thu, 02 May 2024 09:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[KINO]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/104/852/85104852_1714625483078_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[종로에서]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 May 2024 03:15:18 GMT</pubDate>
             <content:encoded><![CDATA[이루리]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/073/574/85073574_1714609078276_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[52]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85095779</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85095779</guid>
-            <pubDate>Thu, 02 May 2024 03:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[예빛]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/095/779/85095779_1714458691467_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
