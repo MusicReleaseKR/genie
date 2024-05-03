@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 03:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 04:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,11 +56,19 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/053/988/85053988_1714635682731_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[MAESTRO (Orchestra Remix) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85106251</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85106251</guid>
+            <pubDate>Fri, 03 May 2024 04:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴 (SEVENTEEN)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/106/251/85106251_1714632489347_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[Midnight Sun (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85102680</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85102680</guid>
             <pubDate>Fri, 03 May 2024 03:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[Moon (혜원) &amp; Tsuyoshi Yamamoto]]></content:encoded>
+            <content:encoded><![CDATA[Moon haewon &amp; Tsuyoshi Yamamoto]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/102/680/85102680_1714567308286_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
@@ -102,6 +110,14 @@
             <pubDate>Fri, 03 May 2024 03:15:41 GMT</pubDate>
             <content:encoded><![CDATA[Cielo]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/095/897/85095897_1714631041159_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[psyche : red (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85106458</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85106458</guid>
+            <pubDate>Fri, 03 May 2024 04:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[DPR CREAM]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/106/458/85106458_1714636294747_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Your Bag (지니 모바일 ─ 최신음악)]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 02 May 2024 09:14:20 GMT</pubDate>
             <content:encoded><![CDATA[현아]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/023/351/85023351_1714611307315_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[오랜만이야 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85095693</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85095693</guid>
-            <pubDate>Thu, 02 May 2024 09:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[최유리]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/095/693/85095693_1714456344194_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[편지 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85091429</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85091429</guid>
-            <pubDate>Thu, 02 May 2024 09:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[백아]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/091/429/85091429_1714375888637_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
