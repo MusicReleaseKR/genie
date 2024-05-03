@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 06:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 07:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,7 +68,7 @@
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85102680</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85102680</guid>
             <pubDate>Fri, 03 May 2024 03:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[Moon haewon &amp; Tsuyoshi Yamamoto]]></content:encoded>
+            <content:encoded><![CDATA[Moon (혜원) &amp; Tsuyoshi Yamamoto]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/102/680/85102680_1714567308286_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
