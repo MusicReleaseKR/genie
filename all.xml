@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 08:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 09:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아직 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85141956</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85141956</guid>
+            <pubDate>Fri, 10 May 2024 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[Gist]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/141/956/85141956_1715226483661_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Come back to me (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85148272</link>
@@ -22,6 +30,78 @@
             <pubDate>Fri, 10 May 2024 04:16:41 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/148/189/85148189_1715308957423_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Champagne (샴페인) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85143714</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85143714</guid>
+            <pubDate>Fri, 10 May 2024 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[한해]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/143/714/85143714_1715238091047_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[수사반장 1958 OST Part.4 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85142118</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85142118</guid>
+            <pubDate>Fri, 10 May 2024 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[이승열]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/142/118/85142118_1715304790709_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[괴물이 피는 숲 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85138834</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85138834</guid>
+            <pubDate>Fri, 10 May 2024 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[Miiro (미로)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/138/834/85138834_1715245153064_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[모르는 번호 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85111140</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85111140</guid>
+            <pubDate>Fri, 10 May 2024 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[백예슬]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/111/140/85111140_1715304845700_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[그래도 행복했었다 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85142479</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85142479</guid>
+            <pubDate>Fri, 10 May 2024 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[정창룡]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/142/479/85142479_1715245475533_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[No words (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85136100</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85136100</guid>
+            <pubDate>Fri, 10 May 2024 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[벤자민 (Benzamin)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/136/100/85136100_1715127550174_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[말도 없이 떠나가 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85142504</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85142504</guid>
+            <pubDate>Fri, 10 May 2024 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[란 (Ran)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/142/504/85142504_1715301854163_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[MAKE MATE1, PART1 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85143894</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85143894</guid>
+            <pubDate>Fri, 10 May 2024 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[MA1]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/143/894/85143894_1715239603755_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[eemm (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85128794</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85128794</guid>
+            <pubDate>Fri, 10 May 2024 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[H:SEAN]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/128/794/85128794_1715242450611_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Zane Vol.1 (지니 모바일 ─ 최신음악)]]></title>
@@ -86,86 +166,6 @@
             <pubDate>Fri, 10 May 2024 03:14:58 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/143/835/85143835_1715239291167_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[고백을 못하고 OST Part.3 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85145044</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85145044</guid>
-            <pubDate>Fri, 10 May 2024 03:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[건치]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/145/044/85145044_1715304273911_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[May (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85129953</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85129953</guid>
-            <pubDate>Fri, 10 May 2024 03:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[GRAYCODE]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/129/953/85129953_1715240845456_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Alone (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85128542</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85128542</guid>
-            <pubDate>Fri, 10 May 2024 03:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[차니]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/128/542/85128542_1715240685320_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Poem of the Ocean (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85111273</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85111273</guid>
-            <pubDate>Fri, 10 May 2024 03:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[지민도로시 (Jimindorothy)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/111/273/85111273_1715306090384_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Only melody remains (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85106180</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85106180</guid>
-            <pubDate>Fri, 10 May 2024 03:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[최보통]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/106/180/85106180_1715245317577_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[ICE COLD (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85130383</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85130383</guid>
-            <pubDate>Fri, 10 May 2024 03:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[VIN:O (빈오)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/130/383/85130383_1715130962349_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Bad vibe love (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85112668</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85112668</guid>
-            <pubDate>Fri, 10 May 2024 03:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[한철]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/112/668/85112668_1715240317944_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃가마 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85142243</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85142243</guid>
-            <pubDate>Fri, 10 May 2024 03:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[손헌수]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/142/243/85142243_1715301859768_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[아이스크림 먹으러 갈래? (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85141872</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85141872</guid>
-            <pubDate>Fri, 10 May 2024 03:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[이아레]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/141/872/85141872_1715216504581_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[EXHIBITION : Look Closely (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85136217</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85136217</guid>
-            <pubDate>Thu, 09 May 2024 09:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[육성재 (비투비)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/136/217/85136217_1715217041344_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
