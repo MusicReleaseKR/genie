@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 03:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 04:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 16 May 2024 03:17:52 GMT</pubDate>
             <content:encoded><![CDATA[음율]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/165/074/85165074_1715595563599_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Homesick (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85171200</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85171200</guid>
+            <pubDate>Thu, 16 May 2024 04:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[YUNGIN &amp; Paul Blanco &amp; 창모 (CHANGMO)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/171/200/85171200_1715669758885_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[모순덩어리 (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 16 May 2024 03:17:52 GMT</pubDate>
             <content:encoded><![CDATA[한가빈]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/170/628/85170628_1715646133407_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[빛을 담아 너에게 줄게 Part. 2 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85130021</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85130021</guid>
-            <pubDate>Wed, 15 May 2024 09:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[더윈드 (The Wind)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/130/021/85130021_1715645492899_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
