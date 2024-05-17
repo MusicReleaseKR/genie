@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 06:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 07:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85144768</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85144768</guid>
             <pubDate>Fri, 17 May 2024 03:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[SURAN(수란) &amp; Ares Carter]]></content:encoded>
+            <content:encoded><![CDATA[SURAN (수란) &amp; Ares Carter]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/144/768/85144768_1715595972872_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
