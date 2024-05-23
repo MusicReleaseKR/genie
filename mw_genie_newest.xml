@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 01:01:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 02:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/202/994/85202994_1716284913519_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[leaked]]></title>
+            <title><![CDATA[Leaked]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85203165</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85203165</guid>
             <pubDate>Wed, 22 May 2024 09:16:33 GMT</pubDate>
