@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 14:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 15:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 23 May 2024 09:16:26 GMT</pubDate>
             <content:encoded><![CDATA[수진]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/203/068/85203068_1716365678030_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Hero]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85204326</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85204326</guid>
+            <pubDate>Thu, 23 May 2024 15:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[Charlie Puth]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/204/326/85204326_1716279696265_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[ERROR 405]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 May 2024 03:15:39 GMT</pubDate>
             <content:encoded><![CDATA[HOON.J]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/203/747/85203747_1716362176135_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈의 목격]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85066272</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85066272</guid>
-            <pubDate>Thu, 23 May 2024 03:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[량유]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/066/272/85066272_1716432470733_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
