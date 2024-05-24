@@ -4,9 +4,25 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 03:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 04:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Right Place, Wrong Person]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85213454</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85213454</guid>
+            <pubDate>Fri, 24 May 2024 04:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[RM]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/213/454/85213454_1716451636355_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[How Sweet]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85075275</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85075275</guid>
+            <pubDate>Fri, 24 May 2024 04:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/075/275/85075275_1716515409009_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[LOST]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85197397</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 23 May 2024 09:16:26 GMT</pubDate>
             <content:encoded><![CDATA[수진]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/203/068/85203068_1716365678030_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[ERROR 405]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85209612</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85209612</guid>
-            <pubDate>Thu, 23 May 2024 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[JD1]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/209/612/85209612_1716360990549_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Ashes]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85203421</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85203421</guid>
-            <pubDate>Thu, 23 May 2024 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[Zior Park]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/203/421/85203421_1716339857095_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
