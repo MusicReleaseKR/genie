@@ -4,9 +4,33 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 03:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 04:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GOLDEN HOUR : Part.1]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85164980</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85164980</guid>
+            <pubDate>Fri, 31 May 2024 04:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[ATEEZ (에이티즈)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/164/980/85164980_1716959750200_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Houdini]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85249358</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85249358</guid>
+            <pubDate>Fri, 31 May 2024 04:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[Eminem]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/249/358/85249358_1717127048824_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[＜Dall＞]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85246475</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85246475</guid>
+            <pubDate>Fri, 31 May 2024 04:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[ARTMS]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/246/475/85246475_1717057068638_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Only You]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85239910</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 31 May 2024 03:16:06 GMT</pubDate>
             <content:encoded><![CDATA[Pasannabe (파사나베)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/242/121/85242121_1717058497486_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[BLEND]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85239478</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85239478</guid>
-            <pubDate>Thu, 30 May 2024 09:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[Way Ched (웨이체드)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/239/478/85239478_1716970243526_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[BLUE]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85218357</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85218357</guid>
-            <pubDate>Thu, 30 May 2024 09:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[밍턴 (Mingturn)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/218/357/85218357_1716865904021_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[시간의 잔상 (웹툰 '선녀외전' X 원필 (DAY6))]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85235433</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85235433</guid>
-            <pubDate>Thu, 30 May 2024 09:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[원필 (DAY6)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/235/433/85235433_1716867088518_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
