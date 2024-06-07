@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 03:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 04:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Never Let Go (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85280056</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85280056</guid>
+            <pubDate>Fri, 07 Jun 2024 04:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[정국]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/280/056/85280056_1717723912627_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[나는 대놓고 신데렐라를 꿈꾼다 OST Part 2 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85260742</link>
@@ -14,6 +22,14 @@
             <pubDate>Fri, 07 Jun 2024 03:17:52 GMT</pubDate>
             <content:encoded><![CDATA[SOOVI]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/260/742/85260742_1717464125590_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[SAINT (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85270491</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85270491</guid>
+            <pubDate>Fri, 07 Jun 2024 04:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[DPR IAN]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/270/491/85270491_1717554433191_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[I Hear You (지니 모바일 ─ 최신음악)]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 06 Jun 2024 09:16:59 GMT</pubDate>
             <content:encoded><![CDATA[Gist]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/264/843/85264843_1717554988994_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[LUXUS (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85198479</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85198479</guid>
-            <pubDate>Thu, 06 Jun 2024 09:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[빈첸]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/198/479/85198479_1717662739624_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[First Love (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85270664</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85270664</guid>
-            <pubDate>Thu, 06 Jun 2024 09:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[한요한]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/270/664/85270664_1717556824033_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
