@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 03:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 04:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 10 Jun 2024 03:16:25 GMT</pubDate>
             <content:encoded><![CDATA[GRACE SHIN (그레이스 신)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/265/369/85265369_1717496204352_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Me No More (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85291352</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85291352</guid>
+            <pubDate>Mon, 10 Jun 2024 04:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[YUNGIN &amp; SINCE &amp; sokodomo]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/291/352/85291352_1717982458281_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[털어버리자 (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 09 Jun 2024 09:15:35 GMT</pubDate>
             <content:encoded><![CDATA[헨 (HEN)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/266/061/85266061_1717573246128_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[사자는 치즈가 된 거야 (The lion that became cheese) (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85265588</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85265588</guid>
-            <pubDate>Sun, 09 Jun 2024 09:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[유라 (youra) &amp; 만동 (Mandong)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/265/588/85265588_1717571036604_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
