@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 01:05:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 02:32:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -101,7 +101,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85265850</guid>
             <pubDate>Sun, 09 Jun 2024 03:16:32 GMT</pubDate>
             <content:encoded><![CDATA[이츠]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/265/850/85265850_1717563151620_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/265/850/85265850_1717986116459_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA['hello i'm lofi' vol.3 (지니 모바일 ─ 최신음악)]]></title>
