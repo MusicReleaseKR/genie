@@ -4,16 +4,16 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 03:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 04:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 '어쩌면 해피엔딩' 2024]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85295969</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85295969</guid>
-            <pubDate>Wed, 12 Jun 2024 03:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[홍지희 &amp; 박진주 &amp; 장민제 &amp; 정욱진 &amp; 윤은오 &amp; 신재범 &amp; 이시안 &amp; 최호중]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/295/969/85295969_1718096728399_1_200x200.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[WORK Pt.3 - ATEEZ X Eden-ary]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85280680</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85280680</guid>
+            <pubDate>Wed, 12 Jun 2024 04:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[ATEEZ (에이티즈)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/280/680/85280680_1718071729029_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[그래도 여전히]]></title>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 12 Jun 2024 03:16:39 GMT</pubDate>
             <content:encoded><![CDATA[양반들 (Yangbans)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/270/553/85270553_1718069107150_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 '어쩌면 해피엔딩' 2024]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85295969</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85295969</guid>
+            <pubDate>Wed, 12 Jun 2024 03:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[홍지희 &amp; 박진주 &amp; 장민제 &amp; 정욱진 &amp; 윤은오 &amp; 신재범 &amp; 이시안 &amp; 최호중]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/295/969/85295969_1718096728399_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[＜걸스 온 파이어＞ Episode.2]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 11 Jun 2024 09:17:11 GMT</pubDate>
             <content:encoded><![CDATA[Way Ched (웨이체드)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/239/478/85239478_1716970243526_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[I AM U]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85291371</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85291371</guid>
-            <pubDate>Tue, 11 Jun 2024 09:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[김재중]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/291/371/85291371_1717993933113_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
