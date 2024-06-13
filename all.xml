@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 01:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 02:30:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -165,7 +165,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85295969</guid>
             <pubDate>Wed, 12 Jun 2024 03:16:39 GMT</pubDate>
             <content:encoded><![CDATA[홍지희 &amp; 박진주 &amp; 장민제 &amp; 정욱진 &amp; 윤은오 &amp; 신재범 &amp; 이시안 &amp; 최호중]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/295/969/85295969_1718096728399_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/295/969/85295969_1718245778318_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
