@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 04:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 05:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 14 Jun 2024 04:17:38 GMT</pubDate>
             <content:encoded><![CDATA[나연 (TWICE)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/308/727/85308727_1718269481652_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[STEP]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85296745</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85296745</guid>
+            <pubDate>Fri, 14 Jun 2024 05:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[레이 (LAY)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/296/745/85296745_1718088103474_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Over]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 14 Jun 2024 03:16:21 GMT</pubDate>
             <content:encoded><![CDATA[sannie (산희)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/295/578/85295578_1718242172023_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[나 어떡해〈산울림 50주년 기념 프로젝트〉]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85270342</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85270342</guid>
-            <pubDate>Thu, 13 Jun 2024 09:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[터치드 (TOUCHED)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/270/342/85270342_1718241860477_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
