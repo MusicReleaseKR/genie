@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 14:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 15:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/355/615/85355615_1719279227382_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[LET'S GET STARTED]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85356267</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85356267</guid>
+            <pubDate>Tue, 25 Jun 2024 09:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[유키스]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/356/267/85356267_1719282422924_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[''L'']]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85328203</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85328203</guid>
@@ -40,12 +48,12 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/328/203/85328203_1718691691178_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[LET'S GET STARTED]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85356267</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85356267</guid>
-            <pubDate>Tue, 25 Jun 2024 09:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[유키스]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/356/267/85356267_1719282422924_1_200x200.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[20]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85353451</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85353451</guid>
+            <pubDate>Tue, 25 Jun 2024 15:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[챤미나 (CHANMINA) &amp; ASH ISLAND]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/353/451/85353451_1719134188938_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Archiive]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Jun 2024 03:16:47 GMT</pubDate>
             <content:encoded><![CDATA[댓츠 캐주얼 (That's Casual)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/858/898/84858898_1719283814182_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[유일한 무기를 찾아서]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85338045</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85338045</guid>
-            <pubDate>Tue, 25 Jun 2024 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[규리]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/338/045/85338045_1718945417065_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
