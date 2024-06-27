@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 09:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 10:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,23 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85363358</guid>
             <pubDate>Thu, 27 Jun 2024 09:16:04 GMT</pubDate>
             <content:encoded><![CDATA[임영민]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/363/358/85363358_1719451327490_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/363/358/85363358_1719480591949_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 월간 윤종신 6월호]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85363636</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85363636</guid>
+            <pubDate>Thu, 27 Jun 2024 10:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[윤종신]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/363/636/85363636_1719391880705_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[BLANK]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85356790</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85356790</guid>
+            <pubDate>Thu, 27 Jun 2024 10:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[ROCKY]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/356/790/85356790_1719456177407_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[HEFFY]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 27 Jun 2024 03:16:55 GMT</pubDate>
             <content:encoded><![CDATA[타미즈 (Tamiz)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/338/064/85338064_1719400414551_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[하던 대로 실수]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85358996</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85358996</guid>
-            <pubDate>Thu, 27 Jun 2024 03:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[처리 (Churry)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/358/996/85358996_1719297310350_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[노란 꽃]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85341531</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85341531</guid>
-            <pubDate>Thu, 27 Jun 2024 03:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[정새벽]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/341/531/85341531_1719365537307_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
