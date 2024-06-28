@@ -4,9 +4,17 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 03:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 04:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Smeraldo Garden Marching Band]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85369364</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85369364</guid>
+            <pubDate>Fri, 28 Jun 2024 04:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[지민 &amp; 로꼬]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/369/364/85369364_1719535313513_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Rockstar]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85331936</link>
@@ -38,6 +46,14 @@
             <pubDate>Fri, 28 Jun 2024 03:17:31 GMT</pubDate>
             <content:encoded><![CDATA[Imagine Dragons]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/364/061/85364061_1719382905070_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Debut]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85369380</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85369380</guid>
+            <pubDate>Fri, 28 Jun 2024 04:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[KATSEYE]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/369/380/85369380_1719535601143_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Free Hukky Shibaseki & the God Sun Symphony Group : Odyssey.1]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 28 Jun 2024 03:17:31 GMT</pubDate>
             <content:encoded><![CDATA[seoseo (서서)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/359/273/85359273_1719365529713_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[UNBALANCE]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85363353</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85363353</guid>
-            <pubDate>Thu, 27 Jun 2024 09:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[콰이 (KWAII)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/363/353/85363353_1719392323343_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[BURN IT]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85364155</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85364155</guid>
-            <pubDate>Thu, 27 Jun 2024 09:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[FTISLAND (FT아일랜드)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/364/155/85364155_1719384996584_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
