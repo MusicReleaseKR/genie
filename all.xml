@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 23:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 01:04:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rockstar (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85331936</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85331936</guid>
+            <pubDate>Fri, 28 Jun 2024 01:04:25 GMT</pubDate>
+            <content:encoded><![CDATA[리사 (LISA)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/331/936/85331936_1719298589070_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[UNBALANCE (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85363353</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Jun 2024 03:16:55 GMT</pubDate>
             <content:encoded><![CDATA[Anonymous Artists (어나니머스 아티스트)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/363/610/85363610_1719391884700_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[인공위성 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85338064</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85338064</guid>
-            <pubDate>Thu, 27 Jun 2024 03:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[타미즈 (Tamiz)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/338/064/85338064_1719400414551_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
