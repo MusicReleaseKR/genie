@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jun 2024 14:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jun 2024 15:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FOREVER (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85369407</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85369407</guid>
+            <pubDate>Sun, 30 Jun 2024 15:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[BABYMONSTER]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/369/407/85369407_1719535902305_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Sticky (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85369841</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85369841</guid>
+            <pubDate>Sun, 30 Jun 2024 15:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[KISS OF LIFE]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/369/841/85369841_1719542210893_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Go Shawty (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85366150</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 30 Jun 2024 03:18:21 GMT</pubDate>
             <content:encoded><![CDATA[김세헌]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/369/566/85369566_1719538073743_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[［toasterz : pilot episode］ (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85359699</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85359699</guid>
-            <pubDate>Sun, 30 Jun 2024 03:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[토스터즈]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/359/699/85359699_1719544428162_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[아직도 널 (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85366217</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85366217</guid>
-            <pubDate>Sun, 30 Jun 2024 03:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[Opius]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/366/217/85366217_1719553027414_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
