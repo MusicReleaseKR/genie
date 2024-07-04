@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 14:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 15:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 04 Jul 2024 09:17:17 GMT</pubDate>
             <content:encoded><![CDATA[이상순]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/385/389/85385389_1719989815003_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Lucky Color (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85380729</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85380729</guid>
+            <pubDate>Thu, 04 Jul 2024 15:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[aimyon]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/380/729/85380729_1719912432002_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[영원속에서 (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 04 Jul 2024 03:18:03 GMT</pubDate>
             <content:encoded><![CDATA[조소현]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/377/366/85377366_1719976265781_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[LAST LOVE (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85379489</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85379489</guid>
-            <pubDate>Thu, 04 Jul 2024 03:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[아이닐 (AINILL)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/379/489/85379489_1719991338569_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
