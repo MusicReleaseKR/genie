@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jul 2024 03:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 04:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 05 Jul 2024 03:16:21 GMT</pubDate>
             <content:encoded><![CDATA[J.Fla]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/364/241/85364241_1720077665032_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[DECISIONS]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85379567</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85379567</guid>
+            <pubDate>Fri, 05 Jul 2024 03:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[싸이코드]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/379/567/85379567_1719882997659_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[RBW POP-UP Vol.2]]></title>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 05 Jul 2024 03:16:21 GMT</pubDate>
             <content:encoded><![CDATA[최기덕 (9duck)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/384/945/85384945_1719986499960_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[DECISIONS]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85379567</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85379567</guid>
-            <pubDate>Fri, 05 Jul 2024 03:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[싸이코드]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/379/567/85379567_1719882997659_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[미스쓰리랑 베스트 PART10]]></title>
