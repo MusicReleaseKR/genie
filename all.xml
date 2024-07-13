@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jul 2024 03:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2024 04:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -117,7 +117,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85399323</guid>
             <pubDate>Sat, 13 Jul 2024 03:15:46 GMT</pubDate>
             <content:encoded><![CDATA[whish]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/399/323/85399323_1720491837888_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://image.genie.co.kr/imageg/mobile_web/common/default_img.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아홀로틀 Vol. 6 (지니 모바일 ─ 최신음악)]]></title>
@@ -141,7 +141,7 @@
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85394973</guid>
             <pubDate>Sat, 13 Jul 2024 03:15:46 GMT</pubDate>
             <content:encoded><![CDATA[한세긴]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/394/973/85394973_1720433768234_1_200x200.JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://image.genie.co.kr/imageg/mobile_web/common/default_img.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[ROMANCE : UNTOLD (지니 모바일 ─ 최신음악)]]></title>
