@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 03:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 04:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 16 Jul 2024 03:19:54 GMT</pubDate>
             <content:encoded><![CDATA[WOOAH (우아)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/412/340/85412340_1720771088862_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[XO (Only If You Say Yes) (Remixes)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85423884</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85423884</guid>
+            <pubDate>Tue, 16 Jul 2024 04:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/423/884/85423884_1721094467848_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[HELLO SUMMER]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 15 Jul 2024 09:17:23 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/399/658/85399658_1721010212243_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[MY TYPE]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85423091</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85423091</guid>
-            <pubDate>Mon, 15 Jul 2024 09:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[이승훈]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/423/091/85423091_1721005300100_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
