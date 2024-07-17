@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 05:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 06:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/423/557/85423557_1721020289016_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[Lemonade]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85407165</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85407165</guid>
+            <pubDate>Wed, 17 Jul 2024 06:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[JINex (지넥스)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/407/165/85407165_1721110433469_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[Decode]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85427140</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85427140</guid>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 17 Jul 2024 03:17:55 GMT</pubDate>
             <content:encoded><![CDATA[Favy]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/413/400/85413400_1721091958595_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[FLAT COKE]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85407754</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85407754</guid>
-            <pubDate>Tue, 16 Jul 2024 09:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[pH-1]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/407/754/85407754_1721094741928_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
