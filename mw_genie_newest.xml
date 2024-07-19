@@ -4,9 +4,25 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 03:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 04:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MUSE]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85369364</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85369364</guid>
+            <pubDate>Fri, 19 Jul 2024 04:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[지민]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/369/364/85369364_1719535313513_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[ATE]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85436296</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85436296</guid>
+            <pubDate>Fri, 19 Jul 2024 04:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/436/296/85436296_1721353547841_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[치팅데이]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85431155</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 18 Jul 2024 09:15:59 GMT</pubDate>
             <content:encoded><![CDATA[406호 프로젝트]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/423/556/85423556_1721028840764_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[어떤 무엇도 아닌]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85431094</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85431094</guid>
-            <pubDate>Thu, 18 Jul 2024 09:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[정준일]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/431/094/85431094_1721268751175_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[MINISERIES 2]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85431676</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85431676</guid>
-            <pubDate>Thu, 18 Jul 2024 09:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[SUMIN (수민) &amp; Slom]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/431/676/85431676_1721201844574_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
