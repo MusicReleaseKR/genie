@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 04:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 05:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 22 Jul 2024 03:18:03 GMT</pubDate>
             <content:encoded><![CDATA[하동균]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/438/129/85438129_1721375209857_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[에픽세븐 OST 'VOYAGE TO VICTORY' (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85436281</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85436281</guid>
-            <pubDate>Mon, 22 Jul 2024 04:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[Raon]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/436/281/85436281_1721359543075_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Chk Chk Boom (Remixes) (지니 모바일 ─ 최신음악)]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 22 Jul 2024 03:18:03 GMT</pubDate>
             <content:encoded><![CDATA[천소아]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/423/821/85423821_1721290334849_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[밝게 웃으며, 그대가 운다 (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85438476</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85438476</guid>
+            <pubDate>Mon, 22 Jul 2024 05:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[이한]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/438/476/85438476_1721608974947_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
