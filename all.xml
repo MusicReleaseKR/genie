@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 14:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 15:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Tue, 23 Jul 2024 09:16:48 GMT</pubDate>
             <content:encoded><![CDATA[VINNY &amp; Heon Seo (헌서)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/439/356/85439356_1721378809950_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[RISE UP (English & Korean Ver.) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85390234</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85390234</guid>
+            <pubDate>Tue, 23 Jul 2024 15:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[NiziU (니쥬)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/390/234/85390234_1720148096297_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[잠이 덜 깬 하늘 (지니 모바일 ─ 최신음악)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 23 Jul 2024 03:18:52 GMT</pubDate>
             <content:encoded><![CDATA[RIOT KIDZ (라이엇키즈)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/432/171/85432171_1721205733496_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Wake Up (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85432015</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85432015</guid>
-            <pubDate>Tue, 23 Jul 2024 03:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[New Link]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/432/015/85432015_1721365646867_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
