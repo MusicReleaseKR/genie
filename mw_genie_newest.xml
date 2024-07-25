@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 14:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 15:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 25 Jul 2024 09:17:09 GMT</pubDate>
             <content:encoded><![CDATA[KOKOON (코쿤)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/449/422/85449422_1721725994546_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Illusion (Creepy Nuts Remix)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85454228</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85454228</guid>
+            <pubDate>Thu, 25 Jul 2024 15:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[Dua Lipa]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/454/228/85454228_1721810800564_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[ON FIRE]]></title>
@@ -56,12 +64,12 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/454/071/85454071_1721806003274_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[SILHOUETTE]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85449471</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85449471</guid>
-            <pubDate>Thu, 25 Jul 2024 09:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[OoOo (오넷)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/449/471/85449471_1721814733845_1_200x200.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[Time Capsule]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85449490</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85449490</guid>
+            <pubDate>Thu, 25 Jul 2024 15:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[Anthony Lazaro &amp; Milena (밀레나)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/449/490/85449490_1721784706680_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[메이플스토리M OST : Erel Light]]></title>
@@ -78,6 +86,14 @@
             <pubDate>Thu, 25 Jul 2024 09:17:09 GMT</pubDate>
             <content:encoded><![CDATA[정창룡]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/453/910/85453910_1721807929772_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[SILHOUETTE]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85449471</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85449471</guid>
+            <pubDate>Thu, 25 Jul 2024 09:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[OoOo (오넷)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/449/471/85449471_1721814733845_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Illegal Music Vol.1]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 25 Jul 2024 03:17:19 GMT</pubDate>
             <content:encoded><![CDATA[한경일]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/436/096/85436096_1721872140550_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[PADO]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85449498</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85449498</guid>
-            <pubDate>Thu, 25 Jul 2024 03:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[Kohway]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/449/498/85449498_1721714491942_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[BLUR]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85449448</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85449448</guid>
-            <pubDate>Thu, 25 Jul 2024 03:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[니즈 (NIIZ)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/449/448/85449448_1721814737330_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
