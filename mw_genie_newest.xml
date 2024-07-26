@@ -4,7 +4,7 @@
         <title>지니 모바일 ─ 최신음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 03:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 04:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,20 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/459/309/85459309_1721906188515_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Illusion (Creepy Nuts Remix)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85454228</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85454228</guid>
-            <pubDate>Thu, 25 Jul 2024 15:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[Dua Lipa]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/454/228/85454228_1721810800564_1_200x200.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[dummy]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85458348</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85458348</guid>
+            <pubDate>Fri, 26 Jul 2024 04:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[ARrC (아크)]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/458/348/85458348_1721902298212_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Touch]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85461350</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85461350</guid>
+            <pubDate>Fri, 26 Jul 2024 04:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[KATSEYE]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/461/350/85461350_1721954793101_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[나의 전부 나만의 사랑]]></title>
@@ -38,6 +46,14 @@
             <pubDate>Fri, 26 Jul 2024 03:17:32 GMT</pubDate>
             <content:encoded><![CDATA[에스프레소]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/449/529/85449529_1721725990708_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Illusion (Creepy Nuts Remix)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85454228</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85454228</guid>
+            <pubDate>Thu, 25 Jul 2024 15:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[Dua Lipa]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/454/228/85454228_1721810800564_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[여름밤]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 26 Jul 2024 03:17:32 GMT</pubDate>
             <content:encoded><![CDATA[임정찬]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/439/216/85439216_1721374593193_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[You Look So Cool]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85452905</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85452905</guid>
-            <pubDate>Thu, 25 Jul 2024 09:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[SeungChul]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/452/905/85452905_1721866756840_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Dance Now]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85449422</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85449422</guid>
-            <pubDate>Thu, 25 Jul 2024 09:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[KOKOON (코쿤)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/449/422/85449422_1721725994546_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
