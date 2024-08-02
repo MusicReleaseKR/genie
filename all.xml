@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Aug 2024 03:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 04:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/475/620/85475620_1722561747147_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[Ice Cream (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85483029</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85483029</guid>
+            <pubDate>Fri, 02 Aug 2024 04:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[전소미]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/483/029/85483029_1722562319428_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[Guess featuring Billie Eilish (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85482191</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85482191</guid>
@@ -38,6 +46,14 @@
             <pubDate>Fri, 02 Aug 2024 03:18:27 GMT</pubDate>
             <content:encoded><![CDATA[J.Fla]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/468/428/85468428_1722475447171_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Be Mine (English Ver.) (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85483040</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85483040</guid>
+            <pubDate>Fri, 02 Aug 2024 04:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[지민]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/483/040/85483040_1722562597828_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Let's fall in LOVE (지니 모바일 ─ 최신음악)]]></title>
@@ -112,6 +128,14 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/476/085/85476085_1722561134935_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[WOW (지니 모바일 ─ 최신음악)]]></title>
+            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85479240</link>
+            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85479240</guid>
+            <pubDate>Fri, 02 Aug 2024 04:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[JUNTARO]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/479/240/85479240_1722493625831_1_200x200.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[몽글몽글해요 (지니 모바일 ─ 최신음악)]]></title>
             <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85468557</link>
             <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85468557</guid>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 02 Aug 2024 03:18:27 GMT</pubDate>
             <content:encoded><![CDATA[황지영 (Jiyoung Hwang)]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/467/949/85467949_1722483272057_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[저 멀리 (Far Away) (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85471435</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85471435</guid>
-            <pubDate>Fri, 02 Aug 2024 03:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[WonO]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/471/435/85471435_1722483293128_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Delphinium (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85435876</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85435876</guid>
-            <pubDate>Thu, 01 Aug 2024 09:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[Royal 44]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/435/876/85435876_1722338330533_1_200x200.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Cosmic (지니 모바일 ─ 최신음악)]]></title>
-            <link>http://mw.genie.co.kr/detail/albumInfo?axnm=85475983</link>
-            <guid>http://mw.genie.co.kr/detail/albumInfo?axnm=85475983</guid>
-            <pubDate>Thu, 01 Aug 2024 09:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[Red Velvet (레드벨벳)]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/475/983/85475983_1722410793546_1_200x200.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
